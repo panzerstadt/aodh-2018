@@ -1,0 +1,1974 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sun Jun 24 11:18:19 +0000 2018",
+            "id": 1010844565257912321,
+            "id_str": "1010844565257912321",
+            "text": "【100RT】「もうやめないか」　松本人志、死亡女児の実名報道・告別式取材に「非常に不愉快」\n#マスコミ #ワイドナショー #大阪北部地震 #実名報道 #松本人志  https://t.co/pXimFH29ZY",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "マスコミ",
+                        "indices": [
+                            47,
+                            52
+                        ]
+                    },
+                    {
+                        "text": "ワイドナショー",
+                        "indices": [
+                            53,
+                            61
+                        ]
+                    },
+                    {
+                        "text": "大阪北部地震",
+                        "indices": [
+                            62,
+                            69
+                        ]
+                    },
+                    {
+                        "text": "実名報道",
+                        "indices": [
+                            70,
+                            75
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            76,
+                            81
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pXimFH29ZY",
+                        "expanded_url": "https://www.j-cast.com/2018/06/24332087.html",
+                        "display_url": "j-cast.com/2018/06/243320…",
+                        "indices": [
+                            83,
+                            106
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "popular",
+                "iso_language_code": "ja"
+            },
+            "source": "<a href=\"http://www.j-cast.com/\" rel=\"nofollow\">JcastNewsBot</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 23735327,
+                "id_str": "23735327",
+                "name": "J-CASTニュース",
+                "screen_name": "jcast_news",
+                "location": "東京 千代田区",
+                "description": "2006年創刊。日本最大級の独立系総合ニュースサイトです。 政治からアイドル、経済からネットネタまで、幅広く配信中。\n（※当アカウントの投稿、RTは必ずしも媒体としての意見表明、賛意を表すものとは限りません。 また、リプライなどで取材依頼をお送りする場合がございます。ご了承ください）",
+                "url": "https://t.co/TGrsu5yKro",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TGrsu5yKro",
+                                "expanded_url": "http://www.j-cast.com/",
+                                "display_url": "j-cast.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 142220,
+                "friends_count": 1156,
+                "listed_count": 7362,
+                "created_at": "Wed Mar 11 07:32:54 +0000 2009",
+                "favourites_count": 1080,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 121792,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/554835880641191936/dFD_cZLE_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/554835880641191936/dFD_cZLE_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 171,
+            "favorite_count": 373,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jun 24 01:48:01 +0000 2018",
+            "id": 1010701044693622785,
+            "id_str": "1010701044693622785",
+            "text": "松本人志、「大迫半端ないって」を絶賛「俺が一番好きな笑い」\nhttps://t.co/uhN8odn264\n\n #フジ #松本人志 #大迫勇也 #ダウンタウン @matsu_bouzu #お笑い #サッカー",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "フジ",
+                        "indices": [
+                            56,
+                            59
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            60,
+                            65
+                        ]
+                    },
+                    {
+                        "text": "大迫勇也",
+                        "indices": [
+                            66,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "ダウンタウン",
+                        "indices": [
+                            72,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "お笑い",
+                        "indices": [
+                            93,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "サッカー",
+                        "indices": [
+                            98,
+                            103
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "matsu_bouzu",
+                        "name": "松本人志",
+                        "id": 1401587503,
+                        "id_str": "1401587503",
+                        "indices": [
+                            80,
+                            92
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/uhN8odn264",
+                        "expanded_url": "https://www.oricon.co.jp/news/2114242/full/?utm_source=Twitter&utm_medium=social&ref_cd=tw",
+                        "display_url": "oricon.co.jp/news/2114242/f…",
+                        "indices": [
+                            30,
+                            53
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "popular",
+                "iso_language_code": "ja"
+            },
+            "source": "<a href=\"http://www.oricon.co.jp/\" rel=\"nofollow\">ORICON STYLE</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 95207674,
+                "id_str": "95207674",
+                "name": "ORICON NEWS（オリコンニュース）",
+                "screen_name": "oricon",
+                "location": "東京都港区六本木",
+                "description": "オリコンが運営する総合エンターテインメントメディア📸 話題の芸能ニュースやオリコンランキングはもちろん、音楽、ドラマ、アニメ、お笑い、映画など、最新エンタメトレンドを毎日配信中🌞 試写会や登壇イベントなども毎週プレゼント🎁",
+                "url": "https://t.co/TBiV19ALWA",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TBiV19ALWA",
+                                "expanded_url": "http://www.oricon.co.jp/",
+                                "display_url": "oricon.co.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 285237,
+                "friends_count": 22408,
+                "listed_count": 5349,
+                "created_at": "Mon Dec 07 14:15:16 +0000 2009",
+                "favourites_count": 221,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 137478,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/875524928769937408/L9SZjS4l_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/875524928769937408/L9SZjS4l_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/95207674/1530256416",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 96,
+            "favorite_count": 237,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jun 24 04:38:21 +0000 2018",
+            "id": 1010743910975483904,
+            "id_str": "1010743910975483904",
+            "text": "「もうやめないか」　松本人志、死亡女児の実名報道・告別式取材に「非常に不愉快」\n#マスコミ #ワイドナショー #大阪北部地震 #実名報道 #松本人志  https://t.co/pXimFH29ZY",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "マスコミ",
+                        "indices": [
+                            40,
+                            45
+                        ]
+                    },
+                    {
+                        "text": "ワイドナショー",
+                        "indices": [
+                            46,
+                            54
+                        ]
+                    },
+                    {
+                        "text": "大阪北部地震",
+                        "indices": [
+                            55,
+                            62
+                        ]
+                    },
+                    {
+                        "text": "実名報道",
+                        "indices": [
+                            63,
+                            68
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            69,
+                            74
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pXimFH29ZY",
+                        "expanded_url": "https://www.j-cast.com/2018/06/24332087.html",
+                        "display_url": "j-cast.com/2018/06/243320…",
+                        "indices": [
+                            76,
+                            99
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "popular",
+                "iso_language_code": "ja"
+            },
+            "source": "<a href=\"http://www.j-cast.com/\" rel=\"nofollow\">JcastNewsBot</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 23735327,
+                "id_str": "23735327",
+                "name": "J-CASTニュース",
+                "screen_name": "jcast_news",
+                "location": "東京 千代田区",
+                "description": "2006年創刊。日本最大級の独立系総合ニュースサイトです。 政治からアイドル、経済からネットネタまで、幅広く配信中。\n（※当アカウントの投稿、RTは必ずしも媒体としての意見表明、賛意を表すものとは限りません。 また、リプライなどで取材依頼をお送りする場合がございます。ご了承ください）",
+                "url": "https://t.co/TGrsu5yKro",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TGrsu5yKro",
+                                "expanded_url": "http://www.j-cast.com/",
+                                "display_url": "j-cast.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 142220,
+                "friends_count": 1156,
+                "listed_count": 7362,
+                "created_at": "Wed Mar 11 07:32:54 +0000 2009",
+                "favourites_count": 1080,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 121792,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/554835880641191936/dFD_cZLE_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/554835880641191936/dFD_cZLE_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 113,
+            "favorite_count": 193,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 04:40:00 +0000 2018",
+            "id": 1013281039706357760,
+            "id_str": "1013281039706357760",
+            "text": "松本人志、W杯日本代表の戦い方に「優勝するために必要って言われたら納得」 https://t.co/Dil7vG6mkg #ワイドナショー #松本人志 #東野幸治 #フジテレビ #ワールドカップ #worldcup #お笑い #ザテレビジョン",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ワイドナショー",
+                        "indices": [
+                            61,
+                            69
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            70,
+                            75
+                        ]
+                    },
+                    {
+                        "text": "東野幸治",
+                        "indices": [
+                            76,
+                            81
+                        ]
+                    },
+                    {
+                        "text": "フジテレビ",
+                        "indices": [
+                            82,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "ワールドカップ",
+                        "indices": [
+                            89,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "worldcup",
+                        "indices": [
+                            98,
+                            107
+                        ]
+                    },
+                    {
+                        "text": "お笑い",
+                        "indices": [
+                            108,
+                            112
+                        ]
+                    },
+                    {
+                        "text": "ザテレビジョン",
+                        "indices": [
+                            113,
+                            121
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Dil7vG6mkg",
+                        "expanded_url": "https://thetv.jp/news/detail/152780/",
+                        "display_url": "thetv.jp/news/detail/15…",
+                        "indices": [
+                            37,
+                            60
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 168825616,
+                "id_str": "168825616",
+                "name": "ザテレビジョン",
+                "screen_name": "thetvjp",
+                "location": "東京都千代田区",
+                "description": "テレビ雑誌「ザテレビジョン」WEBサイト公式ツイッターです！https://t.co/4qQJR4nUiD  6/27発売号は「コード・ブルー」山下智久＆新垣結衣＆戸田恵梨香＆比嘉愛未＆浅利陽介が表紙／夏ドラマ全身ビジュアル集／関ジャニ∞渋谷すばる 思い出アルバム／夏スター大プレゼント／ジャニーズ夏休みカレンダー ほか",
+                "url": "https://t.co/4qQJR4nUiD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/4qQJR4nUiD",
+                                "expanded_url": "https://thetv.jp/",
+                                "display_url": "thetv.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/4qQJR4nUiD",
+                                "expanded_url": "https://thetv.jp/",
+                                "display_url": "thetv.jp",
+                                "indices": [
+                                    30,
+                                    53
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 246144,
+                "friends_count": 23971,
+                "listed_count": 1711,
+                "created_at": "Tue Jul 20 22:04:31 +0000 2010",
+                "favourites_count": 927,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 28645,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/842775920091975680/7igeN6FE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/842775920091975680/7igeN6FE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/168825616/1497861852",
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 04:28:12 +0000 2018",
+            "id": 1013278068847230976,
+            "id_str": "1013278068847230976",
+            "text": "#東野幸治 「ベルギーの要注意は？\n#前園真聖 「ルカクという選手…\n#松本人志 「ニカク？\n前園「ルの方で\n松本「笑福亭？\n前園「それは要らない…ルカクで\n#小籔千豊 「上沼相談員とか\n前園「そういうのは関係ないです\n東野「前園… https://t.co/lc17UsD4Gh",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "東野幸治",
+                        "indices": [
+                            0,
+                            5
+                        ]
+                    },
+                    {
+                        "text": "前園真聖",
+                        "indices": [
+                            18,
+                            23
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            35,
+                            40
+                        ]
+                    },
+                    {
+                        "text": "小籔千豊",
+                        "indices": [
+                            79,
+                            84
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/lc17UsD4Gh",
+                        "expanded_url": "https://twitter.com/i/web/status/1013278068847230976",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 752669180214644736,
+                "id_str": "752669180214644736",
+                "name": "ひぃこ feat. ナミちゃん🐕",
+                "screen_name": "hiikonoshima",
+                "location": "毎日を笑って過ごそ♪",
+                "description": "#動物好きと繋がりたい 実家に #パピヨン ♀3歳\n/#YouTuber #相互チャンネル登録\n/#歌ってみた 🎤手当たり次第♪ #ガイドボーカル ( #カラオケ練習用 ) #アニソン好き\n/#食レポ #中食 派\n/#西郷どん #プレバト！ #俳句 #チコちゃんに叱られる #カウントダウンTV\n/#写真でひとこと",
+                "url": "https://t.co/hn0DSnL5Dp",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/hn0DSnL5Dp",
+                                "expanded_url": "https://www.youtube.com/channel/UCMnuAoEZ7gYzXUE08HM49Sw",
+                                "display_url": "youtube.com/channel/UCMnuA…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9476,
+                "friends_count": 9778,
+                "listed_count": 41,
+                "created_at": "Tue Jul 12 01:01:31 +0000 2016",
+                "favourites_count": 54576,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 14000,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/876647918437933056/24uXkrRm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/876647918437933056/24uXkrRm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/752669180214644736/1497534312",
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 04:20:46 +0000 2018",
+            "id": 1013276201396236288,
+            "id_str": "1013276201396236288",
+            "text": "HITOSHI MATSUMOTO Presents ドキュメンタル\nこれも、観てみる事にします\nコメントは酷評だけど実際どーなんでしょーね\n\nhttps://t.co/S2j6te1i7n\n\n#松本人志 #ダウンタウン… https://t.co/XuMGNRbEgl",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            97,
+                            102
+                        ]
+                    },
+                    {
+                        "text": "ダウンタウン",
+                        "indices": [
+                            103,
+                            110
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/S2j6te1i7n",
+                        "expanded_url": "http://amzn.to/2KycACK",
+                        "display_url": "amzn.to/2KycACK",
+                        "indices": [
+                            72,
+                            95
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/XuMGNRbEgl",
+                        "expanded_url": "https://twitter.com/i/web/status/1013276201396236288",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 443002468,
+                "id_str": "443002468",
+                "name": "Runaway",
+                "screen_name": "Runaway1225",
+                "location": "日本 東京",
+                "description": "モンスターストライク始めます。。。 ハマってしまいました♡ ただいま104ランク 主は坂本さんとクシちゃん、イザナミ様、初の運極デスアーク 二人目はバタフライ運極、徳川慶喜も運極になりました＼(^o^)／ 次は。。。サガット運極完成！",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4461,
+                "friends_count": 4442,
+                "listed_count": 52,
+                "created_at": "Wed Dec 21 18:08:58 +0000 2011",
+                "favourites_count": 9,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 58844,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1706450822/d12D1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1706450822/d12D1_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/443002468/1427868656",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "D3D2CF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 04:03:16 +0000 2018",
+            "id": 1013271797033152519,
+            "id_str": "1013271797033152519",
+            "text": "ガキ使の葉書トーク ：『シャンプーをしている時の背後の気配は誰の気配なんですか？』\n「リンスです」\n#ダウンタウン　#松本人志",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ダウンタウン",
+                        "indices": [
+                            50,
+                            57
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            58,
+                            63
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 717391208805302272,
+                "id_str": "717391208805302272",
+                "name": "松本人志の名言BOT",
+                "screen_name": "h_matsumotobot",
+                "location": "兵庫県尼崎市",
+                "description": "#ダウンタウン #松本人志 さんの名言をつぶやく非公式BOTです。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 321,
+                "friends_count": 265,
+                "listed_count": 1,
+                "created_at": "Tue Apr 05 16:39:27 +0000 2016",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 21266,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/717391694228881408/DO4YtUTt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/717391694228881408/DO4YtUTt_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 04:02:03 +0000 2018",
+            "id": 1013271489506828288,
+            "id_str": "1013271489506828288",
+            "text": "松本とウエンツの論争にも注目\n小籔千豊、W杯時間稼ぎ問題「どのスポーツでもありうる」と反論　ネットは賛同の嵐 | しらべぇhttps://t.co/UMXq69bBmn @sirabee_news #ワイドナショー #松本人志… https://t.co/dVPf9Rrvaq",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ワイドナショー",
+                        "indices": [
+                            99,
+                            107
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            108,
+                            113
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "sirabee_news",
+                        "name": "ニュースサイトしらべぇ",
+                        "id": 2401366028,
+                        "id_str": "2401366028",
+                        "indices": [
+                            85,
+                            98
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/UMXq69bBmn",
+                        "expanded_url": "https://sirabee.com/2018/07/01/20161690928/",
+                        "display_url": "sirabee.com/2018/07/01/201…",
+                        "indices": [
+                            61,
+                            84
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/dVPf9Rrvaq",
+                        "expanded_url": "https://twitter.com/i/web/status/1013271489506828288",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://sirabee.com/\" rel=\"nofollow\">しらべぇ 気になるアレを大調査ニュース!</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2401366028,
+                "id_str": "2401366028",
+                "name": "ニュースサイトしらべぇ",
+                "screen_name": "sirabee_news",
+                "location": "Tokyo, Japan",
+                "description": "月間1100万ユーザーが読むニュースサイト『しらべぇ』。 8万人を超える調査パネルを元にしたデータや独自取材で、 世の中の話題や気になるニュースを報じています。",
+                "url": "http://t.co/Ibtt17MMe6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Ibtt17MMe6",
+                                "expanded_url": "http://sirabee.com/",
+                                "display_url": "sirabee.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 58555,
+                "friends_count": 228,
+                "listed_count": 440,
+                "created_at": "Fri Mar 21 10:44:01 +0000 2014",
+                "favourites_count": 16499,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 28680,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/477109032667189249/9xzaPvrh_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/477109032667189249/9xzaPvrh_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2401366028/1402586622",
+                "profile_link_color": "FF4DB8",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 03:57:42 +0000 2018",
+            "id": 1013270395430899712,
+            "id_str": "1013270395430899712",
+            "text": "#ワールドカップ\n#西野朗\n#侍ブルー\n#サッカー \n#無気力試合\n#パス回し\n#日本の恥\n\n　まともなことを言っている著名人は、わかってる限り、この4人くらいか……。\n\n#足立梨花\n#セルジオ越後\n#野村周平\n#松本人志（※半分）",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ワールドカップ",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "text": "西野朗",
+                        "indices": [
+                            9,
+                            13
+                        ]
+                    },
+                    {
+                        "text": "侍ブルー",
+                        "indices": [
+                            14,
+                            19
+                        ]
+                    },
+                    {
+                        "text": "サッカー",
+                        "indices": [
+                            20,
+                            25
+                        ]
+                    },
+                    {
+                        "text": "無気力試合",
+                        "indices": [
+                            27,
+                            33
+                        ]
+                    },
+                    {
+                        "text": "パス回し",
+                        "indices": [
+                            34,
+                            39
+                        ]
+                    },
+                    {
+                        "text": "日本の恥",
+                        "indices": [
+                            40,
+                            45
+                        ]
+                    },
+                    {
+                        "text": "足立梨花",
+                        "indices": [
+                            86,
+                            91
+                        ]
+                    },
+                    {
+                        "text": "セルジオ越後",
+                        "indices": [
+                            92,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "野村周平",
+                        "indices": [
+                            100,
+                            105
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            106,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 752790313266057216,
+                "id_str": "752790313266057216",
+                "name": "上原明宏",
+                "screen_name": "twkhrm92",
+                "location": "昭和高→愛知大→慶應義塾大",
+                "description": "#愛知大学野球　#東京六大学野球　#big6　#東都大学野球　#大学野球　#神宮球場　#パロマ瑞穂野球場　#プロ野球　#名古屋　#中日ドラゴンズ　#将棋　\n#嫌煙　#護憲　#反原発　#反野党　",
+                "url": "https://t.co/p6E8BsNsby",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/p6E8BsNsby",
+                                "expanded_url": "https://buddymeter.com/quiz.html?q=Amsf2dh",
+                                "display_url": "buddymeter.com/quiz.html?q=Am…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 301,
+                "friends_count": 118,
+                "listed_count": 8,
+                "created_at": "Tue Jul 12 09:02:51 +0000 2016",
+                "favourites_count": 5098,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 54435,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/918346984645263361/OBc_EAJM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/918346984645263361/OBc_EAJM_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/752790313266057216/1468382310",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 03:39:20 +0000 2018",
+            "id": 1013265773123342336,
+            "id_str": "1013265773123342336",
+            "text": "#ワイドナショー\n\n#松本人志 \n\n#熱い議論\n\n松ちゃんナイスタイミング😆👍✨",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ワイドナショー",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            10,
+                            15
+                        ]
+                    },
+                    {
+                        "text": "熱い議論",
+                        "indices": [
+                            18,
+                            23
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3017208854,
+                "id_str": "3017208854",
+                "name": "TARBO。(ターボ)",
+                "screen_name": "t_san_tubuyaku",
+                "location": "",
+                "description": "１９８０年うまれの初心者っす",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16,
+                "friends_count": 0,
+                "listed_count": 0,
+                "created_at": "Thu Feb 12 09:30:25 +0000 2015",
+                "favourites_count": 2442,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 8507,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 03:33:48 +0000 2018",
+            "id": 1013264381642043392,
+            "id_str": "1013264381642043392",
+            "text": "@pyonnakoro756 良い方に #ダウンタウン の #松本人志 もお願いします。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ダウンタウン",
+                        "indices": [
+                            20,
+                            27
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            30,
+                            35
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pyonnakoro756",
+                        "name": "@自業自得",
+                        "id": 916133949667024896,
+                        "id_str": "916133949667024896",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1013250318153347072,
+            "in_reply_to_status_id_str": "1013250318153347072",
+            "in_reply_to_user_id": 916133949667024896,
+            "in_reply_to_user_id_str": "916133949667024896",
+            "in_reply_to_screen_name": "pyonnakoro756",
+            "user": {
+                "id": 1010551470297477120,
+                "id_str": "1010551470297477120",
+                "name": "新ニシ",
+                "screen_name": "sUAQYDmzfZ24iPi",
+                "location": "北海道",
+                "description": "日本国🇯🇵北海道在住",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 113,
+                "friends_count": 180,
+                "listed_count": 1,
+                "created_at": "Sat Jun 23 15:53:40 +0000 2018",
+                "favourites_count": 3344,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 439,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1010555511983312896/54jto66u_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010555511983312896/54jto66u_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 03:33:18 +0000 2018",
+            "id": 1013264255632621568,
+            "id_str": "1013264255632621568",
+            "text": "浜田「残さず食べ！アフリカの子供等は食べたくても食べられへんねんで！」\n松本「アホ！その子らも腹いっぱいになったら残すわ！」\n#ダウンタウン　#松本人志",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ダウンタウン",
+                        "indices": [
+                            63,
+                            70
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            71,
+                            76
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 717391208805302272,
+                "id_str": "717391208805302272",
+                "name": "松本人志の名言BOT",
+                "screen_name": "h_matsumotobot",
+                "location": "兵庫県尼崎市",
+                "description": "#ダウンタウン #松本人志 さんの名言をつぶやく非公式BOTです。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 321,
+                "friends_count": 265,
+                "listed_count": 1,
+                "created_at": "Tue Apr 05 16:39:27 +0000 2016",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 21266,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/717391694228881408/DO4YtUTt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/717391694228881408/DO4YtUTt_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 03:22:01 +0000 2018",
+            "id": 1013261413383487488,
+            "id_str": "1013261413383487488",
+            "text": "松本人志ガリクソン復帰も「開店休業みたいなこと」 \n#松本人志  #ガリガリガリクソン  #ワイドナショー  #開店休業\nhttps://t.co/elRSo5qoP9",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            26,
+                            31
+                        ]
+                    },
+                    {
+                        "text": "ガリガリガリクソン",
+                        "indices": [
+                            33,
+                            43
+                        ]
+                    },
+                    {
+                        "text": "ワイドナショー",
+                        "indices": [
+                            45,
+                            53
+                        ]
+                    },
+                    {
+                        "text": "開店休業",
+                        "indices": [
+                            55,
+                            60
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/elRSo5qoP9",
+                        "expanded_url": "https://www.nikkansports.com/entertainment/news/201807010000347.html?utm_source=twitter&utm_medium=social&utm_campaign=nikkansports_ogp",
+                        "display_url": "nikkansports.com/entertainment/…",
+                        "indices": [
+                            61,
+                            84
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 46058599,
+                "id_str": "46058599",
+                "name": "日刊スポーツ",
+                "screen_name": "nikkansports",
+                "location": "中央区築地",
+                "description": "日刊スポーツ新聞社の公式アカウントです。芸能、野球、サッカー、スポーツのニュース速報を配信します。日刊スポーツのアカウント一覧はこちら → https://t.co/zk8pS0bDXv",
+                "url": "http://t.co/JmbnbxPFcG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/JmbnbxPFcG",
+                                "expanded_url": "http://www.nikkansports.com/",
+                                "display_url": "nikkansports.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/zk8pS0bDXv",
+                                "expanded_url": "http://goo.gl/kbSF7E",
+                                "display_url": "goo.gl/kbSF7E",
+                                "indices": [
+                                    70,
+                                    93
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 308535,
+                "friends_count": 27728,
+                "listed_count": 10146,
+                "created_at": "Wed Jun 10 07:11:30 +0000 2009",
+                "favourites_count": 1406,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 289132,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/530600276302909440/fbD0sFZK_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/530600276302909440/fbD0sFZK_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/46058599/1472445144",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 01 03:18:13 +0000 2018",
+            "id": 1013260457052758016,
+            "id_str": "1013260457052758016",
+            "text": "#松本人志 #ダウンタウン #浜田雅功 #リンカーン\nhttps://t.co/K82CcOB3zq",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            0,
+                            5
+                        ]
+                    },
+                    {
+                        "text": "ダウンタウン",
+                        "indices": [
+                            6,
+                            13
+                        ]
+                    },
+                    {
+                        "text": "浜田雅功",
+                        "indices": [
+                            14,
+                            19
+                        ]
+                    },
+                    {
+                        "text": "リンカーン",
+                        "indices": [
+                            20,
+                            26
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/K82CcOB3zq",
+                        "expanded_url": "http://funnymovie.hatenablog.com/entry/2017/10/22/210134",
+                        "display_url": "funnymovie.hatenablog.com/entry/2017/10/…",
+                        "indices": [
+                            27,
+                            50
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 116188118,
+                "id_str": "116188118",
+                "name": "90's Music Cafe",
+                "screen_name": "90mctw",
+                "location": "小洒落たカフェ",
+                "description": "名曲揃いの90年代J-POPを紹介",
+                "url": "https://t.co/YWvMlU7eVV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/YWvMlU7eVV",
+                                "expanded_url": "http://90musiccafe.blog.jp/",
+                                "display_url": "90musiccafe.blog.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 13379,
+                "friends_count": 2080,
+                "listed_count": 26,
+                "created_at": "Sun Feb 21 14:04:51 +0000 2010",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 43918,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/767616055120306176/s0xNUpUr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/767616055120306176/s0xNUpUr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/116188118/1471851669",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        {
+            "created_at": "Sun Jul 01 03:10:59 +0000 2018",
+            "id": 1013258638989783040,
+            "id_str": "1013258638989783040",
+            "text": "松っちゃん鋭いなぁ… 鋭いってのは、みんな分かってる事だけど、あえて放送に乗せて、コメントするって所ね。\n握手会がストーカー抑制になってるのはあるかもしれないね。\n#AKB48 #HKT48 #松本人志 #ワイドナショー",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "AKB48",
+                        "indices": [
+                            82,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "HKT48",
+                        "indices": [
+                            89,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "松本人志",
+                        "indices": [
+                            96,
+                            101
+                        ]
+                    },
+                    {
+                        "text": "ワイドナショー",
+                        "indices": [
+                            102,
+                            110
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 198068571,
+                "id_str": "198068571",
+                "name": "zarisu ◢͟￨⁴⁶",
+                "screen_name": "zarisu4",
+                "location": "無(む)",
+                "description": "HYBRID INSECTOR 真実のみを口から吐く。ﾀﾞｰｸﾋｰﾛｰ 仮面ﾗｲﾀﾞｰ MARVEL DCが好き。S.H.Figuarts HOTTOYS 低収入ﾘｰﾏﾝ 味覚障害 平手友梨奈 欅坂46 佐々木美玲 5/6 ビバラポップ 6/5 6/6 パシ横 6/13 東京 7/9 7/10 幕張 7/20 欅共和国",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1429,
+                "friends_count": 1442,
+                "listed_count": 14,
+                "created_at": "Sun Oct 03 07:47:08 +0000 2010",
+                "favourites_count": 14339,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 158604,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/929494196427276288/GttA07Qg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/929494196427276288/GttA07Qg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/198068571/1524299311",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.037,
+        "max_id": 1013281039706357760,
+        "max_id_str": "1013281039706357760",
+        "next_results": "?max_id=1010701044693622784&q=%23%E6%9D%BE%E6%9C%AC%E4%BA%BA%E5%BF%97-filter%3Aretweets&include_entities=1&result_type=mixed",
+        "query": "%23%E6%9D%BE%E6%9C%AC%E4%BA%BA%E5%BF%97-filter%3Aretweets",
+        "refresh_url": "?since_id=1013281039706357760&q=%23%E6%9D%BE%E6%9C%AC%E4%BA%BA%E5%BF%97-filter%3Aretweets&result_type=mixed&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

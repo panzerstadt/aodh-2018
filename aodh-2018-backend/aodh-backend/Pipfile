@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+flask-cors = "*"
+flasgger = "*"
+python-twitter = "*"
+yweather = "*"
+gensim = "*"
+japanesetokenizer = "*"
+nltk = "*"
+many-stop-words = "*"
+google-cloud = "*"
+ekphrasis = "*"
+ujson = "*"
+googlemaps = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
