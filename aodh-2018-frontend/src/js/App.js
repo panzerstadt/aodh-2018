@@ -1,8 +1,7 @@
-import React, { Component } from 'react';
-import ShowData from '../js/components/show_data'
-import logo from '../images/logo.svg';
-import '../style/css/App.css';
-
+import React, { Component } from "react";
+import ShowData from "../js/components/show_data";
+import logo from "../images/logo.svg";
+import "../style/css/App.css";
 
 class App extends Component {
   render() {
