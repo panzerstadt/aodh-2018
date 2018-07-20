@@ -141,6 +141,22 @@ def get_tweet_list_from_geolocation(lat=34.6937, lng=135.5022, radius='1', count
     return t
 
 
+def __calculate__weighted__lat__long(openfile):
+    sentiment = []
+    weightedlat = []
+    weightedlng = []
+    config = json.loads(openfile.read())
+    for i in config:
+        sentiment.append(i['sentiment'])
+        weightedlat.append((i['lat']) * (i['sentiment']))
+        weightedlng.append((i['lng']) * (i['sentiment']))
+
+    wightedlatnew = sum(weightedlat) / sum(sentiment)
+    weightedlngnew = sum(weightedlng)/sum(sentiment)
+
+    return {"weightedLat": wightedlatnew, "weightedLong": weightedlngnew}
+
+
 def get_tweet_list(query='', exact_location_only=True):
     if type(query) == dict:
         lat = query['lat']
@@ -154,7 +170,7 @@ def get_tweet_list(query='', exact_location_only=True):
 
     output = {
         "tweets": output,
-        "direction": 'ROHIT please place the output from the calculations here, use json_output',
+        "destination": __calculate__weighted__lat__long(json_output),
         "disaster": 'false'
     }
 
