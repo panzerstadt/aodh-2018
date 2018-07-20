@@ -149,9 +149,12 @@ def get_tweet_list(query='', exact_location_only=True):
     else:
         output = get_tweet_list_from_location_name(query=query)
 
+    output = bullshitify(output_dict=output)
+    json_output = json.dumps(output)
+
     output = {
-        "tweets": bullshitify(output_dict=output),
-        "direction": 'ROHIT please place the output from the calculations here'
+        "tweets": output,
+        "direction": 'ROHIT please place the output from the calculations here, use json_output'
     }
 
     return output
