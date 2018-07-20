@@ -150,9 +150,7 @@ def get_tweet_list(query='', exact_location_only=True):
         output = get_tweet_list_from_location_name(query=query)
 
     output = bullshitify(output_dict=output)
-    json_output = json.dumps(output, ensure_ascii=False)
-
-    print(json_output)
+    json_output = json.dumps(output, indent=4, ensure_ascii=False)
 
     output = {
         "tweets": output,
