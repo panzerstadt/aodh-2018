@@ -1,702 +1,906 @@
-[
-  {
-    "lat": 0.5259451122336167,
-    "lng": 0.26191374348739765,
-    "sentiment": 0.75,
-    "text": "Sophia the robot delivers some welcome remarks at the Digital Innovation Forum in Taipei. Imagine life when Sophia… https://t.co/TzXb1y7NaS",
-    "time": 0.0005902777777777778
-  },
-  {
-    "lat": 0.4979762523347272,
-    "lng": 0.5013500465847368,
-    "sentiment": 0.6500000059604645,
-    "text": "We're #hiring! Read about our latest #job opening here: Snr Mgr, Accounts Payable (Finance / Core Accounting / Acco… https://t.co/sYn6Ig4Qfk",
-    "time": 0.4628240740740741
-  },
-  {
-    "lat": 0.6955129275696048,
-    "lng": 0.05059266427249335,
-    "sentiment": 0.5,
-    "text": "剛剛發佈了 1 張相片 @ Basement Cafe Taipei. https://t.co/H9K5Xt52dQ",
-    "time": 0.4907986111111111
-  },
-  {
-    "lat": 0.6949549314917969,
-    "lng": 0.025290607552470666,
-    "sentiment": 0.5,
-    "text": "剛剛發佈了 1 張相片 @ Basement Cafe Taipei. https://t.co/aFSc7BFfBI",
-    "time": 0.5293865740740741
-  },
-  {
-    "lat": 0.7832001347721239,
-    "lng": 0.4218912413256564,
-    "sentiment": 0.5,
-    "text": "I'm at 台北市 in Taiwan https://t.co/4vPw901jmF",
-    "time": 0.5304166666666666
-  },
-  {
-    "lat": 0.5579698070820551,
-    "lng": 0.45990915765898494,
-    "sentiment": 0.5500000007450581,
-    "text": "台湾でお仕事\n\n#台北 \n#taipei \n#台北101 \n#台湾 場所: TAIPEI 101 MALL 台北 101 購物中心 https://t.co/MUtBeqptv2",
-    "time": 0.5447453703703703
-  },
-  {
-    "lat": 0.9417440850804117,
-    "lng": 0.9457506237270301,
-    "sentiment": 0.5500000007450581,
-    "text": "Lemony roasted chicken legs. \n\nFull… https://t.co/bgwHbhh4Uv",
-    "time": 0.5495023148148148
-  },
-  {
-    "lat": 0.6819549544801463,
-    "lng": 0.09763592882193925,
-    "sentiment": 0.5500000007450581,
-    "text": "連烏龜們都爭先恐後的想喝西西里咖啡！ @ Basement Cafe Taipei. https://t.co/1bHSiyz1pI",
-    "time": 0.5636689814814815
-  },
-  {
-    "lat": 0.6613850829522332,
-    "lng": 0.012232560090265784,
-    "sentiment": 0.5,
-    "text": "剛剛發佈了 1 張相片 @ Basement Cafe Taipei. https://t.co/TnaBdcAKLA",
-    "time": 0.5817708333333333
-  },
-  {
-    "lat": 0.8246891858018227,
-    "lng": -0.08737101424930094,
-    "sentiment": 0.949999988079071,
-    "text": "😘😘😘老鼎旺麻辣鍋👍🏻👍🏻👍🏻Yummy Yummy💕💕💕#劉大強#韓志杰#老鼎旺川味鍋物 #yummyyummy #love #tagsforlikes#follow #cute #photooftheday #followme… https://t.co/wJH7vM4eDx",
-    "time": 0.6229398148148148
-  },
-  {
-    "lat": 0.5270409382357052,
-    "lng": 0.44525964096504894,
-    "sentiment": 0.29999999701976776,
-    "text": "I'm at 台北101 in 臺北市 Taipei, 台北市 https://t.co/C0etqOyL70",
-    "time": 0.6674537037037037
-  },
-  {
-    "lat": 0.7162741323233496,
-    "lng": 0.17357082570002236,
-    "sentiment": 0.6000000014901161,
-    "text": "關了... xoxo, Ms. Bond @ Sunset https://t.co/XFHeucsmK7",
-    "time": 0.7345023148148148
-  },
-  {
-    "lat": 0.47930759856164945,
-    "lng": 0.5097167919504485,
-    "sentiment": 0.44999999925494194,
-    "text": "Want to work at Standard Chartered Bank? We're #hiring in Taipei City! Click for details: https://t.co/nQA0RPffnr… https://t.co/MCAdqM00fr",
-    "time": 0.7456944444444443
-  },
-  {
-    "lat": 0.579198030527634,
-    "lng": 0.6913393822584684,
-    "sentiment": 0.9000000059604645,
-    "text": "DevC Taipei x Modern Web 2018 @ 華南銀行國際會議中心 https://t.co/CM5hxB30n8",
-    "time": 0.7961921296296296
-  },
-  {
-    "lat": 0.5659313638298112,
-    "lng": 0.44674015847053355,
-    "sentiment": 0.6000000014901161,
-    "text": "Shoppping time (@ Taipei 101 Mall in Taipei, 台北市) https://t.co/xMzMNokRSv",
-    "time": 0.8254166666666666
-  },
-  {
-    "lat": 0.1069259343112118,
-    "lng": -0.1372421381007411,
-    "sentiment": 0.75,
-    "text": "12, 活動飲品「Creamy Black 溫暖的距離」\n肉桂與黑糖的冰陣交流\n冰羅馬咖啡，檸檬香氣與酸味\n\n#台北咖啡巡禮 #adreamtogo \n#珈琲 #喫茶店 #coffee #ladyous #Taipeicoffee… https://t.co/xu50OcouXV",
-    "time": 0.8284490740740741
-  },
-  {
-    "lat": 0.4911750301130178,
-    "lng": 0.4900336816334043,
-    "sentiment": 0.6000000014901161,
-    "text": "Can you recommend anyone for this #job? Packaging Engineer - https://t.co/adRTf4wD9s #DellJobs #Engineering Taipei City #Hiring #CareerArc",
-    "time": 0.8398263888888887
-  },
-  {
-    "lat": 0.48213375516118445,
-    "lng": 0.3041309091990063,
-    "sentiment": 0.5,
-    "text": "✨ @ Adidas 101 https://t.co/9rjzRct6VK",
-    "time": 0.8714467592592593
-  },
-  {
-    "lat": 0.5352367649119727,
-    "lng": 0.5332108451534197,
-    "sentiment": 0.8499999940395355,
-    "text": "See our latest Taipei City #job and click to apply: Platform Software Principal Engineer - EC Engineer -… https://t.co/A4rjoJ05IZ",
-    "time": 0.8867361111111113
-  },
-  {
-    "lat": 0.9214938210146044,
-    "lng": 0.5741372037203389,
-    "sentiment": 0.44999999925494194,
-    "text": "剛剛發佈了 1 張相片 @ 雞三和 https://t.co/8axOBq9Li1",
-    "time": 0.9319791666666667
-  },
-  {
-    "lat": 0.4610089119866812,
-    "lng": 0.5059545572952737,
-    "sentiment": 0.800000011920929,
-    "text": "This #job might be a great fit for you: Electrical Senior Principal Engineer (I9) - https://t.co/uxEACAdGKE… https://t.co/Rk4NcFzsZO",
-    "time": 0.9336226851851852
-  },
-  {
-    "lat": 0.44956200169144034,
-    "lng": 0.477739185043347,
-    "sentiment": 0.5,
-    "text": "Want to work at DELL? We're #hiring in Taipei City! Click for details: https://t.co/5og8EF6Kqh #DellJobs #Engineering #Job #Jobs #CareerArc",
-    "time": 0.9806018518518518
-  },
-  {
-    "lat": 0.49904615627561916,
-    "lng": 0.5324852566708674,
-    "sentiment": 0.5,
-    "text": "Want to work in Taipei City? View our latest opening: https://t.co/nYQyYDQWuN #DellJobs #BusinessMgmt #Job #Jobs #Hiring #CareerArc",
-    "time": 0.02758101851851852
-  },
-  {
-    "lat": 0.543169508536344,
-    "lng": 0.45832206109295615,
-    "sentiment": 0.5,
-    "text": "Yung hirap na hirap kaming 3 paano kukuha ng picture sa Taipei 101... siya (last pic) walang kahirap hirap... nyaha… https://t.co/9xmSWThFmu",
-    "time": 0.055046296296296295
-  },
-  {
-    "lat": 0.4982987176220118,
-    "lng": 0.5008916352442969,
-    "sentiment": 0.5,
-    "text": "We're #hiring! Click to apply: Account Manager - https://t.co/lIlny5wmzu #Sales #Taipei #Job #Jobs #CareerArc",
-    "time": 0.07454861111111111
-  },
-  {
-    "lat": 0.5485037829767571,
-    "lng": 0.34926276503855797,
-    "sentiment": 0.7000000029802322,
-    "text": "そういえば #台北101 が #フリーザ 様的な雰囲気だったのでお知らせしておきますね。 @ 臺北世界貿易中心 https://t.co/clilGAlnAd",
-    "time": 0.5123958333333334
-  },
-  {
-    "lat": 0.4514042447205569,
-    "lng": 0.3366644382126045,
-    "sentiment": 0.5,
-    "text": "CHANGE is INEVITABLE ✌🏿 @ Adidas 101 https://t.co/R9cdQEkiii",
-    "time": 0.5647453703703703
-  },
-  {
-    "lat": 0.9496333651259918,
-    "lng": 0.44790532927264887,
-    "sentiment": 0.7000000029802322,
-    "text": "看我發射愛心光波收服你💞💞💞\nNot sailor moon, I’m sailor heart! @ NU SKIN TW https://t.co/YQsZZxqUba",
-    "time": 0.5890393518518519
-  },
-  {
-    "lat": 0.5448488057379428,
-    "lng": 0.46197654242951364,
-    "sentiment": 0.5500000007450581,
-    "text": "Taipei 101 Observatory\n.\n.\n.\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nThe architecture of this o… https://t.co/vAQRRHfC7N",
-    "time": 0.5971064814814815
-  },
-  {
-    "lat": 0.7512894147236429,
-    "lng": 0.4133350692181274,
-    "sentiment": 0.5,
-    "text": "Apple Daily - Taiwan edition\nTaipei, Taiwan\nTuesday, July 17, 2018\nhttps://t.co/bj2hRFhabk https://t.co/dOYi4xc0nw",
-    "time": 0.5996643518518519
-  },
-  {
-    "lat": 0.604386207024032,
-    "lng": 0.4429399946875006,
-    "sentiment": 0.6000000014901161,
-    "text": "「所有改變......都有令人感傷之處；因為我們所拋下的是自己的一部分；我們必須結束一個人生，才會進入另一個人生。」\n\n——阿納托爾·法朗士\n\n而我決定，\n擁抱這樣的感傷。 @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/fIU71GJGYH",
-    "time": 0.6414930555555556
-  },
-  {
-    "lat": 0.30874472617112053,
-    "lng": -0.05613859325158841,
-    "sentiment": 0.949999988079071,
-    "text": "超級濃郁的咖喱，料也超豐富✨⚜️#spoon #無水咖喱 #咖喱 @ https://t.co/tOiK6vNCka https://t.co/aQC22y155N",
-    "time": 0.6470833333333333
-  },
-  {
-    "lat": 0.975353863608164,
-    "lng": 0.4521252323486048,
-    "sentiment": 0.9000000059604645,
-    "text": "Sometimes you’ve just gotta give in to those burger cravings right?! Loved this cheeseburger from Awesome Burger in… https://t.co/diRFOQY0bf",
-    "time": 0.6638425925925925
-  },
-  {
-    "lat": 0.6063797673925307,
-    "lng": 0.4376631214334191,
-    "sentiment": 0.6500000059604645,
-    "text": "Hasil Jepretannya Keren euy..\n\nhahaii  Ya ia lah, org si Om Bule nya sambil Jongkok Jongkok motoinnya..\n😂😂😂\nThx,xie… https://t.co/wT5MTjtzOX",
-    "time": 0.6951851851851852
-  },
-  {
-    "lat": 0.5998743595737505,
-    "lng": 0.46380022313851305,
-    "sentiment": 0.6000000014901161,
-    "text": "Baru saja mengirim foto @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/xBUDebrVX4",
-    "time": 0.6971759259259259
-  },
-  {
-    "lat": 0.532039650439469,
-    "lng": 0.4554755676453389,
-    "sentiment": 0.6000000014901161,
-    "text": "#taipei101mall @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/NEvAbEbd60",
-    "time": 0.6987152777777778
-  },
-  {
-    "lat": 0.5755536434882808,
-    "lng": 0.46365923216297084,
-    "sentiment": 0.6000000014901161,
-    "text": "Baru saja mengirim foto @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/INmlt7HuGw",
-    "time": 0.6999537037037037
-  },
-  {
-    "lat": 0.5731582698483588,
-    "lng": 0.48282303103506335,
-    "sentiment": 0.6000000014901161,
-    "text": "Baru saja mengirim foto @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/XYsIe69WNs",
-    "time": 0.7039930555555555
-  },
-  {
-    "lat": 0.584107672443527,
-    "lng": 0.47134626578238015,
-    "sentiment": 0.5500000007450581,
-    "text": "Baru saja mengirim foto @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/Lzapmv1GyF",
-    "time": 0.7053356481481482
-  },
-  {
-    "lat": 0.5667747362176524,
-    "lng": 0.48733842856027654,
-    "sentiment": 0.6000000014901161,
-    "text": "Baru saja mengirim foto @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/oB8qFKDQhw",
-    "time": 0.7067824074074074
-  },
-  {
-    "lat": 0.34599502659701487,
-    "lng": -0.005259971949001711,
-    "sentiment": 0.5,
-    "text": "こちらは暑くて冷たい黒胡麻白玉カキ冰#台北 #taipei #台北グルメ 場所: 御品元冰火湯圓-台北總店 https://t.co/e6vX4j4Pbt",
-    "time": 0.714502314814815
-  },
-  {
-    "lat": 0.5392087044663443,
-    "lng": 0.5265700982899991,
-    "sentiment": 0.6500000059604645,
-    "text": "Can you recommend anyone for this #job? Sr Clin Plan Analyst - https://t.co/oIjS87HlAE",
-    "time": 0.7483101851851851
-  },
-  {
-    "lat": 0.5084299903432863,
-    "lng": 0.4970430282230629,
-    "sentiment": 0.800000011920929,
-    "text": "Interested in a #job in #Taipei? This could be a great fit: https://t.co/R6VvOHMqI1",
-    "time": 0.7658449074074074
-  },
-  {
-    "lat": 0.5409197330049859,
-    "lng": 0.44312676886047847,
-    "sentiment": 0.5,
-    "text": "I'm at @Apple Taipei 101 in 台北市, 台灣省 https://t.co/lRY9dVuF46",
-    "time": 0.7667708333333333
-  },
-  {
-    "lat": 0.472942210650096,
-    "lng": 0.5065849835579872,
-    "sentiment": 0.5500000007450581,
-    "text": "If you're looking for work in Taipei City, check out this #job: https://t.co/7XwDfy5o4m",
-    "time": 0.7951851851851851
-  },
-  {
-    "lat": 0.49188774088959597,
-    "lng": 0.45413651001597444,
-    "sentiment": 0.5500000007450581,
-    "text": "We're #hiring! Read about our latest #job opening here: Sr. Analyst, Project/Program Management, Consumer Inspiron - https://t.co/kqPZeUEQZb",
-    "time": 0.8419560185185185
-  },
-  {
-    "lat": 0.1131200477000776,
-    "lng": 0.684270276389327,
-    "sentiment": 0.5,
-    "text": "อีเบวเงียบๆนี่เล่นทวิตตลอดนะ",
-    "time": 0.8465972222222221
-  },
-  {
-    "lat": 0.11298883768664437,
-    "lng": 0.6842717876359873,
-    "sentiment": 0.5,
-    "text": "@phalonephone @chinnagus_ อีพวกหี",
-    "time": 0.856099537037037
-  },
-  {
-    "lat": 0.19075300963546718,
-    "lng": 0.8549630133734452,
-    "sentiment": 0.7000000029802322,
-    "text": "We meet, again 💕 @ Xiangshan, Taipei https://t.co/zGIUAprqnY",
-    "time": 0.9546064814814815
-  },
-  {
-    "lat": 0.5118005416013174,
-    "lng": 0.469787728363378,
-    "sentiment": 0.6500000059604645,
-    "text": "See our latest Taipei City #job and click to apply: Assoc Medical Dir - https://t.co/ULAur8fbBJ",
-    "time": 0.9823263888888888
-  },
-  {
-    "lat": 0.4992304400905522,
-    "lng": 0.5408215333471637,
-    "sentiment": 0.800000011920929,
-    "text": "Interested in a #job in Taipei City? This could be a great fit: https://t.co/mApv7i8DHb",
-    "time": 0.029201388888888888
-  },
-  {
-    "lat": 0.6154564722079614,
-    "lng": 0.6843413049601687,
-    "sentiment": 0.5,
-    "text": "ไถเปอี้หลิงอี",
-    "time": 0.08869212962962963
-  },
-  {
-    "lat": 0.6149883415667688,
-    "lng": 0.6843095687903247,
-    "sentiment": 0.5,
-    "text": "@tanint__ ดีว่ะแม่งเอ้ย",
-    "time": 0.08892361111111112
-  },
-  {
-    "lat": 0.6143183921338072,
-    "lng": 0.6842642314048334,
-    "sentiment": 0.5,
-    "text": "@tanint__ พี่เรียนหรือผัวพี่เรียนคะ",
-    "time": 0.08950231481481481
-  },
-  {
-    "lat": 0.4710504008477453,
-    "lng": 0.304918268457747,
-    "sentiment": 0.5500000007450581,
-    "text": "🍀👯🎶\n@yumiiiyuuki \n#ゆみせな \n#せなゆみ \n#gm 場所: 沖繩 https://t.co/8DoThETnID",
-    "time": 0.13818287037037036
-  },
-  {
-    "lat": 0.6010767442941792,
-    "lng": 0.5181828102564091,
-    "sentiment": 0.6500000059604645,
-    "text": "7/15 Sun. #ainightclub pt. 1-2 #ugvboyz 7th #boyskullakaobk #UVB #ungovernabledjstudio  #dj教學諮詢網：… https://t.co/mV6uykvH3P",
-    "time": 0.24530092592592592
-  },
-  {
-    "lat": 0.4160478303831903,
-    "lng": 0.10707599389786351,
-    "sentiment": 0.5,
-    "text": "Space Inn Hostel - it feels like you are inside a spaceship!! @ Space Inn Xin Yi Branch 太空艙旅舍 信義館 https://t.co/7vg0udUoD1",
-    "time": 0.34803240740740743
-  },
-  {
-    "lat": 0.5224112616413513,
-    "lng": 0.47004868832335756,
-    "sentiment": 0.75,
-    "text": "My first time ever seeing Taipei 101 in person - incredible!! @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/beztTVdGnt",
-    "time": 0.3497337962962963
-  },
-  {
-    "lat": 0.665124466066821,
-    "lng": 0.6037722375085403,
-    "sentiment": 0.75,
-    "text": "This apple pie with Hokkaido milk ice cream is unbeatable. The pastry is so puffy,  buttery, and yummy!\n\n#rapl… https://t.co/iWPjRrQ3X9",
-    "time": 0.3595138888888889
-  },
-  {
-    "lat": 0.853599866729297,
-    "lng": 0.5231724413853188,
-    "sentiment": 0.949999988079071,
-    "text": "生日94要開浴衣趴❤️帶著一堆和服妹子出場好威風 #魚干女の素敵生活 #我眼中的美好 場所: Vavavoom https://t.co/DCe1Qms4Fa",
-    "time": 0.4625694444444444
-  },
-  {
-    "lat": 0.5007044890650081,
-    "lng": 0.24047406169368415,
-    "sentiment": 0.6500000059604645,
-    "text": "B.A.P. 台北演唱會\n#kpop #livesound #concert @ TICC 台北國際會議中心 https://t.co/NnHzyTjZCh",
-    "time": 0.46934027777777776
-  },
-  {
-    "lat": 0.6599900403290544,
-    "lng": 0.6322572129562181,
-    "sentiment": 0.949999988079071,
-    "text": "新計劃、新目標、夢想、人生，開始就沒有停止🤚，直到實現為止！對於要做的事情，就是堅持✊到底！🔥🔥🔥 #redwang #fitness #workout #mydream #健身 #夢想 #堅持 #photooftheday… https://t.co/P3ZK0qtPr1",
-    "time": 0.5139467592592593
-  },
-  {
-    "lat": 0.522496957558487,
-    "lng": 0.44449444665064436,
-    "sentiment": 0.3499999940395355,
-    "text": "Dumpling adventure @ Din Tai Fung @ Taipei 101 https://t.co/UtfrHMYv4v",
-    "time": 0.547662037037037
-  },
-  {
-    "lat": 0.5098883137360124,
-    "lng": 0.49411943004977044,
-    "sentiment": 0.44999999925494194,
-    "text": "Just posted a video @ 台北101觀景台 https://t.co/RVkmNmCK6O",
-    "time": 0.5716319444444444
-  },
-  {
-    "lat": 0.5786655936561133,
-    "lng": 0.4749658164797188,
-    "sentiment": 0.3999999985098839,
-    "text": "Just posted a photo @ 台北101觀景台 https://t.co/K9NVovivNh",
-    "time": 0.5767361111111111
-  },
-  {
-    "lat": 0.4830353166676717,
-    "lng": 0.40284693143936684,
-    "sentiment": 0.5,
-    "text": "I'm at 台北101 in 臺北市 Taipei, 台北市 https://t.co/RMTzoy2qwr",
-    "time": 0.6216435185185185
-  },
-  {
-    "lat": 0.44087765750292096,
-    "lng": 0.7273065375295202,
-    "sentiment": 0.6000000014901161,
-    "text": "Taiwan day 1 👍🏻 #yuyuanmiangradtrip #taipei101tower @ 象山六巨石 https://t.co/mvMaiFIuRI",
-    "time": 0.6305902777777778
-  },
-  {
-    "lat": 0.4209370713075662,
-    "lng": 0.7247857789055103,
-    "sentiment": 0.5500000007450581,
-    "text": "Taipei 101 @ 象山公園 https://t.co/cT3ls5NzBN",
-    "time": 0.6331134259259259
-  },
-  {
-    "lat": 0.6373980111081234,
-    "lng": 0.5317865445957357,
-    "sentiment": 0.44999999925494194,
-    "text": "剛剛發佈了 1 張相片 @ 薄多義att店 https://t.co/ZMtzfxJ3mg",
-    "time": 0.6437384259259259
-  },
-  {
-    "lat": 0.5281653490644842,
-    "lng": 0.44124653877196346,
-    "sentiment": 0.44999999925494194,
-    "text": "Just posted a photo @ 台北101觀景台 https://t.co/HqQc09PI65",
-    "time": 0.6524768518518519
-  },
-  {
-    "lat": 0.9313227108925616,
-    "lng": 0.9085467006948307,
-    "sentiment": 0.6500000059604645,
-    "text": "BentoSeries No.109\nFried rice with snow peas, sweet corn, carrot, purple onion, bok choy, and shrimps. Colorful and… https://t.co/XZPuJ0FfUH",
-    "time": 0.6577314814814815
-  },
-  {
-    "lat": 0.8586036384283096,
-    "lng": 0.01388247963065712,
-    "sentiment": 0.6500000059604645,
-    "text": "About to hit town with this guy!! Love the new restaurant fit out bro! chef_dancingpig \n#dancingpig #chefs #taipei… https://t.co/RpiG1KIuJ0",
-    "time": 0.6622916666666667
-  },
-  {
-    "lat": 0.5208124835190632,
-    "lng": 0.4909490700705608,
-    "sentiment": 0.5,
-    "text": "Just posted a photo @ 台北101觀景台 https://t.co/GvTuAfE41G",
-    "time": 0.6740624999999999
-  },
-  {
-    "lat": 0.4586952482685738,
-    "lng": 0.543071621255742,
-    "sentiment": 0.5,
-    "text": "We're #hiring! Click to apply: Officer, HR Operations (Human Resources / HR Ops &amp; Change Delivery / HR Operations /… https://t.co/Vhw72BZktO",
-    "time": 0.7027777777777778
-  },
-  {
-    "lat": 0.856699425309589,
-    "lng": 0.06626630212582801,
-    "sentiment": 0.6000000014901161,
-    "text": "#台北 の#カフェ #sugarmiss の#大理石ケーキ #🍰\n.\n外は#マシュマロ で中は#パウンドケーキ 、でソースも入ってる🙆‍♀️\n.\nこのお店日本にあったら絶対行列だと思うー！！\n.\n#台北カフェ #台湾カフェ #台湾… https://t.co/8wOQg02pxk",
-    "time": 0.7458680555555555
-  },
-  {
-    "lat": 0.49033376666805506,
-    "lng": 0.4831871431747594,
-    "sentiment": 0.5,
-    "text": "See our latest Taipei City #job and click to apply: Auditor (Group Internal Audit / Audit Specialist / Rgnl/Ctry Au… https://t.co/BRKX0KgOm7",
-    "time": 0.7496527777777778
-  },
-  {
-    "lat": 0.802116615692887,
-    "lng": 0.03242043273876898,
-    "sentiment": 0.5500000007450581,
-    "text": "補貨 (@ Olivia Coffee Roaster in 台北市) https://t.co/4WzHU4nnUb",
-    "time": 0.754537037037037
-  },
-  {
-    "lat": 0.5317125405926321,
-    "lng": 0.4814341929394901,
-    "sentiment": 0.6000000014901161,
-    "text": "👀🇹🇼 @ 台北101觀景台 https://t.co/MFxQ3aX3tb",
-    "time": 0.7550231481481481
-  },
-  {
-    "lat": 0.6018545528062195,
-    "lng": 0.5174297059117074,
-    "sentiment": 0.7000000029802322,
-    "text": "フルーツティーも有名らしいが… (@ 一芳台灣水果茶 in Sinyi District, T’ai-pei Shih) https://t.co/IRz1XgCN8O",
-    "time": 0.8088888888888889
-  },
-  {
-    "lat": 0.8773410955171765,
-    "lng": 0.21950061952064154,
-    "sentiment": 0.09999999403953552,
-    "text": "動かないよ (@ 国父紀念館 in Taipei, 臺灣) https://t.co/gYengCWzJ5 https://t.co/CoS1lqcyYx",
-    "time": 0.8317245370370371
-  },
-  {
-    "lat": 0.5147094482538825,
-    "lng": 0.49720066525378337,
-    "sentiment": 0.6000000014901161,
-    "text": "We're #hiring! Read about our latest #job opening here: Pipeline - https://t.co/uYxg8Dnspz #Banking Taipei City #CareerArc",
-    "time": 0.8434143518518519
-  },
-  {
-    "lat": 0.45185279998753775,
-    "lng": 0.4835969251276519,
-    "sentiment": 0.7000000029802322,
-    "text": "Join the Standard Chartered Bank team! See our latest #job opening here: https://t.co/xkUj8ij8sM #Banking Taipei City #Hiring #CareerArc",
-    "time": 0.8902546296296298
-  },
-  {
-    "lat": 0.506322365279876,
-    "lng": 0.4366546150699027,
-    "sentiment": 0.5,
-    "text": "すっごーい！たっかーい！ (@ 台北101 in 臺北市 Taipei, 台北市) https://t.co/lN3PuH5sAD",
-    "time": 0.8959837962962963
-  },
-  {
-    "lat": 0.5511672428459574,
-    "lng": 0.4704908323970865,
-    "sentiment": 0.3999999985098839,
-    "text": "I'm at Taipei 101 in 臺北市 Taipei, 台北市 https://t.co/5F9qmy4KXQ",
-    "time": 0.9242824074074075
-  },
-  {
-    "lat": 0.5037134849868564,
-    "lng": 0.47643854776170375,
-    "sentiment": 0.6000000014901161,
-    "text": "We're #hiring! Read about our latest #job opening here: 外匯投資顧問 Treasury Specialist - https://t.co/mtHwte35F9 #Banking Taipei City #CareerArc",
-    "time": 0.9371643518518519
-  },
-  {
-    "lat": 0.5625304669982675,
-    "lng": 0.4573254304451284,
-    "sentiment": 0.6500000059604645,
-    "text": "fastest elevator in the world. 😲 #Taipei101 #Taipei #Taiwan @ Taipei101水舞廣場 https://t.co/h3P5p8Y3iN",
-    "time": 0.9766203703703703
-  },
-  {
-    "lat": 0.4867355315153573,
-    "lng": 0.49336728586897427,
-    "sentiment": 0.6000000014901161,
-    "text": "See our latest Taipei City #job and click to apply: Project Governance Manager, WM - https://t.co/jN9h9uMGnS #Banking #Hiring #CareerArc",
-    "time": 0.9840393518518519
-  },
-  {
-    "lat": 0.8720471050597066,
-    "lng": 0.21755917193195357,
-    "sentiment": 0.5500000007450581,
-    "text": "國父記念館でジャンプ！\n#國立國父紀念館 \n#國父記念館\n#開脚ジャンプ\n#ジャンプ\n#jump 場所: 國立國父紀念館National Dr.Sun Yat-sen Memorial Hall https://t.co/5yzTRs9t5Z",
-    "time": 0.9871875
-  },
-  {
-    "lat": 0.5038137186385381,
-    "lng": 0.5184215753977425,
-    "sentiment": 0.5500000007450581,
-    "text": "Can you recommend anyone for this #job? Cntry Snr Mgr,Brand &amp; Markting (Brand and Marketing / Regional/Ctry Brand&amp;… https://t.co/J1G0TP9tJs",
-    "time": 0.030925925925925926
-  },
-  {
-    "lat": 0.48386357917824935,
-    "lng": 0.4624994008067618,
-    "sentiment": 0.5500000007450581,
-    "text": "Want to work in Taipei City? View our latest opening: https://t.co/Pl1gZQQz5d #FinTech #Banking #Job #Jobs #Hiring",
-    "time": 0.053981481481481484
-  },
-  {
-    "lat": 0.6059376351755298,
-    "lng": 0.4175896619974592,
-    "sentiment": 0.6000000014901161,
-    "text": "ขออนุญาตสดใสค่าา 🇹🇼 @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/RR3tIulzB7",
-    "time": 0.05546296296296296
-  },
-  {
-    "lat": 0.9106217370618885,
-    "lng": 0.5683053047216895,
-    "sentiment": 0.44999999925494194,
-    "text": "Just posted a photo @ Morton's The Steakhouse - Taipei 台北莫爾頓牛排館 https://t.co/M3xKphdce3",
-    "time": 0.07435185185185185
-  },
-  {
-    "lat": 0.5069882389819473,
-    "lng": 0.25196621597052754,
-    "sentiment": 0.9000000059604645,
-    "text": "A wonderful day in Taipei with friends joining Taiwan Tongzhi Hotline Fundraising Party @ TICC 台北國際會議中心 https://t.co/IUceLTivwo",
-    "time": 0.4356712962962963
-  },
-  {
-    "lat": 0.5547938579628512,
-    "lng": 0.49787716188581593,
-    "sentiment": 0.5500000007450581,
-    "text": "💛 @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/8N5xSPSlwo",
-    "time": 0.47309027777777773
-  },
-  {
-    "lat": 0.6019016216281354,
-    "lng": 0.5015641505896489,
-    "sentiment": 0.3499999940395355,
-    "text": "Baru saja mengirim foto @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/NLSrYDegF1",
-    "time": 0.47659722222222217
-  },
-  {
-    "lat": 0.2570390852813902,
-    "lng": -0.09039350660417231,
-    "sentiment": 0.5,
-    "text": "好鮮哦～ @ 弎樓 Third floor https://t.co/qDKVSnMAjx",
-    "time": 0.5056481481481482
-  },
-  {
-    "lat": 0.233005679045186,
-    "lng": -0.0983077795541529,
-    "sentiment": 0.6500000059604645,
-    "text": "認真的廚男 g_chen0519 thirdfloor1805 @ 弎樓 Third floor https://t.co/Y292MRmIgy",
-    "time": 0.5098726851851852
-  },
-  {
-    "lat": 0.6726912808251163,
-    "lng": 0.5949012224481991,
-    "sentiment": 0.5500000007450581,
-    "text": "The fight between ramens. #ichiran #ichiranramen #forthewin #taipei #Mitsukoshi @ Ichiran Ramen ,taipei https://t.co/SQ1L1OjVRc",
-    "time": 0.5184722222222222
-  },
-  {
-    "lat": 0.7513005342164373,
-    "lng": 0.4188964551504894,
-    "sentiment": 0.6500000059604645,
-    "text": "#2018 07.15 A boiling hot day in Taipei. 🔥🔥🔥 @ #Taipeicityhall #Taipei101 #sunnyday #summer #summertime #Taipei… https://t.co/i2Mp0bsgUL",
-    "time": 0.531238425925926
-  },
-  {
-    "lat": 0.9247646197818759,
-    "lng": 0.5609535958179894,
-    "sentiment": 0.800000011920929,
-    "text": "このtaifu tipsy gold ciderがとても美味い。クラフトビールっていうの？ 美味い。サイダーなのかシードルなのかよくわからんけど美味い。#クラフトビール #台虎 @ 啜飲室 Landmark https://t.co/3w45vj6csu",
-    "time": 0.5834027777777778
-  }
-]
+{
+  "results": {
+    "direction": "ROHIT please place the output from the calculations here",
+    "tweets": [
+      {
+        "lat": 0.5270409382357052,
+        "lng": 0.44525964096504894,
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "I'm at Taipei 101 in \u81fa\u5317\u5e02 Taipei, \u53f0\u5317\u5e02 https://t.co/bnePP6vGlU",
+        "time": 0.008136574074074074
+      },
+      {
+        "lat": 0.4979762523347272,
+        "lng": 0.5013500465847368,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "See our latest Taipei City #job and click to apply: Product Manager,RB (Retail Banking / Retail Segments / Product\u2026 https://t.co/ervq2BKUH0",
+        "time": 0.020578703703703703
+      },
+      {
+        "lat": 0.9417440850804117,
+        "lng": 0.9457506237270301,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Bento Series No.110\nGrilled shrimps with spicy parsley sauce,\nBeef and broccoli stir-fry,\nBraised tofu skin wrapped\u2026 https://t.co/gpZPUykzQJ",
+        "time": 0.05211805555555555
+      },
+      {
+        "lat": 0.6993763952957464,
+        "lng": 0.6919730981549481,
+        "photo_url": "",
+        "sentiment": 0.29999999701976776,
+        "text":
+          "\u597d\u53ef\u6190\u4eca\u5929\u624d\u5403\u7b2c\u4e00\u6b21\u9084\u8981\u639240\u5206\u9418 @ \u4e00\u862d\u62c9\u9eb5 - \u53f0\u7063\u53f0\u5317\u672c\u5e97 https://t.co/DsXUL0f7aZ",
+        "time": 0.058611111111111114
+      },
+      {
+        "lat": 0.6329752329007049,
+        "lng": 0.586816559147632,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "\u5e73\u5e38\u65e5\u70ba\u4ec0\u9ebc\u9019\u88e1\u9019\u9ebc\u591a\u4eba @ \u4fe1\u7fa9\u5a01\u79c0\u5f71\u57ce https://t.co/fYZumVUCTf",
+        "time": 0.059652777777777784
+      },
+      {
+        "lat": 0.4597629009255169,
+        "lng": 0.4904362026500339,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "If you're looking for work in Taipei City, check out this #job: https://t.co/MJjPzm9Xru #DellJobs #BusinessMgmt #Hiring #CareerArc",
+        "time": 0.06744212962962963
+      },
+      {
+        "lat": 0.6877297053001482,
+        "lng": 0.7388251651396126,
+        "photo_url": "",
+        "sentiment": 0.25,
+        "text":
+          "\u4e00\u862d\u5c45\u7136\u73fe\u5728\u9084\u8981\u6392\u968a\u2026 @ \u4e00\u862d\u62c9\u9eb5 - \u53f0\u7063\u53f0\u5317\u672c\u5e97 https://t.co/wIa1k4EgMg",
+        "time": 0.1288888888888889
+      },
+      {
+        "lat": 0.6955129275696048,
+        "lng": 0.05059266427249335,
+        "photo_url": "",
+        "sentiment": 0.8499999940395355,
+        "text":
+          "\u611f\u89ba\u597d\u50cf\u5728\u5fae\u7b11 @ Basement Cafe Taipei. https://t.co/YhPCrifUgh",
+        "time": 0.1566898148148148
+      },
+      {
+        "lat": 0.4725253945330059,
+        "lng": 0.45151893927747905,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "Join the AMD team! See our latest #job opening here: https://t.co/KqgcpCLNLu #IT #AMD #software Taipei City #Hiring #CareerArc",
+        "time": 0.18288194444444447
+      },
+      {
+        "lat": 0.7513005342164373,
+        "lng": 0.4188964551504894,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "\u4f86\u627e\u67efP(X)\u5b78\u59d0(O) @ \u81fa\u5317\u5e02\u653f\u5e9c Taipei City Hall https://t.co/c984o4MhV8",
+        "time": 0.19893518518518516
+      },
+      {
+        "lat": 0.48323031416748896,
+        "lng": 0.5070303259483366,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "If you're looking for work in Taipei City, check out this #job: https://t.co/g7UVJ85GOo #Banking #Hiring #CareerArc",
+        "time": 0.22982638888888887
+      },
+      {
+        "lat": 0.47394980856010827,
+        "lng": 0.12846365354828615,
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "IKEA\u718a\u5bb6\u65cf\u597d\u53ef\u611b\u5440~~\u2764\nThe bear family of IKEA is so cute~~\u2764\nIKEA\u306e\u30d9\u30a2\u5bb6\u65cf\u306f\u3068\u3066\u3082\u304b\u308f\u3044\u3044\u3067\u3059\u3002\u2764\n#IKEA #\u5c0f\u718a\u5bb6\u65cf #\u597d\u53ef\u611b #\u592a\u5e73\u6d0b\u5546\u65c5 #\u53f0\u5317\u4fe1\u7fa9\u5340 #\u304b\u308f\u3044\u3044\u2026 https://t.co/jPPbrqZGpE",
+        "time": 0.2733217592592592
+      },
+      {
+        "lat": 0.9209901079969044,
+        "lng": 0.5090186134370347,
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "Inspiring and nice late night drink with friend. @ W Hotel  Woobar https://t.co/d5Ts9Io25u",
+        "time": 0.6602430555555555
+      },
+      {
+        "lat": 0.8791463451512912,
+        "lng": 0.0077226402119576,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "#\u5c0f\u7c73\u5947\u5148\u751f #scooter #motorcycle #pink #ride #smile #chic @ \u8499\u53e4\u7d05-  \u5168\u53f0\u7063\u6700\u9053\u5730\u7684\u8499\u53e4\u706b\u934b https://t.co/tG8QmQrdCT",
+        "time": 0.6701967592592593
+      },
+      {
+        "lat": 0.7512894147236429,
+        "lng": 0.4133350692181274,
+        "photo_url": "http://pbs.twimg.com/media/Dieh_-gVMAI7k9L.jpg",
+        "sentiment": 0.5,
+        "text":
+          "United Daily News\nTaipei, Taiwan\nThursday, July 19, 2018\nhttps://t.co/zZiqvgYbpq https://t.co/RFC8qnKEbs",
+        "time": 0.6953009259259259
+      },
+      {
+        "lat": 0.5448488057379428,
+        "lng": 0.46197654242951364,
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "#\u81fa\u5317 \u7684\u5929\u7a7a \ud83c\uddf9\ud83c\uddfc\ud83c\udf24 #TBT #\u53f0\u5317 taipei101mall_official @ \u53f0\u5317101\u89c0\u666f\u53f0 https://t.co/L8wow5rmzO",
+        "time": 0.7165046296296297
+      },
+      {
+        "lat": 0.6388268659154142,
+        "lng": 0.6212019434206058,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "\u597d\u5403\uff5e\u9019\u9053\u83dc\u53eb\u300c\u71c8\u7c60\u300d..\u662f\u96de\u7684\u8f38\u5375\u7ba1+\u672a\u6210\u719f\u7684\u96de\u86cb\uff01\u807d\u8d77\u4f86\u5f88\u602a\u7570\uff0c\u4e00\u53e3\u5403\u6389\uff0c\u86cb\u5728\u5634\u88e1\u7206\u958b\u4f86.. \u8d85\u597d\u5403.\uff01 (@ \u53f0\u5317\u9ce5\u559c produced by Toriki in Sinyi District, T\u2019ai-pei Shih)\u2026 https://t.co/jPzXnQjj9D",
+        "time": 0.7803703703703704
+      },
+      {
+        "lat": 0.5143085880979934,
+        "lng": 0.4493639905004157,
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "This building is visible anywhere in Taipei. You should never miss out going up the obervatory. \ud83d\udd92 @ \u53f0\u5317101\u89c0\u666f\u53f0 https://t.co/WiN8lbAI8u",
+        "time": 0.8021412037037036
+      },
+      {
+        "lat": 0.5579698070820551,
+        "lng": 0.45990915765898494,
+        "photo_url": "",
+        "sentiment": 0.949999988079071,
+        "text":
+          "\u4e2d\u83ef\u6c11\u570b\u679c\u7136\u5145\u6eff\u85dd\u8853\u6c23\u606f\uff08\u8c9d\u591a\u82ac\uff09 @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/Smmru2hNUl",
+        "time": 0.8951851851851851
+      },
+      {
+        "lat": 0.5751546329547111,
+        "lng": 0.4480028596283903,
+        "photo_url": "",
+        "sentiment": 0.3999999985098839,
+        "text":
+          "\u525b\u525b\u767c\u4f48\u4e86 1 \u5f35\u76f8\u7247 @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/rjq0ALU9bi",
+        "time": 0.9017245370370371
+      },
+      {
+        "lat": 0.47331339861063937,
+        "lng": 0.4753070030019858,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Want to work in Taipei City? View our latest opening: https://t.co/JtRGnjYbO3 #Banking #Job #Jobs #Hiring #CareerArc",
+        "time": 0.9506828703703704
+      },
+      {
+        "lat": 0.5261968794259729,
+        "lng": 0.5437294140236222,
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "Join the Standard Chartered Bank team! See our latest #job opening here: https://t.co/7kKANsW6VL #FinTech #Banking Taipei City #Hiring",
+        "time": 0.958113425925926
+      },
+      {
+        "lat": 0.5243912749825684,
+        "lng": 0.48751919373431074,
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "See our latest Taipei City #job and click to apply: Business Development Officer, Personal Client Acquisition, CC f\u2026 https://t.co/8piFzYOJ9T",
+        "time": 0.9716898148148148
+      },
+      {
+        "lat": 0.5213988088526695,
+        "lng": 0.4266135557047859,
+        "photo_url": "",
+        "sentiment": 0.3999999985098839,
+        "text":
+          "Just posted a photo @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/07K5ttgQ0z",
+        "time": 0.981724537037037
+      },
+      {
+        "lat": 0.522496957558487,
+        "lng": 0.44449444665064436,
+        "photo_url": "",
+        "sentiment": 0.3999999985098839,
+        "text":
+          "First stop! \ud83e\udd24 @ Din Tai Fung @ Taipei 101 https://t.co/2B6bBooMNC",
+        "time": 0.0013194444444444443
+      },
+      {
+        "lat": 0.4972662830422133,
+        "lng": 0.5175133038312234,
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "Join the Standard Chartered Bank team! See our latest #job opening here: https://t.co/5TI06MtHdC #FinTech #Banking Taipei City #Hiring",
+        "time": 0.006354166666666667
+      },
+      {
+        "lat": 0.5447231026050877,
+        "lng": 0.4876528049769257,
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "Join the Standard Chartered Bank team! See our latest #job opening here: https://t.co/caspVjNSVY #Banking Taipei City #Hiring #CareerArc",
+        "time": 0.044641203703703704
+      },
+      {
+        "lat": 0.8008690086160116,
+        "lng": 0.6188932630101541,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Semi buffet. Pick an entree, and the price comes with seafood appetizer and a small scale buffet dishes. Still not\u2026 https://t.co/x8yStCC8dr",
+        "time": 0.09231481481481481
+      },
+      {
+        "lat": 0.4602928476696661,
+        "lng": 0.029858366719407337,
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "blew-me-away savory G+T! xoxo, ms. bond @ Sidebar https://t.co/qdljF5Awav",
+        "time": 0.13027777777777777
+      },
+      {
+        "lat": 0.5315054145405101,
+        "lng": 0.48883340199537123,
+        "photo_url": "http://pbs.twimg.com/media/DicRoCrU8AIyw6h.jpg",
+        "sentiment": 0.5,
+        "text":
+          "\u53f0\u5317\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u30bf\u30ef\u30fc101 https://t.co/3v3piumZtn",
+        "time": 0.1333912037037037
+      },
+      {
+        "lat": 0.5103459692809316,
+        "lng": 0.49425035042833343,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "This #job might be a great fit for you: Team Leader, Personal Client Acquisition - https://t.co/PqJegG7QpW #Banking\u2026 https://t.co/lMOK9FnKSE",
+        "time": 0.13848379629629629
+      },
+      {
+        "lat": 0.5259451122336167,
+        "lng": 0.26191374348739765,
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "It\u2019s been an amazing morning here at Digital Innovation Forum : former President of Estonia, founders of Wikipedia,\u2026 https://t.co/AGoTE9pd2t",
+        "time": 0.17266203703703706
+      },
+      {
+        "lat": 0.5322621713258802,
+        "lng": 0.5138218357777402,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "We're #hiring! Read about our latest #job opening here: Snr Mgr, Accounts Payable (Finance / Core Accounting / Acco\u2026 https://t.co/0UD2XQBSXb",
+        "time": 0.18548611111111113
+      },
+      {
+        "lat": 0.4823101941004394,
+        "lng": 0.247084610721268,
+        "photo_url": "",
+        "sentiment": 0.8499999940395355,
+        "text":
+          "It\u2019s full house here at the Digital Innovation Forum organized by ABAC. @ TICC \u53f0\u5317\u570b\u969b\u6703\u8b70\u4e2d\u5fc3 https://t.co/VZwV5X1n72",
+        "time": 0.18613425925925928
+      },
+      {
+        "lat": 0.4797955741127465,
+        "lng": 0.29421453187464996,
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "Sophia the robot delivers some welcome remarks at the Digital Innovation Forum in Taipei. Imagine life when Sophia\u2026 https://t.co/TzXb1y7NaS",
+        "time": 0.20778935185185185
+      },
+      {
+        "lat": 0.5420005259738057,
+        "lng": 0.49085784736976995,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "We're #hiring! Read about our latest #job opening here: Snr Mgr, Accounts Payable (Finance / Core Accounting / Acco\u2026 https://t.co/sYn6Ig4Qfk",
+        "time": 0.6700231481481481
+      },
+      {
+        "lat": 0.7275569613191907,
+        "lng": 0.029717536557333814,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "\u525b\u525b\u767c\u4f48\u4e86 1 \u5f35\u76f8\u7247 @ Basement Cafe Taipei. https://t.co/H9K5Xt52dQ",
+        "time": 0.6979976851851851
+      },
+      {
+        "lat": 0.7450927601846419,
+        "lng": 0.0945659110040141,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "\u525b\u525b\u767c\u4f48\u4e86 1 \u5f35\u76f8\u7247 @ Basement Cafe Taipei. https://t.co/aFSc7BFfBI",
+        "time": 0.7365856481481482
+      },
+      {
+        "lat": 0.7832001347721239,
+        "lng": 0.4218912413256564,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "I'm at \u53f0\u5317\u5e02 in Taiwan https://t.co/4vPw901jmF",
+        "time": 0.7376157407407408
+      },
+      {
+        "lat": 0.5986498823627593,
+        "lng": 0.4873303941781375,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "\u53f0\u6e7e\u3067\u304a\u4ed5\u4e8b\n\n#\u53f0\u5317 \n#taipei \n#\u53f0\u5317101 \n#\u53f0\u6e7e \u5834\u6240: TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/MUtBeqptv2",
+        "time": 0.7519328703703704
+      },
+      {
+        "lat": 0.9372187472628403,
+        "lng": 0.9197702065712914,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "Lemony roasted chicken legs. \n\nFull\u2026 https://t.co/bgwHbhh4Uv",
+        "time": 0.756701388888889
+      },
+      {
+        "lat": 0.6819349455092097,
+        "lng": 0.011872891016677642,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "\u9023\u70cf\u9f9c\u5011\u90fd\u722d\u5148\u6050\u5f8c\u7684\u60f3\u559d\u897f\u897f\u91cc\u5496\u5561\uff01 @ Basement Cafe Taipei. https://t.co/1bHSiyz1pI",
+        "time": 0.7708680555555555
+      },
+      {
+        "lat": 0.6881135861480677,
+        "lng": 0.04845923276890553,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "\u525b\u525b\u767c\u4f48\u4e86 1 \u5f35\u76f8\u7247 @ Basement Cafe Taipei. https://t.co/TnaBdcAKLA",
+        "time": 0.7889583333333333
+      },
+      {
+        "lat": 0.8246891858018227,
+        "lng": -0.08737101424930094,
+        "photo_url": "",
+        "sentiment": 0.949999988079071,
+        "text":
+          "\ud83d\ude18\ud83d\ude18\ud83d\ude18\u8001\u9f0e\u65fa\u9ebb\u8fa3\u934b\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffbYummy Yummy\ud83d\udc95\ud83d\udc95\ud83d\udc95#\u5289\u5927\u5f37#\u97d3\u5fd7\u6770#\u8001\u9f0e\u65fa\u5ddd\u5473\u934b\u7269 #yummyyummy #love #tagsforlikes#follow #cute #photooftheday #followme\u2026 https://t.co/wJH7vM4eDx",
+        "time": 0.830138888888889
+      },
+      {
+        "lat": 0.5225807769973357,
+        "lng": 0.4406289990090784,
+        "photo_url": "",
+        "sentiment": 0.29999999701976776,
+        "text":
+          "I'm at \u53f0\u5317101 in \u81fa\u5317\u5e02 Taipei, \u53f0\u5317\u5e02 https://t.co/C0etqOyL70",
+        "time": 0.8746412037037037
+      },
+      {
+        "lat": 0.7162741323233496,
+        "lng": 0.17357082570002236,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "\u95dc\u4e86... xoxo, Ms. Bond @ Sunset https://t.co/XFHeucsmK7",
+        "time": 0.9417013888888889
+      },
+      {
+        "lat": 0.4659001708019158,
+        "lng": 0.5183773735316591,
+        "photo_url": "",
+        "sentiment": 0.44999999925494194,
+        "text":
+          "Want to work at Standard Chartered Bank? We're #hiring in Taipei City! Click for details: https://t.co/nQA0RPffnr\u2026 https://t.co/MCAdqM00fr",
+        "time": 0.9528935185185187
+      },
+      {
+        "lat": 0.579198030527634,
+        "lng": 0.6913393822584684,
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "DevC Taipei x Modern Web 2018 @ \u83ef\u5357\u9280\u884c\u570b\u969b\u6703\u8b70\u4e2d\u5fc3 https://t.co/CM5hxB30n8",
+        "time": 0.003391203703703704
+      },
+      {
+        "lat": 0.5659313638298112,
+        "lng": 0.44674015847053355,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Shoppping time (@ Taipei 101 Mall in Taipei, \u53f0\u5317\u5e02) https://t.co/xMzMNokRSv",
+        "time": 0.03262731481481482
+      },
+      {
+        "lat": 0.1069259343112118,
+        "lng": -0.1372421381007411,
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "12, \u6d3b\u52d5\u98f2\u54c1\u300cCreamy Black \u6eab\u6696\u7684\u8ddd\u96e2\u300d\n\u8089\u6842\u8207\u9ed1\u7cd6\u7684\u51b0\u9663\u4ea4\u6d41\n\u51b0\u7f85\u99ac\u5496\u5561\uff0c\u6ab8\u6aac\u9999\u6c23\u8207\u9178\u5473\n\n#\u53f0\u5317\u5496\u5561\u5de1\u79ae #adreamtogo \n#\u73c8\u7432 #\u55ab\u8336\u5e97 #coffee #ladyous #Taipeicoffee\u2026 https://t.co/xu50OcouXV",
+        "time": 0.03564814814814815
+      },
+      {
+        "lat": 0.49227170454592456,
+        "lng": 0.5141793370109429,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Can you recommend anyone for this #job? Packaging Engineer - https://t.co/adRTf4wD9s #DellJobs #Engineering Taipei City #Hiring #CareerArc",
+        "time": 0.04703703703703704
+      },
+      {
+        "lat": 0.48213375516118445,
+        "lng": 0.3041309091990063,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "\u2728 @ Adidas 101 https://t.co/9rjzRct6VK",
+        "time": 0.07866898148148148
+      },
+      {
+        "lat": 0.5138232326716979,
+        "lng": 0.47852729067208155,
+        "photo_url": "",
+        "sentiment": 0.8499999940395355,
+        "text":
+          "See our latest Taipei City #job and click to apply: Platform Software Principal Engineer - EC Engineer -\u2026 https://t.co/A4rjoJ05IZ",
+        "time": 0.09394675925925926
+      },
+      {
+        "lat": 0.9214938210146044,
+        "lng": 0.5741372037203389,
+        "photo_url": "",
+        "sentiment": 0.44999999925494194,
+        "text":
+          "\u525b\u525b\u767c\u4f48\u4e86 1 \u5f35\u76f8\u7247 @ \u96de\u4e09\u548c https://t.co/8axOBq9Li1",
+        "time": 0.13918981481481482
+      },
+      {
+        "lat": 0.542980973029193,
+        "lng": 0.5091734918351608,
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "This #job might be a great fit for you: Electrical Senior Principal Engineer (I9) - https://t.co/uxEACAdGKE\u2026 https://t.co/Rk4NcFzsZO",
+        "time": 0.14082175925925924
+      },
+      {
+        "lat": 0.5305635911906743,
+        "lng": 0.4714590862516171,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Want to work at DELL? We're #hiring in Taipei City! Click for details: https://t.co/5og8EF6Kqh #DellJobs #Engineering #Job #Jobs #CareerArc",
+        "time": 0.18780092592592593
+      },
+      {
+        "lat": 0.4662509505291228,
+        "lng": 0.46455375773054786,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Want to work in Taipei City? View our latest opening: https://t.co/nYQyYDQWuN #DellJobs #BusinessMgmt #Job #Jobs #Hiring #CareerArc",
+        "time": 0.23478009259259258
+      },
+      {
+        "lat": 0.5612520581233631,
+        "lng": 0.4597597894827632,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Yung hirap na hirap kaming 3 paano kukuha ng picture sa Taipei 101... siya (last pic) walang kahirap hirap... nyaha\u2026 https://t.co/9xmSWThFmu",
+        "time": 0.2622569444444444
+      },
+      {
+        "lat": 0.4982987176220118,
+        "lng": 0.5008916352442969,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "We're #hiring! Click to apply: Account Manager - https://t.co/lIlny5wmzu #Sales #Taipei #Job #Jobs #CareerArc",
+        "time": 0.28174768518518517
+      },
+      {
+        "lat": 0.5485037829767571,
+        "lng": 0.34926276503855797,
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "\u305d\u3046\u3044\u3048\u3070 #\u53f0\u5317101 \u304c #\u30d5\u30ea\u30fc\u30b6 \u69d8\u7684\u306a\u96f0\u56f2\u6c17\u3060\u3063\u305f\u306e\u3067\u304a\u77e5\u3089\u305b\u3057\u3066\u304a\u304d\u307e\u3059\u306d\u3002 @ \u81fa\u5317\u4e16\u754c\u8cbf\u6613\u4e2d\u5fc3 https://t.co/clilGAlnAd",
+        "time": 0.7195833333333334
+      },
+      {
+        "lat": 0.5216890775621893,
+        "lng": 0.34876686398052825,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "CHANGE is INEVITABLE \u270c\ud83c\udfff @ Adidas 101 https://t.co/R9cdQEkiii",
+        "time": 0.7719328703703704
+      },
+      {
+        "lat": 0.9496333651259918,
+        "lng": 0.44790532927264887,
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "\u770b\u6211\u767c\u5c04\u611b\u5fc3\u5149\u6ce2\u6536\u670d\u4f60\ud83d\udc9e\ud83d\udc9e\ud83d\udc9e\nNot sailor moon, I\u2019m sailor heart! @ NU SKIN TW https://t.co/YQsZZxqUba",
+        "time": 0.7962268518518517
+      },
+      {
+        "lat": 0.5732504263361946,
+        "lng": 0.4918127641617081,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "Taipei 101 Observatory\n.\n.\n.\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nThe architecture of this o\u2026 https://t.co/vAQRRHfC7N",
+        "time": 0.8043055555555556
+      },
+      {
+        "lat": 0.7748296371176024,
+        "lng": 0.45314435320568713,
+        "photo_url": "http://pbs.twimg.com/media/DiTqJhPV4AAA6ud.jpg",
+        "sentiment": 0.5,
+        "text":
+          "Apple Daily - Taiwan edition\nTaipei, Taiwan\nTuesday, July 17, 2018\nhttps://t.co/bj2hRFhabk https://t.co/dOYi4xc0nw",
+        "time": 0.8068518518518517
+      },
+      {
+        "lat": 0.540295329182674,
+        "lng": 0.46842674334278755,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "\u300c\u6240\u6709\u6539\u8b8a......\u90fd\u6709\u4ee4\u4eba\u611f\u50b7\u4e4b\u8655\uff1b\u56e0\u70ba\u6211\u5011\u6240\u62cb\u4e0b\u7684\u662f\u81ea\u5df1\u7684\u4e00\u90e8\u5206\uff1b\u6211\u5011\u5fc5\u9808\u7d50\u675f\u4e00\u500b\u4eba\u751f\uff0c\u624d\u6703\u9032\u5165\u53e6\u4e00\u500b\u4eba\u751f\u3002\u300d\n\n\u2014\u2014\u963f\u7d0d\u6258\u723e\u00b7\u6cd5\u6717\u58eb\n\n\u800c\u6211\u6c7a\u5b9a\uff0c\n\u64c1\u62b1\u9019\u6a23\u7684\u611f\u50b7\u3002 @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/fIU71GJGYH",
+        "time": 0.8486921296296296
+      },
+      {
+        "lat": 0.30874472617112053,
+        "lng": -0.05613859325158841,
+        "photo_url": "",
+        "sentiment": 0.949999988079071,
+        "text":
+          "\u8d85\u7d1a\u6fc3\u90c1\u7684\u5496\u55b1\uff0c\u6599\u4e5f\u8d85\u8c50\u5bcc\u2728\u269c\ufe0f#spoon #\u7121\u6c34\u5496\u55b1 #\u5496\u55b1 @ https://t.co/tOiK6vNCka https://t.co/aQC22y155N",
+        "time": 0.8542708333333334
+      },
+      {
+        "lat": 0.975353863608164,
+        "lng": 0.4521252323486048,
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "Sometimes you\u2019ve just gotta give in to those burger cravings right?! Loved this cheeseburger from Awesome Burger in\u2026 https://t.co/diRFOQY0bf",
+        "time": 0.8710416666666666
+      },
+      {
+        "lat": 0.5712766837553432,
+        "lng": 0.4923691304007753,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "Hasil Jepretannya Keren euy..\n\nhahaii  Ya ia lah, org si Om Bule nya sambil Jongkok Jongkok motoinnya..\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\nThx,xie\u2026 https://t.co/wT5MTjtzOX",
+        "time": 0.9023958333333334
+      },
+      {
+        "lat": 0.510899285243837,
+        "lng": 0.4722220704891468,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Baru saja mengirim foto @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/xBUDebrVX4",
+        "time": 0.9043865740740741
+      },
+      {
+        "lat": 0.5867946561935447,
+        "lng": 0.45057632238520845,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "#taipei101mall @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/NEvAbEbd60",
+        "time": 0.9059259259259259
+      },
+      {
+        "lat": 0.5906454551447013,
+        "lng": 0.46988210643579603,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Baru saja mengirim foto @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/INmlt7HuGw",
+        "time": 0.9071527777777777
+      },
+      {
+        "lat": 0.5081235250841725,
+        "lng": 0.42491335973392086,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Baru saja mengirim foto @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/XYsIe69WNs",
+        "time": 0.9111921296296296
+      },
+      {
+        "lat": 0.5489356747478459,
+        "lng": 0.41581030909520006,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "Baru saja mengirim foto @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/Lzapmv1GyF",
+        "time": 0.9125347222222221
+      },
+      {
+        "lat": 0.5163620565932495,
+        "lng": 0.43990539165405984,
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Baru saja mengirim foto @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/oB8qFKDQhw",
+        "time": 0.9139814814814815
+      },
+      {
+        "lat": 0.34599502659701487,
+        "lng": -0.005259971949001711,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "\u3053\u3061\u3089\u306f\u6691\u304f\u3066\u51b7\u305f\u3044\u9ed2\u80e1\u9ebb\u767d\u7389\u30ab\u30ad\u51b0#\u53f0\u5317 #taipei #\u53f0\u5317\u30b0\u30eb\u30e1 \u5834\u6240: \u5fa1\u54c1\u5143\u51b0\u706b\u6e6f\u5713-\u53f0\u5317\u7e3d\u5e97 https://t.co/e6vX4j4Pbt",
+        "time": 0.9217013888888889
+      },
+      {
+        "lat": 0.5195475567737992,
+        "lng": 0.5412544940700621,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "Can you recommend anyone for this #job? Sr Clin Plan Analyst - https://t.co/oIjS87HlAE",
+        "time": 0.9554976851851853
+      },
+      {
+        "lat": 0.534195869754012,
+        "lng": 0.503914846560253,
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "Interested in a #job in #Taipei? This could be a great fit: https://t.co/R6VvOHMqI1",
+        "time": 0.9730439814814815
+      },
+      {
+        "lat": 0.5409197330049859,
+        "lng": 0.44312676886047847,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "I'm at @Apple Taipei 101 in \u53f0\u5317\u5e02, \u53f0\u7063\u7701 https://t.co/lRY9dVuF46",
+        "time": 0.9739699074074074
+      },
+      {
+        "lat": 0.46597766927597617,
+        "lng": 0.47090723571809806,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "If you're looking for work in Taipei City, check out this #job: https://t.co/7XwDfy5o4m",
+        "time": 0.002384259259259259
+      },
+      {
+        "lat": 0.46179785132647544,
+        "lng": 0.4668146380743915,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "We're #hiring! Read about our latest #job opening here: Sr. Analyst, Project/Program Management, Consumer Inspiron - https://t.co/kqPZeUEQZb",
+        "time": 0.04915509259259259
+      },
+      {
+        "lat": 0.1131200477000776,
+        "lng": 0.684270276389327,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "\u0e2d\u0e35\u0e40\u0e1a\u0e27\u0e40\u0e07\u0e35\u0e22\u0e1a\u0e46\u0e19\u0e35\u0e48\u0e40\u0e25\u0e48\u0e19\u0e17\u0e27\u0e34\u0e15\u0e15\u0e25\u0e2d\u0e14\u0e19\u0e30",
+        "time": 0.05378472222222222
+      },
+      {
+        "lat": 0.11298883768664437,
+        "lng": 0.6842717876359873,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "@phalonephone @chinnagus_ \u0e2d\u0e35\u0e1e\u0e27\u0e01\u0e2b\u0e35",
+        "time": 0.06329861111111111
+      },
+      {
+        "lat": 0.19075300963546718,
+        "lng": 0.8549630133734452,
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "We meet, again \ud83d\udc95 @ Xiangshan, Taipei https://t.co/zGIUAprqnY",
+        "time": 0.16180555555555556
+      },
+      {
+        "lat": 0.49964117227967547,
+        "lng": 0.5049093019868705,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "See our latest Taipei City #job and click to apply: Assoc Medical Dir - https://t.co/ULAur8fbBJ",
+        "time": 0.189525462962963
+      },
+      {
+        "lat": 0.5155105557181833,
+        "lng": 0.5041451094665856,
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "Interested in a #job in Taipei City? This could be a great fit: https://t.co/mApv7i8DHb",
+        "time": 0.236400462962963
+      },
+      {
+        "lat": 0.6154564722079614,
+        "lng": 0.6843413049601687,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "\u0e44\u0e16\u0e40\u0e1b\u0e2d\u0e35\u0e49\u0e2b\u0e25\u0e34\u0e07\u0e2d\u0e35",
+        "time": 0.2958912037037037
+      },
+      {
+        "lat": 0.6149883415667688,
+        "lng": 0.6843095687903247,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "@tanint__ \u0e14\u0e35\u0e27\u0e48\u0e30\u0e41\u0e21\u0e48\u0e07\u0e40\u0e2d\u0e49\u0e22",
+        "time": 0.2961226851851852
+      },
+      {
+        "lat": 0.6143183921338072,
+        "lng": 0.6842642314048334,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "@tanint__ \u0e1e\u0e35\u0e48\u0e40\u0e23\u0e35\u0e22\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e1c\u0e31\u0e27\u0e1e\u0e35\u0e48\u0e40\u0e23\u0e35\u0e22\u0e19\u0e04\u0e30",
+        "time": 0.2967013888888889
+      },
+      {
+        "lat": 0.4710504008477453,
+        "lng": 0.304918268457747,
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "\ud83c\udf40\ud83d\udc6f\ud83c\udfb6\n@yumiiiyuuki \n#\u3086\u307f\u305b\u306a \n#\u305b\u306a\u3086\u307f \n#gm \u5834\u6240: \u6c96\u7e69 https://t.co/8DoThETnID",
+        "time": 0.3453819444444444
+      },
+      {
+        "lat": 0.6010767442941792,
+        "lng": 0.5181828102564091,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "7/15 Sun. #ainightclub pt. 1-2 #ugvboyz 7th #boyskullakaobk #UVB #ungovernabledjstudio  #dj\u6559\u5b78\u8aee\u8a62\u7db2\uff1a\u2026 https://t.co/mV6uykvH3P",
+        "time": 0.45250000000000007
+      },
+      {
+        "lat": 0.4160478303831903,
+        "lng": 0.10707599389786351,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Space Inn Hostel - it feels like you are inside a spaceship!! @ Space Inn Xin Yi Branch \u592a\u7a7a\u8259\u65c5\u820d \u4fe1\u7fa9\u9928 https://t.co/7vg0udUoD1",
+        "time": 0.5552314814814815
+      },
+      {
+        "lat": 0.6010338872718812,
+        "lng": 0.43816099304547473,
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "My first time ever seeing Taipei 101 in person - incredible!! @ TAIPEI 101 MALL \u53f0\u5317 101 \u8cfc\u7269\u4e2d\u5fc3 https://t.co/beztTVdGnt",
+        "time": 0.5569444444444445
+      },
+      {
+        "lat": 0.665124466066821,
+        "lng": 0.6037722375085403,
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "This apple pie with Hokkaido milk ice cream is unbeatable. The pastry is so puffy,  buttery, and yummy!\n\n#rapl\u2026 https://t.co/iWPjRrQ3X9",
+        "time": 0.5667245370370371
+      },
+      {
+        "lat": 0.853599866729297,
+        "lng": 0.5231724413853188,
+        "photo_url": "",
+        "sentiment": 0.949999988079071,
+        "text":
+          "\u751f\u65e594\u8981\u958b\u6d74\u8863\u8db4\u2764\ufe0f\u5e36\u8457\u4e00\u5806\u548c\u670d\u59b9\u5b50\u51fa\u5834\u597d\u5a01\u98a8 #\u9b5a\u5e72\u5973\u306e\u7d20\u6575\u751f\u6d3b #\u6211\u773c\u4e2d\u7684\u7f8e\u597d \u5834\u6240: Vavavoom https://t.co/DCe1Qms4Fa",
+        "time": 0.6697800925925926
+      },
+      {
+        "lat": 0.5691940007364068,
+        "lng": 0.23413250840619879,
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "B.A.P. \u53f0\u5317\u6f14\u5531\u6703\n#kpop #livesound #concert @ TICC \u53f0\u5317\u570b\u969b\u6703\u8b70\u4e2d\u5fc3 https://t.co/NnHzyTjZCh",
+        "time": 0.6765393518518518
+      },
+      {
+        "lat": 0.6599900403290544,
+        "lng": 0.6322572129562181,
+        "photo_url": "",
+        "sentiment": 0.949999988079071,
+        "text":
+          "\u65b0\u8a08\u5283\u3001\u65b0\u76ee\u6a19\u3001\u5922\u60f3\u3001\u4eba\u751f\uff0c\u958b\u59cb\u5c31\u6c92\u6709\u505c\u6b62\ud83e\udd1a\uff0c\u76f4\u5230\u5be6\u73fe\u70ba\u6b62\uff01\u5c0d\u65bc\u8981\u505a\u7684\u4e8b\u60c5\uff0c\u5c31\u662f\u5805\u6301\u270a\u5230\u5e95\uff01\ud83d\udd25\ud83d\udd25\ud83d\udd25 #redwang #fitness #workout #mydream #\u5065\u8eab #\u5922\u60f3 #\u5805\u6301 #photooftheday\u2026 https://t.co/P3ZK0qtPr1",
+        "time": 0.7211458333333334
+      },
+      {
+        "lat": 0.4895915529599209,
+        "lng": 0.44241673903194406,
+        "photo_url": "",
+        "sentiment": 0.3499999940395355,
+        "text":
+          "Dumpling adventure @ Din Tai Fung @ Taipei 101 https://t.co/UtfrHMYv4v",
+        "time": 0.7548726851851852
+      },
+      {
+        "lat": 0.5667998766563728,
+        "lng": 0.45414084862096865,
+        "photo_url": "",
+        "sentiment": 0.44999999925494194,
+        "text":
+          "Just posted a video @ \u53f0\u5317101\u89c0\u666f\u53f0 https://t.co/RVkmNmCK6O",
+        "time": 0.7788541666666666
+      },
+      {
+        "lat": 0.5732003487841916,
+        "lng": 0.4813675460150353,
+        "photo_url": "",
+        "sentiment": 0.3999999985098839,
+        "text":
+          "Just posted a photo @ \u53f0\u5317101\u89c0\u666f\u53f0 https://t.co/K9NVovivNh",
+        "time": 0.7839583333333334
+      },
+      {
+        "lat": 0.5555867449649516,
+        "lng": 0.4842467857636668,
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "I'm at \u53f0\u5317101 in \u81fa\u5317\u5e02 Taipei, \u53f0\u5317\u5e02 https://t.co/RMTzoy2qwr",
+        "time": 0.8288657407407407
+      }
+    ]
+  },
+  "status": 1
+}

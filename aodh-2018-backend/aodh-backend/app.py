@@ -97,12 +97,12 @@ def return_latest_tweets_by_coord():
             in: query
             type: number
             required: true
-            default: 51.474144
+            default: 25.037757
           - name: lng
             in: query
             type: number
             required: true
-            default: -0.035401
+            default: 121.547187
         responses:
           200:
             description: returns a json list of tweets
@@ -124,8 +124,14 @@ def return_latest_tweets_by_coord():
         "lng": lng
     }
 
-    return jsonify(get_tweet_list(query=req))
+    response = {
+        "results": get_tweet_list(query=req),
+        "status": 1
+    }
+
+    return jsonify(response)
 
 
+# add ssl_context='adhoc' to application.run() to generate a self-signed certificate
 application.run(host='0.0.0.0', port=5000, debug=False)
 print('a flask app is initiated at {0}'.format(application.instance_path))

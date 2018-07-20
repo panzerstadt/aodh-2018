@@ -25,14 +25,16 @@ def process_posts(posts=None, location=None, format=None, exact_location_only=Tr
 
         output = []
         for v in posts:
-            # norm_lat = remap()
-            # norm_lng = remap()
+            # debug
+            # print(json.dumps(v, indent=4, ensure_ascii=False))
+
             try:
                 lat = v['coordinates']['coordinates'][1]
                 lng = v['coordinates']['coordinates'][0]
                 print(lat, lng)
             except:
                 if exact_location_only:
+                    print('exact_location_only flag is set to True. skipping this post: {}'.format(v['text']))
                     continue
                 coords = v['place']['bounding_box']['coordinates'][0]
                 print(coords)
@@ -48,14 +50,19 @@ def process_posts(posts=None, location=None, format=None, exact_location_only=Tr
             norm_lat = remap(lat, bbox.lat_min, bbox.lat_max, 0, 1)
             norm_lng = remap(lng, bbox.lng_min, bbox.lng_max, 0, 1)
 
-
+            # grab photos
+            try:
+                photo = v['media'][0]['media_url']
+            except:
+                photo = ''
 
             output_single = {
                 "text": v['text'],
                 "sentiment": remap(analyze_sentiment(v['text']).score, -1, 1, 0, 1),
                 "lat": norm_lat,
                 "lng": norm_lng,
-                "time": normalize_time(v['created_at'])
+                "time": normalize_time(v['created_at']),
+                "photo_url": photo
             }
             output.append(output_single)
         return output

@@ -17,6 +17,7 @@ google-cloud = "*"
 ekphrasis = "*"
 ujson = "*"
 googlemaps = "*"
+pyopenssl = "*"
 
 [dev-packages]
 
