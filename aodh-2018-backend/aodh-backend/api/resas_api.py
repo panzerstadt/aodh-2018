@@ -2,7 +2,10 @@ from hidden.hidden import Resas
 from api.google_api import translate_text
 from utils.cache_utils import kw_cache_wrapper
 import requests
-import json
+try:
+    import ujson as json
+except:
+    import json
 
 resas = Resas()
 API_KEY = resas.api_key
