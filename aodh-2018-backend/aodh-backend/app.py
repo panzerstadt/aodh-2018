@@ -103,6 +103,16 @@ def return_latest_tweets_by_coord():
             type: number
             required: true
             default: 121.547187
+          - name: disaster
+            in: query
+            type: string
+            required: true
+            default: "false"
+          - name: radius
+            in : query
+            type: number
+            required: false
+            default: 1
         responses:
           200:
             description: returns a json list of tweets
@@ -116,12 +126,20 @@ def return_latest_tweets_by_coord():
                   type: number
                   default: 200
     """
-    lat = request.args.get('lat')
-    lng = request.args.get('lng')
+    lat = float(request.args.get('lat'))
+    lng = float(request.args.get('lng'))
+    disaster_switch = request.args.get('disaster')
+    if disaster_switch == "true":
+        disaster_switch = True
+    else:
+        disaster_switch = False
+    rad = float(request.args.get('radius'))
 
     req = {
         "lat": lat,
-        "lng": lng
+        "lng": lng,
+        "disaster": disaster_switch,
+        "radius": rad
     }
 
     response = {

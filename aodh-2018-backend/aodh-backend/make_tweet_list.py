@@ -16,7 +16,7 @@ from utils.time_utils import normalize_time
 import json
 
 
-def process_posts(posts=None, location=None, format=None, exact_location_only=True):
+def process_posts(posts=None, location=None, format=None, exact_location_only=True, disaster_boolean=False):
     if format == 'aodh':
         loc = location['location']
         lat = loc['lat']
@@ -57,9 +57,16 @@ def process_posts(posts=None, location=None, format=None, exact_location_only=Tr
             except:
                 photo = ''
 
+            # calculate sentiment
+            # TODO: SLOW
+            output_sentiment = remap(analyze_sentiment(v['text']).score, -1, 1, 0, 1)
+
+            if disaster_boolean:
+                output_sentiment = output_sentiment * 0.3
+
             output_single = {
                 "text": v['text'],
-                "sentiment": remap(analyze_sentiment(v['text']).score, -1, 1, 0, 1),
+                "sentiment": output_sentiment,
                 "lat": norm_lat,
                 "lng": norm_lng,
                 "time": normalize_time(v['created_at']),
@@ -130,7 +137,9 @@ def get_tweet_list_from_location_name(query=''):
     return t
 
 
-def get_tweet_list_from_geolocation(lat=34.6937, lng=135.5022, radius='1', count=100, exact_location_only=True):
+
+def get_tweet_list_from_geolocation(lat=34.6937, lng=135.5022, radius='1', disaster_boolean='false', count=100, exact_location_only=True):
+    print('calling twitter API to get {} tweets by location {} {}'.format(count, lat, lng))
     posts = search_tweets_by_geolocation(lat=lat, lng=lng, radius=radius, count=count)
     loc = {
         "location": {
@@ -138,27 +147,82 @@ def get_tweet_list_from_geolocation(lat=34.6937, lng=135.5022, radius='1', count
             "lng": lng
         }
     }
-    t = process_posts(posts=posts, location=loc, format="aodh", exact_location_only=exact_location_only)
+    t = process_posts(posts=posts, location=loc, format="aodh", exact_location_only=exact_location_only, disaster_boolean=disaster_boolean)
     return t
 
 
 def __calculate__weighted__lat__long(openfile):
+
+    def get_highest_sentiment_location(tweets_in):
+        lats = [x['lat'] for x in tweets_in]
+        lngs = [x['lng'] for x in tweets_in]
+        sentiments = [x['sentiment'] for x in tweets_in]
+
+        sentiment_func = lambda y : y[2]
+
+        sorted_locations = sorted(zip(lats, lngs, sentiments), key=sentiment_func, reverse=True)
+        top_sentiment = sorted_locations[0]
+        print(sorted_locations)
+        print(sorted(sentiments))
+
+
+        output = {
+            "lat": top_sentiment[0],
+            "lng": top_sentiment[1]
+        }
+
+        print('highest sentiment in list: {} : {}'.format(top_sentiment[2], output))
+
+        return output
+
+
     sentiment = []
     weightedlat = []
     weightedlng = []
-    config = json.loads(openfile)
-    for i in config:
-        sentiment.append(i['sentiment'])
-        weightedlat.append((i['lat']) * (i['sentiment']))
-        weightedlng.append((i['lng']) * (i['sentiment']))
+    tweets = json.loads(openfile)
+    for i in tweets:
+        if(i['sentiment'] >= 0.5):
+            sentiment.append(i['sentiment'])
+            weightedlat.append((i['lat']) * (i['sentiment']))
+            weightedlng.append((i['lng']) * (i['sentiment']))
 
-    wightedlatnew = sum(weightedlat) / sum(sentiment)
-    weightedlngnew = sum(weightedlng)/sum(sentiment)
+    if len(sentiment) == 0:
+        # return highest sentiment lat and lng
+        # todo: will be updated to be more robust
+        s = get_highest_sentiment_location(tweets)
+        weighted_lat = s['lat']
+        weighted_lng = s['lng']
 
-    return {"weightedLat": wightedlatnew, "weightedLong": weightedlngnew}
+        return {"lat": weighted_lat, "lng": weighted_lng}
 
 
-def calculate_destination(lat, lng, radius, json_output, disaster_boolean=False):
+    weightedlatnew = sum(weightedlat) / sum(sentiment)
+    weightedlngnew = sum(weightedlng) / sum(sentiment)
+
+    return {"lat": weightedlatnew, "lng": weightedlngnew}
+
+
+def __isDisaster(openfile):
+    sentimentsForDisaster = []
+    configForDisaster = json.loads(openfile)
+
+    #Determine if sentiments avaerage is less than 0.5
+    for i in configForDisaster:
+        sentimentsForDisaster.append(i['sentiment'])
+
+    chk = sum(sentimentsForDisaster) / len(sentimentsForDisaster)
+
+    print('all sentiments: {}'.format(sentimentsForDisaster))
+    print('average sentiment of all tweets: {}'.format(chk))
+
+    if chk < 0.3:
+        return True
+    else:
+        return False
+
+
+def calculate_destination(lat, lng, radius, json_output):
+    disaster_boolean = __isDisaster(json_output)
     if disaster_boolean:
         # return nearest shelter if shelter is within the bounds
         # return shelter if shelter function returns a place
@@ -176,12 +240,16 @@ def get_tweet_list(query='', exact_location_only=True):
     if type(query) == dict:
         lat = query['lat']
         lng = query['lng']
+        disaster = query['disaster']
         try:
             radius = query['radius']
             output = get_tweet_list_from_geolocation(lat=lat, lng=lng, radius=radius, count=100,
+                                                     disaster_boolean=disaster,
                                                      exact_location_only=exact_location_only)
         except:
+            radius = 1
             output = get_tweet_list_from_geolocation(lat=lat, lng=lng, count=100,
+                                                     disaster_boolean=disaster,
                                                      exact_location_only=exact_location_only)
     else:
         """
@@ -197,7 +265,7 @@ def get_tweet_list(query='', exact_location_only=True):
     output = {
         "tweets": output,
         "destination": calculate_destination(lat, lng, radius, json_output=json_output),
-        "disaster": 'false'
+        "disaster": __isDisaster(json_output)
     }
 
     return output
@@ -209,9 +277,10 @@ if __name__ == '__main__':
 
     test_loc = {
         "lat": 25.037757,
-        "lng": 121.547187
+        "lng": 121.547187,
+        "disaster": True,
+        "radius": 1
     }
 
     t = get_tweet_list(query=test_loc)
-    [print(json.dumps(x, indent=4, ensure_ascii=False)) for x in t]
-    
+    print(json.dumps(t, indent=4, ensure_ascii=False))
