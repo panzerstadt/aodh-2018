@@ -181,6 +181,7 @@ def get_tweet_list(query='', exact_location_only=True):
             output = get_tweet_list_from_geolocation(lat=lat, lng=lng, radius=radius, count=100,
                                                      exact_location_only=exact_location_only)
         except:
+            radius = 1
             output = get_tweet_list_from_geolocation(lat=lat, lng=lng, count=100,
                                                      exact_location_only=exact_location_only)
     else:
