@@ -18,6 +18,7 @@ ekphrasis = "*"
 ujson = "*"
 googlemaps = "*"
 pyopenssl = "*"
+requests-xml = "*"
 
 [dev-packages]
 

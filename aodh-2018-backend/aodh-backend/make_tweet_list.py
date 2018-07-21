@@ -3,6 +3,7 @@
 
 from api.twitter_api import get_posts_from_trending_hashtags, search_tweets_by_location_name, search_tweets_by_geolocation
 from api.google_api import analyze_sentiment, get_geocode
+from api.taiwan_shelter_api import get_closest_shelter_in_bounds
 
 from api.resas_api import get_prefectures_list
 
@@ -145,7 +146,7 @@ def __calculate__weighted__lat__long(openfile):
     sentiment = []
     weightedlat = []
     weightedlng = []
-    config = json.loads(openfile.read())
+    config = json.loads(openfile)
     for i in config:
         sentiment.append(i['sentiment'])
         weightedlat.append((i['lat']) * (i['sentiment']))
@@ -157,12 +158,31 @@ def __calculate__weighted__lat__long(openfile):
     return {"weightedLat": wightedlatnew, "weightedLong": weightedlngnew}
 
 
+def calculate_destination(lat, lng, radius, json_output, disaster_boolean=False):
+    if disaster_boolean:
+        # return nearest shelter if shelter is within the bounds
+        # return shelter if shelter function returns a place
+        return get_closest_shelter_in_bounds(lat, lng, radius)
+    else:
+        # return weighted location
+        return __calculate__weighted__lat__long(json_output)
+
+
+
 def get_tweet_list(query='', exact_location_only=True):
     if type(query) == dict:
         lat = query['lat']
         lng = query['lng']
-        output = get_tweet_list_from_geolocation(lat=lat, lng=lng, count=100, exact_location_only=exact_location_only)
+        try:
+            radius = query['radius']
+            output = get_tweet_list_from_geolocation(lat=lat, lng=lng, radius=radius, count=100,
+                                                     exact_location_only=exact_location_only)
+        except:
+            output = get_tweet_list_from_geolocation(lat=lat, lng=lng, count=100,
+                                                     exact_location_only=exact_location_only)
     else:
+        lat = 0
+        lng = 0
         output = get_tweet_list_from_location_name(query=query)
 
     output = bullshitify(output_dict=output)
@@ -170,7 +190,7 @@ def get_tweet_list(query='', exact_location_only=True):
 
     output = {
         "tweets": output,
-        "destination": __calculate__weighted__lat__long(json_output),
+        "destination": calculate_destination(lat, lng, radius, json_output=json_output),
         "disaster": 'false'
     }
 
