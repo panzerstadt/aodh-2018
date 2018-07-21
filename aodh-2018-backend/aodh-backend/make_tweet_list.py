@@ -162,11 +162,14 @@ def calculate_destination(lat, lng, radius, json_output, disaster_boolean=False)
     if disaster_boolean:
         # return nearest shelter if shelter is within the bounds
         # return shelter if shelter function returns a place
-        return get_closest_shelter_in_bounds(lat, lng, radius)
+        shelter = get_closest_shelter_in_bounds(lat, lng, radius)
+        if shelter:
+            return shelter
+        else:
+            return __calculate__weighted__lat__long(json_output)
     else:
         # return weighted location
         return __calculate__weighted__lat__long(json_output)
-
 
 
 def get_tweet_list(query='', exact_location_only=True):
