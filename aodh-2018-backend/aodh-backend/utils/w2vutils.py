@@ -16,6 +16,8 @@ except SystemError:
     read_only_model_path = '/db/w2v/word2vec_readonly.model'
     read_only_model_path = os.path.join(os.getcwd(), read_only_model_path)
     model = load_word2vec_model_read_only(get_filepath(read_only_model_path))
+except:
+    print('Windows system error')
 
 
 def similarity(word1=u'女', word2=u'バナナ', debug=False):
