@@ -1,8 +1,11 @@
 from requests_xml import XMLSession
 from utils.bounding_box_utils import get_bounding_box
 import json
+import math
+from utils.cache_utils import kw_cache_wrapper
 
 
+@kw_cache_wrapper(cache_key='taiwan_shelter', cache_name='temp.json')
 def get_shelter_xml():
     session = XMLSession()
     taiwan_shelter_url = "http://portal.emic.gov.tw/pub/DSP/OpenData/EEA/Shelter.xml"
@@ -39,8 +42,8 @@ def get_closest_shelter_in_bounds(lat, lng, radius):
     bbox = get_bounding_box(latitude_in_degrees=lat, longitude_in_degrees=lng, half_side_in_km=radius)
 
     def bounds_check(shelter_dict):
-        lat = shelter_dict['lat']
-        lng = shelter_dict['lng']
+        lat = float(shelter_dict['lat'])
+        lng = float(shelter_dict['lng'])
 
         if bbox.lat_min <= float(lat) <= bbox.lat_max:
             chk_lat = True
@@ -57,10 +60,20 @@ def get_closest_shelter_in_bounds(lat, lng, radius):
     shelters_inside_bounds = list(filter(bounds_check, shelters))
 
     if len(shelters_inside_bounds) > 1:
-        print('multiple shelters found. returning the closest one')
+        print('multiple shelters found. returning the closest one.')
 
-        def bound
-    print(shelters_inside_bounds)
+        def closest_shelter(shelters_list):
+            dist_calc = lambda s : math.sqrt((float(s['lat']) - lat)**2 + (float(s['lng']) - lng)**2)
+            # test = list(map(dist_calc, shelters_list))
+            sorted_shelters = sorted(shelters_list, key=dist_calc)
+            #[print(s) for s in sorted_shelters]
+            return sorted_shelters[0]
+
+        return closest_shelter(shelters_list=shelters_inside_bounds)
+    elif len(shelters_inside_bounds) == 1:
+        return shelters_inside_bounds[0]
+    else:
+        return False
 
 
 if __name__ == '__main__':
