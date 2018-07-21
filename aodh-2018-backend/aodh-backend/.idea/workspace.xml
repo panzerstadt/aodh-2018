@@ -118,6 +118,7 @@
         <option value="$PROJECT_DIR$/api/twitter_api.py" />
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/make_tweet_list.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -138,16 +139,6 @@
             <path>
               <item name="aodh-backend" type="b2602c69:ProjectViewProjectNode" />
               <item name="aodh-backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aodh-backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aodh-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aodh-backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aodh-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aodh-backend" type="b2602c69:ProjectViewProjectNode" />
@@ -270,15 +261,15 @@
     <frame x="0" y="23" width="1347" height="939" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2677225" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677225" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897863" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32185274" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32185274" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32797858" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32779098" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -420,6 +411,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/make_tweet_list.py">
       <provider selected="true" editor-type-id="text-editor">
