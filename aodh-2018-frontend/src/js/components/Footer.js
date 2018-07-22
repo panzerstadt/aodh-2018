@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 import Button from "@material-ui/core/Button";
 import Icon from "@material-ui/core/Icon";
+import SpeakerNotesIcon from "@material-ui/icons/SpeakerNotes";
+import ChangeHistoryIcon from "@material-ui/icons/ChangeHistory";
 import RestoreIcon from "@material-ui/icons/Restore";
 import FavoriteIcon from "@material-ui/icons/Favorite";
 import LocationOnIcon from "@material-ui/icons/LocationOn";
@@ -12,7 +14,12 @@ import BottomNavigation from "@material-ui/core/BottomNavigation";
 import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
 
 const styles = {
-  root: {}
+  root: {
+    position: "fixed",
+    bottom: 0,
+    width: "100%",
+    boxShadow: "0px 3px 15px #C6C6C6"
+  }
 };
 
 class LabelBottomNavigation extends Component {
@@ -35,33 +42,33 @@ class LabelBottomNavigation extends Component {
         className={classes.root}
       >
         <BottomNavigationAction
-          label="Recents"
+          label="Tweets"
           value="recents"
           component={Link}
           to="/tweets"
-          icon={<RestoreIcon />}
+          icon={<SpeakerNotesIcon />}
         />
 
-        <BottomNavigationAction
-          label="Favorites"
+        {/* <BottomNavigationAction
+          label="Images"
           value="favorites"
           component={Link}
           to="/images"
           icon={<FavoriteIcon />}
-        />
+        /> */}
         <BottomNavigationAction
-          label="Nearby"
+          label="Map"
           value="nearby"
           component={Link}
           to="/map"
           icon={<LocationOnIcon />}
         />
         <BottomNavigationAction
-          label="Folder"
+          label="AR"
           value="folder"
           component={Link}
           to="/ar"
-          icon={<Icon>folder</Icon>}
+          icon={<ChangeHistoryIcon />}
         />
       </BottomNavigation>
     );

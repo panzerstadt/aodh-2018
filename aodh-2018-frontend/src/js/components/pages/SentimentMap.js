@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import HereMap from "../units/HereMap";
 
 export default class SentimentMap extends Component {
   render() {
@@ -20,11 +21,6 @@ export default class SentimentMap extends Component {
 
     console.log(tweets_pic);
 
-    return (
-      <div>
-        <p>this is the tweets page data</p>
-        {tweets_pic}
-      </div>
-    );
+    return <HereMap height="500px" />;
   }
 }

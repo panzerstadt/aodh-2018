@@ -6,4 +6,5 @@ COPY . /app
 EXPOSE 5000
 WORKDIR /app
 RUN pip3 install -r requirements.txt
+ENV LANG C.UTF-8
 CMD python3 aodh-backend/app.py

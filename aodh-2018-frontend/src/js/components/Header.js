@@ -8,14 +8,8 @@ class Header extends Component {
   render() {
     return (
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="App-title">team Standy 2018</h1>
-        <Button variant="outlined" color="primary">
-          <Link to="/tweets"> Tweets </Link>
-        </Button>
-        <Button variant="outlined" color="primary">
-          <Link to="/images"> Images </Link>
-        </Button>
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <h1 className="App-title">Sentiments in AR</h1>
       </header>
     );
   }
