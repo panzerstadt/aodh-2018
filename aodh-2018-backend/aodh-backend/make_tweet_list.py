@@ -8,10 +8,9 @@ from api.taiwan_shelter_api import get_closest_shelter_in_bounds
 from api.resas_api import get_prefectures_list
 
 from utils.cache_utils import kw_cache_wrapper
-from utils.baseutils import remap, bullshitify
+from utils.baseutils import remap, bullshitify, get_filepath
 from utils.bounding_box_utils import get_bounding_box
 from utils.time_utils import normalize_time
-
 
 import json
 
@@ -27,7 +26,7 @@ def process_posts(posts=None, location=None, format=None, exact_location_only=Tr
         output = []
         for v in posts:
             # debug
-            # print(json.dumps(v, indent=4, ensure_ascii=False))
+            print(json.dumps(v, indent=4, ensure_ascii=False))
 
             try:
                 lat = v['coordinates']['coordinates'][1]
@@ -59,16 +58,24 @@ def process_posts(posts=None, location=None, format=None, exact_location_only=Tr
 
             # calculate sentiment
             # TODO: SLOW
-            output_sentiment = remap(analyze_sentiment(v['text']).score, -1, 1, 0, 1)
+            output_sentiment = remap(analyze_sentiment(v['text']), -1, 1, 0, 1)
 
+            # force disaster event
             if disaster_boolean:
                 output_sentiment = output_sentiment * 0.3
+
+            # get tweet url
+            tweet_id = v['id_str']
 
             output_single = {
                 "text": v['text'],
                 "sentiment": output_sentiment,
                 "lat": norm_lat,
                 "lng": norm_lng,
+                "lat_full": lat,
+                "lng_full": lng,
+                "tweet_id": tweet_id,
+                "name": v['user']['name'],
                 "time": normalize_time(v['created_at']),
                 "photo_url": photo
             }

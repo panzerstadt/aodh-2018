@@ -16,7 +16,8 @@ class HereMapsComponent extends Component {
   render() {
     const mapStyle = {
       height: this.props.height,
-      width: "100%"
+      width: "100%",
+      boxShadow: "0px 3px 5px #F5F5F5"
     };
 
     if (!this.props.isGeolocationAvailable) {

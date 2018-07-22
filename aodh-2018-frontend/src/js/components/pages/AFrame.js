@@ -5,13 +5,11 @@ import ReactHtmlParser, {
   htmlparser2
 } from "react-html-parser";
 
-import { withStyles } from "@material-ui/core/styles";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemText from "@material-ui/core/ListItemText";
 import Divider from "@material-ui/core/Divider";
-import CityIcon from "@material-ui/icons/LocationCity";
 
 import JapanIcon from "../../../images/jp.png";
 import KoreaIcon from "../../../images/kr.png";

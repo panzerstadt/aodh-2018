@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { withStyles } from "@material-ui/core/styles";
 import Card from "@material-ui/core/Card";
@@ -6,10 +6,18 @@ import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
+import TwitterLogo from "../../../images/twitter-brands.svg";
+
+const TW_PATH = "https://twitter.com/anyuser/status/";
+
+function map_range(value, low1, high1, low2, high2) {
+  return low2 + ((high2 - low2) * (value - low1)) / (high1 - low1);
+}
 
 const styles = {
   card: {
-    minWidth: 275
+    minWidth: 275,
+    margin: 10
   },
   bullet: {
     display: "inline-block",
@@ -21,7 +29,10 @@ const styles = {
     fontSize: 14
   },
   pos: {
-    marginBottom: 12
+    marginTop: 12
+  },
+  par: {
+    marginTop: 20
   }
 };
 
@@ -29,30 +40,40 @@ function SimpleCard(props) {
   const { classes } = props;
   const bull = <span className={classes.bullet}>•</span>;
 
-  const { data } = this.props;
+  let col = `hsl(${map_range(props.data.sentiment, 0, 1, 0, 120)}, 65%, 70%)`;
 
-  console.log(data);
+  let tweet_url = TW_PATH + props.data.tweet_id;
+  let btnStyle = {
+    fontSize: 8
+  };
+  let twtStyle = {
+    height: 20,
+    width: 20
+  };
 
   return (
     <div>
       <Card className={classes.card}>
         <CardContent>
-          <Typography className={classes.title} color="textSecondary">
-            Word of the Day
-          </Typography>
-          <Typography variant="headline" component="h2">
-            be{bull}nev{bull}o{bull}lent
+          <Typography component="p" className={classes.par}>
+            {props.data.text}
           </Typography>
           <Typography className={classes.pos} color="textSecondary">
-            adjective
-          </Typography>
-          <Typography component="p">
-            well meaning and kindly.<br />
-            {'"a benevolent smile"'}
+            {props.data.name}
           </Typography>
         </CardContent>
         <CardActions>
-          <Button size="small">Learn More</Button>
+          <Button
+            href={tweet_url}
+            size="small"
+            target="_blank"
+            style={{ backgroundColor: col }}
+          >
+            sentiment
+          </Button>
+          <Button style={btnStyle}>
+            <img src={TwitterLogo} style={twtStyle} alt="go to twitter" />
+          </Button>
         </CardActions>
       </Card>
     </div>

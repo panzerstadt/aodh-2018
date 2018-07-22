@@ -8,6 +8,16 @@ from google.cloud import translate, language
 from google.cloud.language import enums, types
 import googlemaps
 
+from utils.db_utils import load_db, update_db
+from utils.baseutils import get_filepath
+import os.path as path
+
+# analyzed entities cache
+db_dir = "db"
+sentiment_db_filename = "sentiment-cache.json"
+sentiment_db_filepath = get_filepath(path.join(db_dir, sentiment_db_filename))
+sentiment_db = load_db(database_path=sentiment_db_filepath, debug=False)
+
 from hidden.hidden import GoogleAPI
 API_KEY = GoogleAPI().api_key
 
@@ -40,7 +50,8 @@ def translate_text_api(text='', target='ja', debug=False):
 
 
 def translate_text(text='', target='ja', debug=False):
-    from utils.baseutils import load_db, update_db, get_filepath
+    from utils.baseutils import get_filepath
+    from utils.db_utils import load_db, update_db
     db_dir = "/db"
 
     if target == 'ja':
@@ -157,7 +168,7 @@ def analyze_entities_api(text='', verbose=False):
 
 
 # sentiment of entire content
-def analyze_sentiment(text='', explicit_credentials=True):
+def analyze_sentiment_api(text=''):
     """
     Detects the sentiment of the text
     https://cloud.google.com/natural-language/docs/analyzing-sentiment
@@ -212,6 +223,29 @@ def analyze_sentiment(text='', explicit_credentials=True):
     """
 
     return sentiment
+
+
+def analyze_sentiment(text='', debug=False):
+    global sentiment_db
+
+    db_entities_cache = sentiment_db
+    db_filepath = sentiment_db_filepath
+
+    try:
+        output = db_entities_cache[text]
+        if debug: print('entity previously analysed. returning cache')
+        return output
+    except KeyError:
+        if debug: print('calling google API to analyze entities')
+        response = analyze_sentiment_api(text=text)
+        output = response.score
+        print('sentiment {} -> {}'.format(text, output))
+        db_entities_cache[text] = output
+        update_db(db_entities_cache, database_path=db_filepath)
+
+        # reload the variable 'entities_db' if updated
+        sentiment_db = load_db(database_path=sentiment_db_filepath, debug=False)
+        return output
 
 
 def parse_entities(text='', debug=False):

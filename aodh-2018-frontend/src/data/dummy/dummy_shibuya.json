@@ -1,203 +1,1288 @@
 {
   "results": {
-    "direction": "ROHIT please place the output from the calculations here",
+    "destination": {
+      "lat": 0.5145766608794022,
+      "lng": 1.0426167678357925
+    },
+    "disaster": false,
     "tweets": [
       {
-        "lat": 0.9652951705441933,
-        "lng": 0.4362631481105889,
-        "photo_url": "",
-        "sentiment": 0.75,
-        "text":
-          "原宿のw♡c📸\n.\n.\n可愛かったー！！！！\nお洋服ってテンション上がる😊💞\n#原宿 #wc #原宿wc #可愛い #ゆめかわいい 場所: Harajuku https://t.co/uPtRvkW4rj",
-        "time": 0.859664351851852
-      },
-      {
-        "lat": 0.5505936916231294,
-        "lng": 0.33792048315983225,
-        "photo_url": "",
-        "sentiment": 0.6000000014901161,
-        "text":
-          "【営業時間変更のお知らせ】\n明日7月21日（土）はランチとティータイムは貸切となっております。ご来店予定のお客様はお時間をお確かめの上お越し下さい。 場所: THE RALLY TABLE https://t.co/iYBPpVHjbJ",
-        "time": 0.0009837962962962964
-      },
-      {
-        "lat": 0.33460644221035946,
-        "lng": 0.11680690936407709,
-        "photo_url": "",
-        "sentiment": 0.949999988079071,
-        "text":
-          "テンション上がりすぎて早く着いちゃった☺️ (@ TSUTAYA O-Crest - @o_group_and_duo in 渋谷区, 東京都) https://t.co/x5DCvJrzmx",
-        "time": 0.0012152777777777778
-      },
-      {
-        "lat": 0.3285074004841352,
-        "lng": 0.38100632400744555,
+        "lat": 0.6714069794225725,
+        "lat_full": 25.04084,
+        "lng": 1.4255016442740205,
+        "lng_full": 121.56556,
+        "name": "Boris波仔",
         "photo_url": "",
         "sentiment": 0.800000011920929,
-        "text": "I'm at 渋谷駅 in 渋谷区, 東京都 https://t.co/pCPbfdUESA",
-        "time": 0.0015162037037037036
+        "text":
+          "時晴時陰，不過今日仲未落雨～ @ W Taipei https://t.co/pB0ThdMgbH",
+        "time": 0.030879629629629632,
+        "tweet_id": "1020916819815804928"
       },
       {
-        "lat": 0.32641360001520575,
-        "lng": 0.20831920622619476,
+        "lat": 0.5774472664079354,
+        "lat_full": 25.03915,
+        "lng": 0.4492744703765613,
+        "lng_full": 121.54618,
+        "name": "Nai-wen Hu",
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "No que is the best! #coffee #fomo #diorsaddle #life #photooftheday #sundayfunday #coffeerun @ FOMO COFFEE https://t.co/qscBwP6vvr",
+        "time": 0.03673611111111111,
+        "tweet_id": "1020914697204305920"
+      },
+      {
+        "lat": 0.29893788961609863,
+        "lat_full": 25.03414061,
+        "lng": 0.02772970359536429,
+        "lng_full": 121.53781152,
+        "name": "โชค-ดี「冠役」",
         "photo_url": "",
         "sentiment": 0.7000000029802322,
         "text":
-          "大城戸美香IR主催、\n初めましての川崎寛明IRと3人で。\nDANCE WSにお呼び頂きました！\nなんたる光栄。\n\nDANCE好きによる\nDANCE好きのための\nDANCE… https://t.co/RpSWUekCJ6",
-        "time": 0.0016550925925925926
+          "I'm at Jianguo Holiday Flower Market in 臺北市, 臺灣 https://t.co/oaiG5k9iNw",
+        "time": 0.05855324074074073,
+        "tweet_id": "1020906792904265729"
       },
       {
-        "lat": 0.36003672193407427,
-        "lng": 0.1894185871133072,
-        "photo_url": "",
-        "sentiment": 0.5500000007450581,
-        "text":
-          "ローラちゃん、フライアーありがとうございます😊 場所: 渋谷 KO-KO https://t.co/e0sP5cvTFC",
-        "time": 0.0018634259259259257
-      },
-      {
-        "lat": 0.532452239341208,
-        "lng": 0.21933651180718478,
-        "photo_url": "",
-        "sentiment": 0.6000000014901161,
-        "text":
-          "今夜は\nEDIEやってから\n@melowjoe &amp; @dj_kixxx \nBIRTHDAY BASH\nR Loungeへ‼︎\n\n両方お待ちしてます‼︎🤝🤝🤝 @ Ｒlounge https://t.co/5QVg5pVyus",
-        "time": 0.0019212962962962962
-      },
-      {
-        "lat": 0.2146588069151631,
-        "lng": 0.11793529104994893,
-        "photo_url": "http://pbs.twimg.com/media/DiiHFECVQAA07Mi.jpg",
-        "sentiment": 0.44999999925494194,
-        "text":
-          "オフィスが寒いので、抜け出して温まりに来た。長崎ちゃんぽん皿うどん。見た目のインパクトほどでもない。自分でも食べ切れたので。 https://t.co/NClj5wdG6j",
-        "time": 0.002962962962962963
-      },
-      {
-        "lat": 0.4362152542291015,
-        "lng": 0.2570017841038182,
-        "photo_url": "",
-        "sentiment": 0.6000000014901161,
-        "text":
-          "I'm at 春日亭 センター街店 in Shibuya, Tōkyō https://t.co/4I5TKMQZL2",
-        "time": 0.003206018518518518
-      },
-      {
-        "lat": 0.13643262004602663,
-        "lng": 0.30595222841137,
-        "photo_url": "http://pbs.twimg.com/media/DiiGfanXcAA3uMN.jpg",
-        "sentiment": 0.5,
-        "text":
-          "本日はシニアクラブのカラオケ大会です！(^_^) (@ さくらホール in 渋谷区, 東京都) https://t.co/y0sBYwNGp7 https://t.co/oiW9SKYzEp",
-        "time": 0.004791666666666667
-      },
-      {
-        "lat": 0.3562583183265458,
-        "lng": 0.5260435733202512,
-        "photo_url": "",
-        "sentiment": 0.800000011920929,
-        "text":
-          "“Mᴀ®︎Tℹ︎N HᴀNDFO®︎D FOÜND JᴀY” #martinhandfordfoundjay #martinhandford #hajimesorayama #sorayamahajime… https://t.co/ooXCx7DDV7",
-        "time": 0.004907407407407407
-      },
-      {
-        "lat": 0.5315960384059154,
-        "lng": 0.3623898330302035,
-        "photo_url": "",
-        "sentiment": 0.5,
-        "text":
-          "VJing at fashion show.\n.\n#動画編集 #映像 #映画制作 #ishootfilm #vjmovie \n#VJ #AudioVisual #Tokyo #creative #illgramers… https://t.co/NO6nl85Am7",
-        "time": 0.0072800925925925915
-      },
-      {
-        "lat": 0.324227507757426,
-        "lng": 0.37605102092316967,
-        "photo_url": "",
-        "sentiment": 0.800000011920929,
-        "text":
-          "I'm at JR 渋谷駅 - @jreast_official in 渋谷区, 東京都 https://t.co/fnFbgfSTgt",
-        "time": 0.009317129629629628
-      },
-      {
-        "lat": 0.397533875097002,
-        "lng": 0.42939709461225306,
-        "photo_url": "",
-        "sentiment": 0.800000011920929,
-        "text":
-          "I'm at ハイテクランドセガ渋谷 in 渋谷区, 東京都 https://t.co/uM8Tnyud8u",
-        "time": 0.009733796296296298
-      },
-      {
-        "lat": 0.5093414857876205,
-        "lng": 0.4212450112241862,
-        "photo_url": "",
-        "sentiment": 0.6000000014901161,
-        "text":
-          "『あの胸にもういちど / 誘拐アンナ』1週間限定レイトショー❣️ ヒューマントラストシネマ渋谷\n\n7月21日（土）〜27日（金）\n20:45〜 ※ トークイヴェントがある日はこの時間よりトーク後上映、ない日はこの時間より上映となり… https://t.co/SnQWrrIlPp",
-        "time": 0.010289351851851852
-      },
-      {
-        "lat": 0.49469266615141383,
-        "lng": 0.2493000596199512,
-        "photo_url": "",
-        "sentiment": 0.5500000007450581,
-        "text":
-          "2018/07/08\n【SILVER FACTORY】\nももさん@momomc_showdancer \nと\nあいみ @aimi_ciel \nじゅり @TantragirlsJURI \nりな @rinaty103 \nダイアン… https://t.co/CNrbkQzAVT",
-        "time": 0.010578703703703703
-      },
-      {
-        "lat": 0.6243159279887914,
-        "lng": 0.23398559831797328,
-        "photo_url": "",
-        "sentiment": 0.19999998807907104,
-        "text":
-          "渋谷で打ち合わせ、暑くて暑くて…溶けそ😩#図面相談webセンター #風営法 #風俗営業 #風俗営業許可 #ガールズバー #キャバクラ #居酒屋 #ラウンジ #ホストクラブ 場所: Shibuya Crossing 渋谷駅前スクラン… https://t.co/6B79FZeEMp",
-        "time": 0.010671296296296297
-      },
-      {
-        "lat": 0.5788705614690265,
-        "lng": 0.8308669872629756,
-        "photo_url": "",
-        "sentiment": 0.44999999925494194,
-        "text":
-          "既にロビー活動は始まってたのね。 @ Hayato Tokyo Omotesando https://t.co/45jrfBJrwB",
-        "time": 0.011331018518518518
-      },
-      {
-        "lat": 0.3598165559792735,
-        "lng": 0.22394399507615964,
-        "photo_url": "http://pbs.twimg.com/media/DiiEEmlXUAE25W2.jpg",
-        "sentiment": 0.800000011920929,
-        "text":
-          "I'm at 土間土間 渋谷道玄坂店 in 渋谷区, 東京都 https://t.co/FT2jZMcVI6 https://t.co/xJJR26jhLu",
-        "time": 0.012187500000000002
-      },
-      {
-        "lat": 0.3445961944202295,
-        "lng": 0.10385852623495495,
-        "photo_url": "http://pbs.twimg.com/media/DiiDnqFWkAABNpf.jpg",
-        "sentiment": 0.75,
-        "text":
-          "ラウドルフェス (at @clubasia_tokyo in 渋谷区, 東京都) https://t.co/tzURFf4A9U https://t.co/4xsIUcM05n",
-        "time": 0.013564814814814816
-      },
-      {
-        "lat": 0.35903694834671035,
-        "lng": 0.3508671435152559,
-        "photo_url": "",
-        "sentiment": 0.5,
-        "text":
-          "ここはどこ (@ JR 渋谷駅 - @jreast_official in 渋谷区, 東京都) https://t.co/gY2qbDwMyk",
-        "time": 0.01556712962962963
-      },
-      {
-        "lat": 0.3610063416944475,
-        "lng": 0.10493089538090933,
+        "lat": 0.4034272062092952,
+        "lat_full": 25.03602,
+        "lng": 1.4768820218474203,
+        "lng_full": 121.56658,
+        "name": "人味",
         "photo_url": "",
         "sentiment": 0.75,
         "text":
-          "絶対見たほうがいいと誰もがいう、カメラを止めるな (@ ユーロスペース - @euro_space in 渋谷区, 東京都) https://t.co/lj1gcEqRnS",
-        "time": 0.016620370370370372
+          "對伊藤潤二的愛阻止不了我對鬼屋的恐懼所以我來惹\n壓底在B館有十字街口的美少年（應該是）在背後跟隨走了一路😂😂\n人生中第一次的鬼屋🤩\n#伊藤潤二 #恐怖體驗展 @ 伊藤潤二恐怖體驗展-絕命逃走中 https://t.co/GZ7MxYbg3k",
+        "time": 0.06409722222222222,
+        "tweet_id": "1020904783740317697"
+      },
+      {
+        "lat": 0.71225357146194,
+        "lat_full": 25.04084,
+        "lng": 1.4430467754281835,
+        "lng_full": 121.56556,
+        "name": "Boris波仔",
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "好好味啊～ @ W飯店 10樓 The Kitchen Table https://t.co/RoUQmbfcFL",
+        "time": 0.07101851851851852,
+        "tweet_id": "1020902275475288064"
+      },
+      {
+        "lat": 0.24431338190181265,
+        "lat_full": 25.03315811,
+        "lng": -0.09666521288546638,
+        "lng_full": 121.53534204,
+        "name": "โชค-ดี「冠役」",
+        "photo_url": "",
+        "sentiment": 0.3499999940395355,
+        "text":
+          "I'm at MRT Daan Park Station in Taipei, T’ai-pei Shih https://t.co/55a9j1iUZK",
+        "time": 0.07219907407407407,
+        "tweet_id": "1020901847182323712"
+      },
+      {
+        "lat": 0.35094320083304303,
+        "lat_full": 25.035076,
+        "lng": 1.4257031359502708,
+        "lng_full": 121.565564,
+        "name": "noon 'ㅅ'",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text": "I'm at Haidilaohotpot https://t.co/A2apfe5DYS",
+        "time": 0.08528935185185184,
+        "tweet_id": "1020897104665939968"
+      },
+      {
+        "lat": 0.5857868859063554,
+        "lat_full": 25.0393,
+        "lng": 0.9091792225790194,
+        "lng_full": 121.55531,
+        "name": "superd",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Just posted a photo @ 冷藏肉專門 鍋無敵 光復店 https://t.co/19nhrlv4hW",
+        "time": 0.08586805555555556,
+        "tweet_id": "1020896892371206144"
+      },
+      {
+        "lat": 0.26256380521197364,
+        "lat_full": 25.03348637,
+        "lng": 1.3627037408365752,
+        "lng_full": 121.56431334,
+        "name": "noon 'ㅅ'",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "I'm at Taipei 101 in 臺北市 Taipei, 台北市 https://t.co/8ItX7uMwfw",
+        "time": 0.10607638888888889,
+        "tweet_id": "1020889571842822144"
+      },
+      {
+        "lat": 0.6606694991546824,
+        "lat_full": 25.04084,
+        "lng": 1.4689843324143435,
+        "lng_full": 121.56556,
+        "name": "Boris波仔",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "消耗一定要補充 @ W飯店 10樓 The Kitchen Table https://t.co/2HuBDW3ue4",
+        "time": 0.1150462962962963,
+        "tweet_id": "1020886320875372545"
+      },
+      {
+        "lat": 0.2934926740583236,
+        "lat_full": 25.03404267,
+        "lng": 1.37735268946593,
+        "lng_full": 121.56460415,
+        "name": "donna fabia traviño",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Just posted a photo @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/88liA8t5wb",
+        "time": 0.15269675925925927,
+        "tweet_id": "1020872677953884160"
+      },
+      {
+        "lat": 0.738949557739646,
+        "lat_full": 25.04205485,
+        "lng": 0.8908968752881743,
+        "lng_full": 121.55494706,
+        "name": "chan",
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "I'm at 清真中國牛肉館 Mosque Chinese Beef Restaurant in 大安區, 台北市 https://t.co/1NvI5QK4uA",
+        "time": 0.15555555555555556,
+        "tweet_id": "1020871640924729344"
+      },
+      {
+        "lat": 0.3037630707935843,
+        "lat_full": 25.03404267,
+        "lng": 1.418033282205118,
+        "lng_full": 121.56460415,
+        "name": "donna fabia traviño",
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "L❤️VE @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/1BLo4CqL3d",
+        "time": 0.1658101851851852,
+        "tweet_id": "1020867925475901441"
+      },
+      {
+        "lat": 0.2386507802624354,
+        "lat_full": 25.03305626,
+        "lng": -0.09987497529623736,
+        "lng_full": 121.53527832,
+        "name": "Lady Jaja",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "The Lady in Taiwan 🇹🇼 @ Daan Park Station https://t.co/VtPFkxtP2l",
+        "time": 0.2834143518518519,
+        "tweet_id": "1020825305198546944"
+      },
+      {
+        "lat": 0.638854148000364,
+        "lat_full": 25.04084,
+        "lng": 1.4514812588765345,
+        "lng_full": 121.56556,
+        "name": "Boris波仔",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "去買早餐見到，會唔會太浮誇。。。\n#morningrun #garmin #taipei @ W Taipei https://t.co/2ZNbyzD4di",
+        "time": 0.3065393518518519,
+        "tweet_id": "1020816923725127681"
+      },
+      {
+        "lat": 0.4868122816999113,
+        "lat_full": 25.0375198,
+        "lng": 1.330780407029366,
+        "lng_full": 121.5636796,
+        "name": "World Front Pages",
+        "photo_url": "http://pbs.twimg.com/media/DipjHqdVMAA4Zz5.jpg",
+        "sentiment": 0.5,
+        "text":
+          "Liberty Times\nTaipei, Taiwan\nSaturday, July 21, 2018\nhttps://t.co/bupKBaNhJu https://t.co/AyyMj51Clg",
+        "time": 0.526400462962963,
+        "tweet_id": "1020737250462584832"
+      },
+      {
+        "lat": 0.2160637548132224,
+        "lat_full": 25.03265,
+        "lng": 0.9353731405574188,
+        "lng_full": 121.55583,
+        "name": "Pamela Chang",
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "寬哥我愛貓下去\n但，這 #barpun 的紐奧良炸雞，更對我的美國魂。\n\n#superdelicious\n#neworleanstyle \n#friedchicken 🐓 @ PUN https://t.co/LFzyuWoDHj",
+        "time": 0.5315162037037037,
+        "tweet_id": "1020735395909324804"
+      },
+      {
+        "lat": 0.9932028732333062,
+        "lat_full": 25.04662796,
+        "lng": 0.4370555113681113,
+        "lng_full": 121.54593743,
+        "name": "Suni 수니",
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text": "💜💜💜💜💜💜 @ My Sweet Home~(*^_^*)~ https://t.co/AQMWsMYdnR",
+        "time": 0.5866435185185185,
+        "tweet_id": "1020715416908369923"
+      },
+      {
+        "lat": 0.4784837816942856,
+        "lat_full": 25.03737,
+        "lng": 1.3242520767026775,
+        "lng_full": 121.56355,
+        "name": "ทิดนุก",
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "大雨過後，晴朗的天就會出現！#nookxtaiwanforthe2ndtime #台北 #台湾 #淡水漁人碼頭 @ 淡水-漁人碼頭-情人橋 https://t.co/mRV70gAU55",
+        "time": 0.6236226851851852,
+        "tweet_id": "1020702016362950657"
+      },
+      {
+        "lat": 0.6854214320023252,
+        "lat_full": 25.04109207,
+        "lng": 1.3992900957735197,
+        "lng_full": 121.56503965,
+        "name": "Ethan Lin",
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "更衣室一照鏡子就看到一個人頭😒😒😒... 有人偷窺🤪🤪🤪 @ 統一時代百貨台北店 https://t.co/CZRn0N2Kr7",
+        "time": 0.6333796296296297,
+        "tweet_id": "1020698482477236225"
+      },
+      {
+        "lat": 0.9861114595429807,
+        "lat_full": 25.04662796,
+        "lng": 0.4833445392314666,
+        "lng_full": 121.54593743,
+        "name": "Suni 수니",
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "ronde 2 🤭🤭 klessenjulia @NatHutabarat @herdaayay rahma.e13 @Peach7_______ @ My Sweet Home~(*^_^*)~ https://t.co/pSZrcVu3Ey",
+        "time": 0.6377083333333333,
+        "tweet_id": "1020696914482860032"
+      },
+      {
+        "lat": 0.033092503019581075,
+        "lat_full": 25.029359,
+        "lng": 0.7724167469783609,
+        "lng_full": 121.552595,
+        "name": "Kelly Markgraf",
+        "photo_url": "",
+        "sentiment": 0.25,
+        "text":
+          "After the Taiwanese premiere of Trouble In Tahiti, today was a day for celebration of long friendship, in a stunnin… https://t.co/l2mdTMcznr",
+        "time": 0.6418402777777777,
+        "tweet_id": "1020695417657454594"
+      },
+      {
+        "lat": 0.3494698680549697,
+        "lat_full": 25.0350495,
+        "lng": 0.9538247408564288,
+        "lng_full": 121.5561963,
+        "name": "Angel Kuo",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "誰說不能黑白配✌️\n天時地利人和，偷情成功❤️\nCheekbone babe, yeah\n我們身材都要越來越好！ @ 大鼎昌吉街豬血湯 - 東區延吉店 https://t.co/cLOhGXUPFx",
+        "time": 0.6733333333333333,
+        "tweet_id": "1020684003739865088"
+      },
+      {
+        "lat": 0.8426099161548568,
+        "lat_full": 25.04391933,
+        "lng": 1.213624582765459,
+        "lng_full": 121.56135383,
+        "name": "KAYO🌸カヨ",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "-\n豪笑豪累\n桂子魂 但肉絲最到位???\n窩狠開心\n-\n#taiwan #taipei #friends #friendship #girls #cosplay #대만 #타이페이 #친구 #여자들끼리 #謝10寶裙子讓我肚子爆大… https://t.co/8Jn6FJxFqE",
+        "time": 0.6774652777777778,
+        "tweet_id": "1020682505576382465"
+      },
+      {
+        "lat": 0.28037167271421115,
+        "lat_full": 25.03380667,
+        "lng": 1.379419994069441,
+        "lng_full": 121.56464519,
+        "name": "Jesselle Santos",
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "🇹🇼🇹🇼🇹🇼 #travel #solotravel #backpacking #backpacking2018 #Taipei #Taiwan #Taipei101 #Taipei101Observatory… https://t.co/M44JDdR8di",
+        "time": 0.6843171296296297,
+        "tweet_id": "1020680023894880257"
+      },
+      {
+        "lat": 0.3636144186987971,
+        "lat_full": 25.03530391,
+        "lng": 1.4512079523944053,
+        "lng_full": 121.56607032,
+        "name": "FU",
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text": "I'm at ATT 4 FUN in 台北市 https://t.co/WJf3XCPYNK",
+        "time": 0.6847800925925926,
+        "tweet_id": "1020679857108160512"
+      },
+      {
+        "lat": 0.607569972035975,
+        "lat_full": 25.0396918,
+        "lng": 1.135012101348802,
+        "lng_full": 121.55979322,
+        "name": "Jesselle Santos",
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "🇹🇼🇹🇼🇹🇼 #travel #solotravel #backpacking #backpacking2018 #Taipei #Taiwan #SunYatSen #goprohero5 #gopro @ 國立國父紀念館Nat… https://t.co/YbR2tn8rGi",
+        "time": 0.6892361111111112,
+        "tweet_id": "1020678239952429056"
+      },
+      {
+        "lat": 0.2765884278831222,
+        "lat_full": 25.03404267,
+        "lng": 1.360529043198672,
+        "lng_full": 121.56460415,
+        "name": "Hu Wei / 小琥",
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "Commercial: shooting 8K Video for TV test. Very impressed by DMG LUMIERE new Mini Mix Light, soft light panel contr… https://t.co/dZDlHtbSYc",
+        "time": 0.689837962962963,
+        "tweet_id": "1020678022503043072"
+      },
+      {
+        "lat": 0.29805333397453593,
+        "lat_full": 25.0341247,
+        "lng": 1.3747690624413116,
+        "lng_full": 121.56455286,
+        "name": "Somewell Gadiane",
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text":
+          "Appreciation post in celebration of EON’s 20th year: The reason I am part of team EON! Thanks Mori!! Lamonayon! Lab… https://t.co/rVJIYF2KEj",
+        "time": 0.7008564814814814,
+        "tweet_id": "1020674030951690240"
+      },
+      {
+        "lat": 0.7464635549077605,
+        "lat_full": 25.04219,
+        "lng": 0.7263255259201331,
+        "lng_full": 121.55168,
+        "name": "Yone",
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "Un-PHO-gettable meals aren't just about delighting in amazing food. The right foodie companion is also a must, espe… https://t.co/a1OFMmkiwB",
+        "time": 0.7113194444444444,
+        "tweet_id": "1020670237664931840"
+      },
+      {
+        "lat": 0.7175528739800887,
+        "lat_full": 25.04167,
+        "lng": 0.7308590886472188,
+        "lng_full": 121.55177,
+        "name": "RALIENINJA",
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "See y’all bb at omni_taipei 1:30-3:00 tonight! Let’s floor mopping floor floor mopping flooooooor mopping (o´ω`o)ﾉ… https://t.co/uXPFdomntb",
+        "time": 0.732361111111111,
+        "tweet_id": "1020662614454677505"
+      },
+      {
+        "lat": 0.6395312857761174,
+        "lat_full": 25.04026667,
+        "lng": 1.039645083280391,
+        "lng_full": 121.5579,
+        "name": "mengju, soft & neat",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "belonging is important.\n#35mm #thefilminitiative #noeditjustfilm @ 臺北市信義區光復國民小學 https://t.co/BSvNTaoRFO",
+        "time": 0.7423263888888889,
+        "tweet_id": "1020659001543950338"
+      },
+      {
+        "lat": 0.8026169928631042,
+        "lat_full": 25.0432,
+        "lng": 0.686027190568419,
+        "lng_full": 121.55088,
+        "name": "維尼汝",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "2018-07-21\n維尼熊\n#小熊維尼 @ 野獸國 忠孝店 - Beast Kingdom https://t.co/aaczMYxeLh",
+        "time": 0.7444675925925925,
+        "tweet_id": "1020658223689478146"
+      },
+      {
+        "lat": 0.7886386786347358,
+        "lat_full": 25.04294858,
+        "lng": 0.5548389822055139,
+        "lng_full": 121.54827566,
+        "name": "Lalala Drumcater",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Day388\n\n偽愚開口三明治  Tu-Nah Open Face Sandwich \n\n#herbantaipei  #herbankitchenandbar  #sandwich #mushrooms #tatasauce… https://t.co/FxapopflWc",
+        "time": 0.7493287037037036,
+        "tweet_id": "1020656465655345154"
+      },
+      {
+        "lat": 0.28790552691630517,
+        "lat_full": 25.03380667,
+        "lng": 1.4146304589281389,
+        "lng_full": 121.56464519,
+        "name": "Jeewish Jade 🌼",
+        "photo_url": "",
+        "sentiment": 0.44999999925494194,
+        "text":
+          "Take me back! 😱\n#WhenInTaiwan🇹🇼 #TaiWanderlust @ 台北101觀景台 https://t.co/cdrt0UKpnF",
+        "time": 0.7674884259259259,
+        "tweet_id": "1020649882028212224"
+      },
+      {
+        "lat": 0.8112034650987551,
+        "lat_full": 25.04335444,
+        "lng": 1.0320553955455318,
+        "lng_full": 121.55774933,
+        "name": "Keith Cheung",
+        "photo_url": "",
+        "sentiment": 0.949999988079071,
+        "text":
+          "家内をデート #デート #居酒屋 #美味しい食べ物 #タイペイ #揚げ物 #白鶴酒 #大吟醸 #広い #太鼓 #楽しい #土曜日の晩 #토요일 #데이트 #술집 #맛있는음식 #북연출 #즐거운밤 @ Dozo Izakaya B… https://t.co/wUOGxoQE8L",
+        "time": 0.777025462962963,
+        "tweet_id": "1020646426060238848"
+      },
+      {
+        "lat": 0.8347715923383818,
+        "lat_full": 25.04335444,
+        "lng": 1.0026284690449836,
+        "lng_full": 121.55774933,
+        "name": "Keith Cheung",
+        "photo_url": "",
+        "sentiment": 0.949999988079071,
+        "text":
+          "家内をデート #デート #居酒屋 #美味しい食べ物 #タイペイ #揚げ物 #白鶴酒 #大吟醸 #広い #太鼓 #楽しい #土曜日の晩 #토요일 #데이트 #술집 #맛있는음식 #북연출 #즐거운밤 @ Dozo Izakaya B… https://t.co/bPIubvPATr",
+        "time": 0.7801157407407406,
+        "tweet_id": "1020645305073664000"
+      },
+      {
+        "lat": 0.5785592156743387,
+        "lat_full": 25.03917,
+        "lng": 0.6603370017813611,
+        "lng_full": 121.55037,
+        "name": "Marc Guyon 阮維安",
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "Visiting #UFCgym #Taiwan thanks to @schembrimma , amazing place! It’s huge. #Taipei #MMA #UFC #gym #MarioSchembri @… https://t.co/ujE67N8U6g",
+        "time": 0.7844560185185184,
+        "tweet_id": "1020643732725649408"
+      },
+      {
+        "lat": 0.5865321824243065,
+        "lat_full": 25.0396918,
+        "lng": 1.1085696149101474,
+        "lng_full": 121.55979322,
+        "name": "Sharlyn Ann 💫",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "📸: @einramzelo @ 國立國父紀念館National Dr.Sun Yat-sen Memorial Hall https://t.co/UiJM7pBRyp",
+        "time": 0.8133796296296296,
+        "tweet_id": "1020633251864596480"
+      },
+      {
+        "lat": 0.6114762498090589,
+        "lat_full": 25.03976206,
+        "lng": 0.7900316530901952,
+        "lng_full": 121.55294469,
+        "name": "Shigex⊿",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "しゃんぷー。 (@ 小林髮廊 in 大安區, 台北市) https://t.co/0JGmwXiNMI",
+        "time": 0.8149189814814815,
+        "tweet_id": "1020632693065879552"
+      },
+      {
+        "lat": 0.23985001754636615,
+        "lat_full": 25.03307783,
+        "lng": 1.2959591191808413,
+        "lng_full": 121.56298833,
+        "name": "YASUTOMO・FUJITA⊿ 🌸",
+        "photo_url": "http://pbs.twimg.com/media/Din8qNHVQAImc03.jpg",
+        "sentiment": 0.5,
+        "text": "台北101に来ました https://t.co/SgwxXQO4O0",
+        "time": 0.8372453703703705,
+        "tweet_id": "1020624603163418625"
+      },
+      {
+        "lat": 0.78306058513949,
+        "lat_full": 25.04284825,
+        "lng": -0.11597970129036625,
+        "lng_full": 121.53495861,
+        "name": "오관영",
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "見面倒數❤️\n#20180721 #박유천 #朴有天 #再會 @ 國立臺北科技大學 Taipei Tech https://t.co/QyoWrqGFux",
+        "time": 0.8562847222222222,
+        "tweet_id": "1020617706100338689"
+      },
+      {
+        "lat": 0.8508555759401912,
+        "lat_full": 25.04406764,
+        "lng": 0.2429530381251846,
+        "lng_full": 121.54208412,
+        "name": "โชค-ดี「冠役」",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "@Manan_mny ชั้นก็คิสว่าวงมันแมสระดับนึงละนะ ทำไมถึงไม่เคยฟัง",
+        "time": 0.8665162037037036,
+        "tweet_id": "1020613994938130433"
+      },
+      {
+        "lat": 0.8457867552090426,
+        "lat_full": 25.04397647,
+        "lng": 0.28468297184060876,
+        "lng_full": 121.54291254,
+        "name": "โชค-ดี「冠役」",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "@Manan_mny ไปอยู่ไหนมา !!!!!!!",
+        "time": 0.8673263888888889,
+        "tweet_id": "1020613703488528384"
+      },
+      {
+        "lat": 0.8504285874217059,
+        "lat_full": 25.04405996,
+        "lng": 0.8245008342334416,
+        "lng_full": 121.55362897,
+        "name": "โชค-ดี「冠役」",
+        "photo_url": "",
+        "sentiment": 0.29999999701976776,
+        "text": "@Manan_mny ฟัง sekai no owari มะ ขอซักเพลง",
+        "time": 0.8682291666666666,
+        "tweet_id": "1020613375523414016"
+      },
+      {
+        "lat": 0.8500010429289364,
+        "lat_full": 25.04405227,
+        "lng": 1.1491255858468894,
+        "lng_full": 121.5600734,
+        "name": "โชค-ดี「冠役」",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "@Manan_mny อาเระะ วงญี่ปุ่นชะป่ะ",
+        "time": 0.8690162037037038,
+        "tweet_id": "1020613090654674945"
+      },
+      {
+        "lat": 0.6158095161004307,
+        "lat_full": 25.03984,
+        "lng": 1.2544352107051275,
+        "lng_full": 121.562164,
+        "name": "Emma",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "I'm at Chateau Zoe酒窖餐廳 in Xinyi District, Taipei City https://t.co/v7IdneB4GV",
+        "time": 0.8742013888888889,
+        "tweet_id": "1020611210096644096"
+      },
+      {
+        "lat": 0.6717907934937973,
+        "lat_full": 25.04084,
+        "lng": 1.3997671147080184,
+        "lng_full": 121.56556,
+        "name": "Boris波仔",
+        "photo_url": "",
+        "sentiment": 0.44999999925494194,
+        "text": "宜家先出太陽。。。。 @ W Taipei https://t.co/8RR0yysrWv",
+        "time": 0.8788425925925926,
+        "tweet_id": "1020609531179659264"
+      },
+      {
+        "lat": 0.6798605737207526,
+        "lat_full": 25.04099205,
+        "lng": 0.5072073572777137,
+        "lng_full": 121.54733008,
+        "name": "豬小草",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "炸兩回來了！ (@ 老友記粥麵飯館 in 大安區, 臺灣) https://t.co/6JH0GBeiiY",
+        "time": 0.8802777777777777,
+        "tweet_id": "1020609010469429248"
+      },
+      {
+        "lat": 0.26275950828286376,
+        "lat_full": 25.03348989,
+        "lng": 1.2026714952168311,
+        "lng_full": 121.56113639,
+        "name": "Chica Bonita💋라원",
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "빨리빨리ㅠㅠ (@ 台北國際會議中心大會堂 in 信義區, 台北市 w/ @g1_republic) https://t.co/Mp0Q28CYCP",
+        "time": 0.901423611111111,
+        "tweet_id": "1020601347329150976"
+      },
+      {
+        "lat": 0.2877882312951865,
+        "lat_full": 25.03348989,
+        "lng": 1.2182947423931845,
+        "lng_full": 121.56113639,
+        "name": "신세대_🌟날라리아반떼🚙⚜️",
+        "photo_url": "",
+        "sentiment": 0.8499999940395355,
+        "text":
+          "1 THE LAND IN TAIPEI (@ 台北國際會議中心大會堂 in 信義區, 台北市) https://t.co/ms8ojWVb9d",
+        "time": 0.9022337962962963,
+        "tweet_id": "1020601052796776449"
+      },
+      {
+        "lat": 0.6870107017898702,
+        "lat_full": 25.04084,
+        "lng": 1.4489278431090653,
+        "lng_full": 121.56556,
+        "name": "Boris波仔",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text": "「落雨就室內體能訓練」 @ W Taipei https://t.co/ewZzRei5T9",
+        "time": 0.9226851851851853,
+        "tweet_id": "1020593640404480000"
+      },
+      {
+        "lat": 0.5876627044386118,
+        "lat_full": 25.0396918,
+        "lng": 1.1715115371654536,
+        "lng_full": 121.55979322,
+        "name": "Sharlyn Ann 💫",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "📸: @einramzelo \n\nEdited by: gelovasuncion \n\n#TaiwanItThatWay #SharAndMarnTakesOverTaipei #Travel @ 國立國父紀念館National… https://t.co/kR3v2o5KY5",
+        "time": 0.9335416666666666,
+        "tweet_id": "1020589706734637056"
+      },
+      {
+        "lat": 0.2737236790118835,
+        "lat_full": 25.0341247,
+        "lng": 1.390295015370081,
+        "lng_full": 121.56455286,
+        "name": "cHeR",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text": "❤️ @ Taipei101水舞廣場 https://t.co/OzIbBosGlY",
+        "time": 0.9497453703703704,
+        "tweet_id": "1020583833480048641"
+      },
+      {
+        "lat": 0.30187510360329095,
+        "lat_full": 25.03419344,
+        "lng": 1.363897579021365,
+        "lng_full": 121.56433704,
+        "name": "🧚🏻‍♀️龍國巫婆🧚🏻‍♀️",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "大雨只好來喝茶 (@ TWG Tea in 信義區, 台北市) https://t.co/E9T81tjfnc",
+        "time": 0.9509259259259258,
+        "tweet_id": "1020583409066921984"
+      },
+      {
+        "lat": 0.2970869616302481,
+        "lat_full": 25.03404267,
+        "lng": 1.3627606695098005,
+        "lng_full": 121.56460415,
+        "name": "Evenz",
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "ไฟท์บังคับ @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/aorcimg84W",
+        "time": 0.9554166666666667,
+        "tweet_id": "1020581780200468481"
+      },
+      {
+        "lat": 0.7040315709001185,
+        "lat_full": 25.0414268,
+        "lng": 0.9044643173428788,
+        "lng_full": 121.5552164,
+        "name": "Shigex⊿",
+        "photo_url": "http://pbs.twimg.com/media/DinJPY3XsAAk3L3.jpg",
+        "sentiment": 0.5,
+        "text":
+          "やべーやつ。 (@ Ice Monster in Taipei, 臺北市) https://t.co/IhmB9Bvz2E https://t.co/mEQ0xjhkKj",
+        "time": 0.993287037037037,
+        "tweet_id": "1020568058300166145"
+      },
+      {
+        "lat": 0.27644259998125426,
+        "lat_full": 25.033736,
+        "lng": 1.360570951438426,
+        "lng_full": 121.564271,
+        "name": "Jessica Ghost Writer",
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "Probably my best #selfie in years.  Had a fun time at #appletaipei101 #chasejarvis #photolab #light #todayatapple… https://t.co/woxRvtookW",
+        "time": 0.9941666666666666,
+        "tweet_id": "1020567735846125570"
+      },
+      {
+        "lat": 0.6595391449019302,
+        "lat_full": 25.04062654,
+        "lng": 1.418469081025683,
+        "lng_full": 121.56542039,
+        "name": "Boris波仔",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "件衫好襯個場 @ YEN 紫艷中餐廳 https://t.co/9qyUODlKhj",
+        "time": 0.0037152777777777774,
+        "tweet_id": "1020564276124241920"
+      },
+      {
+        "lat": 0.8174615155702011,
+        "lat_full": 25.043467,
+        "lng": -0.07309270162169801,
+        "lng_full": 121.53581,
+        "name": "iam*mw◡̈",
+        "photo_url": "http://pbs.twimg.com/media/DinB-WvX4AQdI1k.jpg",
+        "sentiment": 0.800000011920929,
+        "text":
+          "เช็คอินถูกมะ 😂😂 (@ 臺北科技大學中正館 in Da’an District, Taipei City) https://t.co/G65TJm32N8 https://t.co/V1ifXNtdHy",
+        "time": 0.015324074074074073,
+        "tweet_id": "1020560069254053888"
+      },
+      {
+        "lat": 0.7083337589734853,
+        "lat_full": 25.04062654,
+        "lng": 1.394539579072293,
+        "lng_full": 121.56542039,
+        "name": "Boris波仔",
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text": "好紫啊～ @ YEN 紫艷中餐廳 https://t.co/aBowWtyw7V",
+        "time": 0.027928240740740743,
+        "tweet_id": "1020555502986678272"
+      },
+      {
+        "lat": 0.27529357704391355,
+        "lat_full": 25.03404267,
+        "lng": 1.3756709326515169,
+        "lng_full": 121.56460415,
+        "name": "♬R.M Marcelo♬",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Taipei 101 #BarbiesSweetEscape @ TAIPEI 101 MALL 台北 101 購物中心 https://t.co/xUsNHDIOEX",
+        "time": 0.06152777777777777,
+        "tweet_id": "1020543326078943232"
+      },
+      {
+        "lat": 0.7475755041741639,
+        "lat_full": 25.04221,
+        "lng": 1.3000730754910763,
+        "lng_full": 121.56307,
+        "name": "蓋子",
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "上次被CFK衝來Gank的怨念終於化解…（淚）\n龍蝦爆沾麵 @ 五之神製作所  台灣 https://t.co/3RPESOrZRG",
+        "time": 0.06766203703703703,
+        "tweet_id": "1020541102217195521"
+      },
+      {
+        "lat": 0.16646748168185962,
+        "lat_full": 25.03175794,
+        "lng": 1.2290517929966212,
+        "lng_full": 121.56166009,
+        "name": "iam*mw◡̈",
+        "photo_url": "http://pbs.twimg.com/media/DimsrpMXcAAzsZX.jpg",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "I'm at 四四南村信義公民會館 in Taipei, 台北市 https://t.co/xQeH07bhAa https://t.co/N6yaZ5hdoV",
+        "time": 0.07993055555555555,
+        "tweet_id": "1020536658024980480"
+      },
+      {
+        "lat": 0.16901718134982874,
+        "lat_full": 25.0318038,
+        "lng": 1.211572893767115,
+        "lng_full": 121.5613131,
+        "name": "iam*mw◡̈",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "I'm at 星巴克 Starbucks in Taipei https://t.co/mrwjD1j7AJ",
+        "time": 0.0987037037037037,
+        "tweet_id": "1020529855782432768"
+      },
+      {
+        "lat": 0.2501183130474175,
+        "lat_full": 25.03326252,
+        "lng": 1.3647367918550664,
+        "lng_full": 121.5643537,
+        "name": "覇瀬(0728/SHISHAMO@等々力競技場)",
+        "photo_url": "",
+        "sentiment": 0.3999999985098839,
+        "text": "I'm at Din Tai Fung in Taipei https://t.co/Vm6olzWmUX",
+        "time": 0.16974537037037038,
+        "tweet_id": "1020504108539809793"
+      },
+      {
+        "lat": 0.2741599078836257,
+        "lat_full": 25.03348637,
+        "lng": 1.3719277149406486,
+        "lng_full": 121.56431334,
+        "name": "覇瀬(0728/SHISHAMO@等々力競技場)",
+        "photo_url": "",
+        "sentiment": 0.44999999925494194,
+        "text":
+          "I'm at 台北101 in 臺北市 Taipei, 台北市 https://t.co/q9C5q0zdNE",
+        "time": 0.2431134259259259,
+        "tweet_id": "1020477520297320450"
+      },
+      {
+        "lat": 0.7303402905441221,
+        "lat_full": 25.0419,
+        "lng": 0.9313433070223905,
+        "lng_full": 121.55575,
+        "name": "fromafriendofmine",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Find your seat.\n\nSilk chiffon scarf from a friend of mine \n@Ianchenlily tumii_bar\n\n#FindYourOwnScarf ➡➡➡ Link in th… https://t.co/JVk6245gru",
+        "time": 0.43656249999999996,
+        "tweet_id": "1020407417300021249"
+      },
+      {
+        "lat": 0.5575906323824277,
+        "lat_full": 25.03879285,
+        "lng": 1.506485682726214,
+        "lng_full": 121.56716769,
+        "name": "Angel Kuo",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "煮咖啡、搖果茶的聲音真心惱人。\n打翻的飲料要我們留電話未來可能要付洗沙發費用，拒絕往來戶了啊這家酒店 @ 寒舍艾麗酒店 https://t.co/ZC2mZVe7fI",
+        "time": 0.5771990740740741,
+        "tweet_id": "1020356454677721088"
+      },
+      {
+        "lat": 0.23552286697607086,
+        "lat_full": 25.033,
+        "lng": 1.2965469711481057,
+        "lng_full": 121.563,
+        "name": "xtine",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "thetravelingjackal And taipei 101 @ Taipei 101 / World Trade Center Station https://t.co/eXvt3zs4I8",
+        "time": 0.6156712962962964,
+        "tweet_id": "1020342510072344582"
+      },
+      {
+        "lat": 0.624039608595932,
+        "lat_full": 25.03998803,
+        "lng": 1.490721477665349,
+        "lng_full": 121.56685474,
+        "name": "liutachiang",
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "Dior Boutique Party🎉🎉🎉#鄭元暢 #chenyian#angelina#diorboutique #新光三越台北信義新天地a4 #劉大強#劉大強老師#party #love #tagsforlikes#foll… https://t.co/1fpqCc2ect",
+        "time": 0.626875,
+        "tweet_id": "1020338451676303362"
+      },
+      {
+        "lat": 0.5935621574080575,
+        "lat_full": 25.03998803,
+        "lng": 1.4581552322648332,
+        "lng_full": 121.56685474,
+        "name": "liutachiang",
+        "photo_url": "",
+        "sentiment": 0.949999988079071,
+        "text":
+          "Dior Boutique Party🎉🎉🎉#劉以豪 #diorboutique #新光三越台北信義新天地a4 #劉大強#劉大強老師#party #love #tagsforlikes#follow #cute #followme… https://t.co/UHdEOtAtdQ",
+        "time": 0.6378472222222222,
+        "tweet_id": "1020334476319080448"
+      },
+      {
+        "lat": 0.6702950301561693,
+        "lat_full": 25.04082,
+        "lng": 0.34802490280450255,
+        "lng_full": 121.54417,
+        "name": "sean",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "剛剛發佈了 1 張相片 @ 尚癮sexanin https://t.co/dVdHblaxxs",
+        "time": 0.6643287037037037,
+        "tweet_id": "1020324880032649216"
+      },
+      {
+        "lat": 0.6862292764724764,
+        "lat_full": 25.04082,
+        "lng": 0.335849320765139,
+        "lng_full": 121.54417,
+        "name": "sean",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "剛剛發佈了 1 張相片 @ 尚癮sexanin https://t.co/pygAmHxZ2O",
+        "time": 0.6664351851851852,
+        "tweet_id": "1020324113724989440"
+      },
+      {
+        "lat": 0.28666752946088153,
+        "lat_full": 25.03391991,
+        "lng": 0.7057144385753841,
+        "lng_full": 121.55127083,
+        "name": "Anson Chen",
+        "photo_url": "",
+        "sentiment": 0.15000000596046448,
+        "text": "@gorykb8 支那用法",
+        "time": 0.6753125,
+        "tweet_id": "1020320897322774529"
+      },
+      {
+        "lat": 0.7662398310545848,
+        "lat_full": 25.04294858,
+        "lng": 0.5488106411784973,
+        "lng_full": 121.54827566,
+        "name": "Lalala Drumcater",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "Day387\n\n阿祖瑪燉飯 Kimchi Risotto\n\n#herbankitchenandbar #herbantaipei #rissoto #kimchi #waterbamboo #greenpeppers… https://t.co/OXsCC6kyts",
+        "time": 0.7120833333333333,
+        "tweet_id": "1020307572262305793"
+      },
+      {
+        "lat": 0.309467493194658,
+        "lat_full": 25.03433,
+        "lng": 0.43214767785161745,
+        "lng_full": 121.54584,
+        "name": "Darren Kuo",
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "久久一次跟柚子的小約會\n難得敏感的他把東西吃光光沒吐出來\n\n#車子加了油 #車子就往前 \n#好洗腦的一首歌 啊啊啊 @ 日暮里涮涮鍋 https://t.co/CNj5puKYj8",
+        "time": 0.7348842592592594,
+        "tweet_id": "1020299309453959168"
+      },
+      {
+        "lat": 0.3196223623686935,
+        "lat_full": 25.03380667,
+        "lng": 1.3660566439804627,
+        "lng_full": 121.56464519,
+        "name": "Terrell Monroe",
+        "photo_url": "",
+        "sentiment": 0.9000000059604645,
+        "text":
+          "1 of the tallest buildings in the 🌎, 1 of the fastest elevators in the 🌎, top right corner is the wind damper insid… https://t.co/7MAzVTGqI1",
+        "time": 0.7456481481481482,
+        "tweet_id": "1020295410915606528"
+      },
+      {
+        "lat": 0.34268141778339367,
+        "lat_full": 25.0349274,
+        "lng": 1.4596489424631398,
+        "lng_full": 121.56623789,
+        "name": "DJ FINGAZ™ FING KONG",
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "Always Do whatever makes your heart smile. Because You’re never wrong by doing what’s right for you. #djfingaz @ WA… https://t.co/nbr0nffFww",
+        "time": 0.7512037037037037,
+        "tweet_id": "1020293396966117377"
+      },
+      {
+        "lat": 0.79705724653089,
+        "lat_full": 25.0431,
+        "lng": 1.2910059500369049,
+        "lng_full": 121.56289,
+        "name": "快樂星球 Happy Planet",
+        "photo_url": "",
+        "sentiment": 0.7000000029802322,
+        "text":
+          "[旅遊🌸新奇] 黑松沙士透明瓶，專賣店就在我家附近的松菸，限量發行，快去快去買\n👉米米瘋快樂星球TV旅遊影音頻道\n👉IG ：@Imvivi1018Happy\n👉YT：https://t.co/tfZUwFoHWw\n💚Line@Vi… https://t.co/GBRDiobuRG",
+        "time": 0.7670833333333333,
+        "tweet_id": "1020287641508564992"
+      },
+      {
+        "lat": 0.2949363999057138,
+        "lat_full": 25.0341247,
+        "lng": 1.3325395729603746,
+        "lng_full": 121.56455286,
+        "name": "Levijoy Gatchalian",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text": "Cityscapes @ Taipei101水舞廣場 https://t.co/vaDzIPj9nM",
+        "time": 0.7951851851851851,
+        "tweet_id": "1020277458183041024"
+      },
+      {
+        "lat": 0.17686754317102343,
+        "lat_full": 25.031945,
+        "lng": 1.0518857026433792,
+        "lng_full": 121.558143,
+        "name": "不愉快です",
+        "photo_url": "http://pbs.twimg.com/media/Dii-BXvW0AEvbxC.jpg",
+        "sentiment": 0.44999999925494194,
+        "text":
+          "Peace✌️Love🤟Curry🍛 #金曜日はカレーの日🍛 (@ Curry For Peace in Taipei) https://t.co/093FdTkh97 https://t.co/T4mxHC9qwQ",
+        "time": 0.8040393518518517,
+        "tweet_id": "1020274247946723330"
+      },
+      {
+        "lat": 0.1276637881307994,
+        "lat_full": 25.03106,
+        "lng": -0.08618966061089774,
+        "lng_full": 121.53555,
+        "name": "BEEWUS",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "Chilling at #DaanPark \n#台北 #台湾 à 大安森林公園 https://t.co/BqPoYJ4yLG",
+        "time": 0.8217476851851852,
+        "tweet_id": "1020267834071572480"
+      },
+      {
+        "lat": 0.8150118913361963,
+        "lat_full": 25.04342294,
+        "lng": 0.5024370418308907,
+        "lng_full": 121.54723538,
+        "name": "kessy202",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "久々! 土日っ! ＼(-o-)／ 場所: 清風sefa58 https://t.co/4WXFA2Bt1q",
+        "time": 0.8298263888888889,
+        "tweet_id": "1020264902504722432"
+      },
+      {
+        "lat": 0.2833344615346726,
+        "lat_full": 25.03385996,
+        "lng": 1.3826388236057006,
+        "lng_full": 121.56470909,
+        "name": "PAM",
+        "photo_url": "http://pbs.twimg.com/media/DiizO8OXkAA0B9R.jpg",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "Here we come, 91st floor!😨 (@ Taipei 101 Observatory in 台北市) https://t.co/lGtFE7kYqb https://t.co/fWP7iX2VOl",
+        "time": 0.8367708333333334,
+        "tweet_id": "1020262386505220096"
+      },
+      {
+        "lat": 0.2670756014182616,
+        "lat_full": 25.03380667,
+        "lng": 1.4053620922732815,
+        "lng_full": 121.56464519,
+        "name": "Cat Herrera, MM, PMP",
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "#nightphotography #nightviews #taipei at night #nightcityscape #taipei101 #taiwan #travelTaipei #travelTaiwan… https://t.co/qrCZfaqi55",
+        "time": 0.8427199074074073,
+        "tweet_id": "1020260230750396416"
+      },
+      {
+        "lat": 0.2510188290745428,
+        "lat_full": 25.03348637,
+        "lng": 1.341249256249505,
+        "lng_full": 121.56431334,
+        "name": "PAM",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "I'm at Taipei 101 in 臺北市 Taipei, 台北市 https://t.co/tRMj8Kxyew",
+        "time": 0.843587962962963,
+        "tweet_id": "1020259919113711619"
+      },
+      {
+        "lat": 0.2614679792098851,
+        "lat_full": 25.03346666,
+        "lng": 1.1793649529662,
+        "lng_full": 121.56067371,
+        "name": "Clement Tang",
+        "photo_url": "",
+        "sentiment": 0.8499999940395355,
+        "text":
+          "Digital Innovation Forum 2018\n這次感謝 #數位時代 贈票，雖然兩天只參加到一天，但還是覺得很有收穫，也再次感謝主辦單位。\n\n#DIF @ TICC 台北國際會議中心 https://t.co/KLEnO5iVDn",
+        "time": 0.8441435185185185,
+        "tweet_id": "1020259717283753984"
+      },
+      {
+        "lat": 0.5607680274112928,
+        "lat_full": 25.03885,
+        "lng": 1.499549835482849,
+        "lng_full": 121.56703,
+        "name": "Fashion Ecstasy",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "想吃鬆餅嗎？\n你終於吃到 #日本 紅來的 #鬆餅 啦！請期待網評\n：https://t.co/wlhDw0ViSC\n#甜點控 jamlingcafe #jamlingcafe\n#台北吃貨 #taiwancafe… https://t.co/Uo0kT30hIx",
+        "time": 0.8526851851851851,
+        "tweet_id": "1020256620549496833"
+      },
+      {
+        "lat": 0.3014542308060796,
+        "lat_full": 25.03418587,
+        "lng": 1.364184200932005,
+        "lng_full": 121.56434273,
+        "name": "Camille Rae",
+        "photo_url": "",
+        "sentiment": 0.44999999925494194,
+        "text":
+          "I'm at Taipei 101 Mall in Taipei, 台北市 https://t.co/CsBUvX0irK",
+        "time": 0.9356481481481481,
+        "tweet_id": "1020226557070147584"
+      },
+      {
+        "lat": 0.4833207610033574,
+        "lat_full": 25.037457,
+        "lng": 1.5014015439922854,
+        "lng_full": 121.56706676,
+        "name": "Derek Hsu",
+        "photo_url": "",
+        "sentiment": 0.6500000059604645,
+        "text": "Jordan Bell @ 信義新光三越香緹廣場 https://t.co/gTej6VxxJT",
+        "time": 0.9366435185185185,
+        "tweet_id": "1020226197375078400"
+      },
+      {
+        "lat": 0.49158604226091346,
+        "lat_full": 25.037457,
+        "lng": 1.4821517341942991,
+        "lng_full": 121.56706676,
+        "name": "Derek Hsu",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text":
+          "勇士隊的 Jordan Bell! @ 信義新光三越香緹廣場 https://t.co/9qkhuNKBvF",
+        "time": 0.9435300925925927,
+        "tweet_id": "1020223701537746945"
+      },
+      {
+        "lat": 0.3296392431675451,
+        "lat_full": 25.03380667,
+        "lng": 1.3471211442135027,
+        "lng_full": 121.56464519,
+        "name": "♡",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "มีขายแบบนี้ด้วยอ่า #ไต้หวัน #เผลอไผลอินไทเป @ 台北101觀景台 https://t.co/ggyazw41Yc",
+        "time": 0.9478356481481481,
+        "tweet_id": "1020222138240860160"
+      },
+      {
+        "lat": 0.7030719586831812,
+        "lat_full": 25.04140954,
+        "lng": 0.30319149353835984,
+        "lng_full": 121.54327997,
+        "name": "FU",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text":
+          "I'm at Pacific SOGO Department Store (Fuxing Store, Taipei) in Taipei https://t.co/YFc7SeK5ec",
+        "time": 0.9607407407407408,
+        "tweet_id": "1020217464762888192"
+      },
+      {
+        "lat": 0.21539823030235297,
+        "lat_full": 25.03348637,
+        "lng": 1.3525950919577827,
+        "lng_full": 121.56431334,
+        "name": "pinky👑",
+        "photo_url": "",
+        "sentiment": 0.75,
+        "text":
+          "I'm at Taipei 101 in 臺北市 Taipei, 台北市 https://t.co/bnePP6vGlU",
+        "time": 0.9787152777777778,
+        "tweet_id": "1020210948613828608"
+      },
+      {
+        "lat": 0.7361980392799078,
+        "lat_full": 25.04200536,
+        "lng": 0.736404643320448,
+        "lng_full": 121.55188009,
+        "name": "どんべい(お湯をそそいで五分)",
+        "photo_url": "",
+        "sentiment": 0.6000000014901161,
+        "text": "I'm at 楊記大餛飩 in 大安區, 台北市 https://t.co/lTgJYnQLpG",
+        "time": 0.0011574074074074076,
+        "tweet_id": "1020202814935654401"
+      },
+      {
+        "lat": 0.1735461507120906,
+        "lat_full": 25.03188526,
+        "lng": 0.764908159644023,
+        "lng_full": 121.55244594,
+        "name": "MLCh3n",
+        "photo_url": "",
+        "sentiment": 0.5,
+        "text": "@RetonKao @AnsonChen 。",
+        "time": 0.007465277777777778,
+        "tweet_id": "1020200530478419968"
+      },
+      {
+        "lat": 0.1758462177698278,
+        "lat_full": 25.03192663,
+        "lng": 0.7650471889010366,
+        "lng_full": 121.5524487,
+        "name": "MLCh3n",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "這種型的父母我現在回想起來最多，而且這些父母的職業幾乎都是公務員，只不過是窮廢公務員為什麼還會視自己是菁英、有資源？\n\n慶幸我爸媽不是這種廢物又扭曲的父母。",
+        "time": 0.01076388888888889,
+        "tweet_id": "1020199335491801088"
+      },
+      {
+        "lat": 0.19988939637101089,
+        "lat_full": 25.03192663,
+        "lng": 0.755779387276874,
+        "lng_full": 121.5524487,
+        "name": "MLCh3n",
+        "photo_url": "",
+        "sentiment": 0.800000011920929,
+        "text":
+          "一種就是經濟不寬裕，但還能過日子，有讀點書，寄託小孩可以考上好大學幫家裡翻身。\n\n另一種則是經濟狀況好一點，但事實上根本不怎麼樣，還自以為有點資源，嚴格要求孩子的一切，小孩的各種表現平常是會讓他們拿來在同事、親戚面前炫耀的父母，",
+        "time": 0.010787037037037038,
+        "tweet_id": "1020199327979823104"
+      },
+      {
+        "lat": 0.18480574898422725,
+        "lat_full": 25.03208778,
+        "lng": 0.7547096584250145,
+        "lng_full": 121.55224348,
+        "name": "MLCh3n",
+        "photo_url": "",
+        "sentiment": 0.5500000007450581,
+        "text":
+          "從小我想上任何才藝班，珠算、繪畫、英文全都是我自己主動要求想學，從未被逼迫過，我父母只有國中畢業，但他們並沒有因此把學歷的寄望加諸在我身上，也從來沒要求過我一定要考幾名或者考到多好的高中或大學。\n\n不過同學中還真不少有類似影集中那… https://t.co/F6iCNpQMJp",
+        "time": 0.010983796296296297,
+        "tweet_id": "1020199256794152961"
       }
     ]
   },

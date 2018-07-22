@@ -15,20 +15,9 @@ export default class TweetsPage extends Component {
     const tweets_card = data.tweets.map((tweets, i) => {
       let col = `hsl(${map_range(tweets.sentiment, 0, 1, 0, 120)}, 65%, 95%)`;
 
-      let tweetStyle = {
-        backgroundColor: col,
-        padding: "10px",
-        boxShadow: "0px 1px 1px #F5F5F5",
-        margin: "10px",
-        fontSize: "14",
-        color: "#333333",
-        borderRadius: "3px"
-      };
-
       return (
         <div key={i} className="">
-          {/* <SimpleCard data={tweets} /> */}
-          <p style={tweetStyle}>{tweets.text}</p>
+          <SimpleCard data={tweets} />
         </div>
       );
     });
@@ -36,7 +25,7 @@ export default class TweetsPage extends Component {
     return (
       <div>
         <HereMap height="300px" />
-        <h3>Tweets and their Sentiments</h3>
+        {/* <h3>Tweets and their Sentiments</h3> */}
         {tweets_card}
       </div>
     );

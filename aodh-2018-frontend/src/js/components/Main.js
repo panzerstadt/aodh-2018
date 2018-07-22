@@ -16,7 +16,7 @@ import dummyShibuya from "../../data/dummy/dummy_shibuya";
 import dummyHiroshima from "../../data/dummy/dummy_hiroshima";
 import dummyKochi from "../../data/dummy/dummy_kochi";
 
-let dummyData = dummyKochi;
+let dummyData = dummyShibuya;
 let debug = true;
 
 // do logic here
@@ -47,11 +47,13 @@ class Main extends Component {
 
     const params = {
       lat: lat,
-      lng: lng
+      lng: lng,
+      disaster: "false",
+      radius: "1"
     };
 
     if (debug === false) {
-      const url = new URL("http://0.0.0.0:5000/v1/tweets/location");
+      const url = new URL("http://35.189.128.32/v1/tweets/location");
       Object.keys(params).forEach(key =>
         url.searchParams.append(key, params[key])
       );
