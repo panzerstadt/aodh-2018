@@ -6,4 +6,4 @@
 3. `./aodh-2018-design/` - adobe XD file of the app design draft
 4. `./aodh-2018-ml/` - the published Algorithmia API code used to perform image segmentation through an API
 4. `./aodh-2018-misc/` - dev testing space
-5. `Presentation` - AODH 2018 competition
+5. `./aodh-2018-presentation` - AODH 2018 competition
