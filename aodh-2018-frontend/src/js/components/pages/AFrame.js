@@ -94,9 +94,9 @@ export default class AFrame extends Component {
       <div className="page-size">
         <TextField
           id="search"
-          label="Search field"
+          label="Search for Cities"
           type="search"
-          helperText="wooot"
+          helperText="e.g. Shibuya, Seoul, Bangkok..."
           margin="normal"
           fullWidth
           onChange={this.handleUpdate.bind(this)}
