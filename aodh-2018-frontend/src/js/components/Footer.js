@@ -2,11 +2,8 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 
 import PropTypes from "prop-types";
-import Button from "@material-ui/core/Button";
-import Icon from "@material-ui/core/Icon";
 import SpeakerNotesIcon from "@material-ui/icons/SpeakerNotes";
 import ChangeHistoryIcon from "@material-ui/icons/ChangeHistory";
-import RestoreIcon from "@material-ui/icons/Restore";
 import FavoriteIcon from "@material-ui/icons/Favorite";
 import LocationOnIcon from "@material-ui/icons/LocationOn";
 import { withStyles } from "@material-ui/core/styles";
@@ -18,7 +15,8 @@ const styles = {
     position: "fixed",
     bottom: 0,
     width: "100%",
-    boxShadow: "0px 3px 15px #C6C6C6"
+    boxShadow: "0px 3px 15px #C6C6C6",
+    zIndex: 999
   }
 };
 
@@ -49,13 +47,13 @@ class LabelBottomNavigation extends Component {
           icon={<SpeakerNotesIcon />}
         />
 
-        {/* <BottomNavigationAction
+        <BottomNavigationAction
           label="Images"
           value="favorites"
           component={Link}
           to="/images"
           icon={<FavoriteIcon />}
-        /> */}
+        />
         <BottomNavigationAction
           label="Map"
           value="nearby"

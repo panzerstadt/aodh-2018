@@ -1,8 +1,9 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
+// import { withStyles } from "@material-ui/core/styles";
 
-import logo from "../../images/logo.svg";
-import Button from "@material-ui/core/Button";
+// import logo from "../../images/logo.svg";
+// import Button from "@material-ui/core/Button";
 
 class Header extends Component {
   render() {

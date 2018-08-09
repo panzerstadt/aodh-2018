@@ -13,9 +13,15 @@ from utils.baseutils import get_filepath
 import os.path as path
 
 # analyzed entities cache
-db_dir = "db"
-sentiment_db_filename = "sentiment-cache.json"
-sentiment_db_filepath = get_filepath(path.join(db_dir, sentiment_db_filename))
+try:
+    db_dir = "db"
+    sentiment_db_filename = "sentiment-cache.json"
+    sentiment_db_filepath = get_filepath(path.join(db_dir, sentiment_db_filename))
+except:
+    db_dir = "aodh-backend/db"
+    sentiment_db_filename = "sentiment-cache.json"
+    sentiment_db_filepath = get_filepath(path.join(db_dir, sentiment_db_filename))
+
 sentiment_db = load_db(database_path=sentiment_db_filepath, debug=False)
 
 from hidden.hidden import GoogleAPI

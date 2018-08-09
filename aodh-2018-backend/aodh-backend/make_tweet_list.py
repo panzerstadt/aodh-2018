@@ -72,8 +72,8 @@ def process_posts(posts=None, location=None, format=None, exact_location_only=Tr
                 "sentiment": output_sentiment,
                 "lat": norm_lat,
                 "lng": norm_lng,
-                "lat_full": lat,
-                "lng_full": lng,
+                "full_lat": lat,
+                "full_lng": lng,
                 "tweet_id": tweet_id,
                 "name": v['user']['name'],
                 "time": normalize_time(v['created_at']),
@@ -158,7 +158,7 @@ def get_tweet_list_from_geolocation(lat=34.6937, lng=135.5022, radius='1', disas
     return t
 
 
-def __calculate__weighted__lat__long(openfile):
+def __calculate__weighted__lat__long(lat, lng, radius, openfile):
 
     def get_highest_sentiment_location(tweets_in):
         lats = [x['lat'] for x in tweets_in]
@@ -206,7 +206,19 @@ def __calculate__weighted__lat__long(openfile):
     weightedlatnew = sum(weightedlat) / sum(sentiment)
     weightedlngnew = sum(weightedlng) / sum(sentiment)
 
-    return {"lat": weightedlatnew, "lng": weightedlngnew}
+    bbox = get_bounding_box(latitude_in_degrees=lat, longitude_in_degrees=lng, half_side_in_km=radius)
+
+    full_lat = remap(weightedlatnew, 0, 1, bbox.lat_min, bbox.lat_max)
+    full_lng = remap(weightedlngnew, 0, 1, bbox.lng_min, bbox.lng_max)
+
+    output = {
+        "lat": weightedlatnew,
+        "lng": weightedlngnew,
+        "full_lat": full_lat,
+        "full_lng": full_lng
+    }
+
+    return output
 
 
 def __isDisaster(openfile):
@@ -237,10 +249,10 @@ def calculate_destination(lat, lng, radius, json_output):
         if shelter:
             return shelter
         else:
-            return __calculate__weighted__lat__long(json_output)
+            return __calculate__weighted__lat__long(lat, lng, radius, json_output)
     else:
         # return weighted location
-        return __calculate__weighted__lat__long(json_output)
+        return __calculate__weighted__lat__long(lat, lng, radius, json_output)
 
 
 def get_tweet_list(query='', exact_location_only=True):

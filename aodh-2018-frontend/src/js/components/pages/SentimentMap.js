@@ -5,22 +5,29 @@ export default class SentimentMap extends Component {
   render() {
     const { data } = this.props;
 
+    const mapStyle = {
+      zIndex: -999
+    };
+
     if (!data || data.length === 0) return null;
 
-    const tweets_pic = data.tweets.map(tweets => {
-      if (!tweets.photo_url || tweets.photo_url === "") {
-        console.log("no images, skipping this tweet");
-      } else {
-        return (
-          <div className="">
-            <img src={tweets.photo_url} alt="" />
-          </div>
-        );
-      }
-    });
+    // const tweets_pic = data.tweets.map(tweets => {
+    //   if (!tweets.photo_url || tweets.photo_url === "") {
+    //     console.log("no images, skipping this tweet");
+    //     return null;
+    //   } else {
+    //     return (
+    //       <div className="">
+    //         <img src={tweets.photo_url} alt="" />
+    //       </div>
+    //     );
+    //   }
+    // });
 
-    console.log(tweets_pic);
+    // console.log(tweets_pic);
 
-    return <HereMap height="500px" />;
+    return (
+      <HereMap height={window.innerHeight - 130} style={mapStyle} data={data} />
+    );
   }
 }

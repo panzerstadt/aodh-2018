@@ -1,0 +1,4 @@
+docker build -t aodh-2018-backend .
+docker tag aodh-2018-backend gcr.io/asia-open-data-hacktahon-2018/aodh-2018-backend:latest
+gcloud docker -- push gcr.io/asia-open-data-hacktahon-2018/aodh-2018-backend:latest
+kubectl run aodh-2018-backend-app --image=gcr.io/asia-open-data-hacktahon-2018/aodh-2018-backend:latest --port=5000

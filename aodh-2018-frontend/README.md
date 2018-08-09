@@ -1,3 +1,28 @@
+# AODH 2018 team standy frontend
+it's a react app.
+
+## requirements
+node js
+- [install from here](https://nodejs.org/en/download/)
+yarn
+- [install from here](https://yarnpkg.com/en/docs/install#windows-stable)
+an Integrated Development Environment
+- i'm using [VS Code](https://code.visualstudio.com/)
+
+## steps required to run
+1. make sure your terminal / ide /command prompt is at the root folder for the frontend project at `whateverFolder/AOH_2018/aodh-2018-frontend/`. use `cd` to move to the right folder
+2. type `yarn start` in the terminal / ide / command prompt
+
+## where are the files?
+react is very confusing looking when you first look at it. i know XD.
+1. main js file is in `src/js/components/Main.js`
+2. the black title bar on top is in `src/js/components/Header.js`
+3. the bottom control button bar is in `src/js/components/Footer.js`
+4. Aframe page is in `src/js/components/pages/AFrame.js`
+5. main html file is in `public/index.html` but there's nothing useful in there. because react changes things within the 'app' class of the html when running to make things work.
+
+# standard create-react-app documentation below
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

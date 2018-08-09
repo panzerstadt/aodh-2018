@@ -1,20 +1,19 @@
 import React, { Component } from "react";
 import { Switch, Route } from "react-router-dom";
 import moment from "moment";
-import logo from "../../images/logo.svg";
 import "../../style/css/main.css";
 
-import Button from "@material-ui/core/Button";
+// import Button from "@material-ui/core/Button";
 
 import TweetsPage from "./pages/TweetsPage";
 import TweetsGrid from "./pages/TweetsGrid";
 import SentimentMap from "./pages/SentimentMap";
 import AFrame from "./pages/AFrame";
 
-import dummyTaipei from "../../data/dummy/dummy_taipei";
+// import dummyTaipei from "../../data/dummy/dummy_taipei";
 import dummyShibuya from "../../data/dummy/dummy_shibuya";
-import dummyHiroshima from "../../data/dummy/dummy_hiroshima";
-import dummyKochi from "../../data/dummy/dummy_kochi";
+// import dummyHiroshima from "../../data/dummy/dummy_hiroshima";
+// import dummyKochi from "../../data/dummy/dummy_kochi";
 
 let dummyData = dummyShibuya;
 let debug = true;
