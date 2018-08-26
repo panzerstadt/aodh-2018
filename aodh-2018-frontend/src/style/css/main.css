@@ -1,0 +1,13 @@
+h1, h2, h3, p , iframe{
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width: 500px)  { 
+    h1, h2, h3, p, iframe{
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+} 

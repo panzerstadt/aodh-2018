@@ -22,8 +22,9 @@ const styles = {
 
 class LabelBottomNavigation extends Component {
   state = {
-    value: "recents"
-  };
+//    value: "recents"
+    value: "folder" // initial value of footer menu, right? > Liqun
+};
 
   handleChange = (event, value) => {
     this.setState({ value });
@@ -39,6 +40,13 @@ class LabelBottomNavigation extends Component {
         onChange={this.handleChange}
         className={classes.root}
       >
+        <BottomNavigationAction
+          label="TOP"
+          value="folder"
+          component={Link}
+          to="/ar"
+          icon={<ChangeHistoryIcon />}
+        />
         <BottomNavigationAction
           label="Tweets"
           value="recents"
@@ -60,13 +68,6 @@ class LabelBottomNavigation extends Component {
           component={Link}
           to="/map"
           icon={<LocationOnIcon />}
-        />
-        <BottomNavigationAction
-          label="AR"
-          value="folder"
-          component={Link}
-          to="/ar"
-          icon={<ChangeHistoryIcon />}
         />
       </BottomNavigation>
     );

@@ -9,6 +9,9 @@ import TweetsPage from "./pages/TweetsPage";
 import TweetsGrid from "./pages/TweetsGrid";
 import SentimentMap from "./pages/SentimentMap";
 import AFrame from "./pages/AFrame";
+import About from "./pages/About";
+import AboutEn from "./pages/AboutEn";
+import QR from "./pages/QR";
 
 // import dummyTaipei from "../../data/dummy/dummy_taipei";
 import dummyShibuya from "../../data/dummy/dummy_shibuya";
@@ -107,6 +110,18 @@ class Main extends Component {
       return <AFrame data={this.state.data} />;
     };
 
+    const aboutComponent = () => {
+      return <About data={this.state.data} />;
+    };
+
+    const aboutEnComponent = () => {
+      return <AboutEn data={this.state.data} />;
+    };
+
+    const QRComponent = () => {
+      return <QR data={this.state.data} />;
+    };
+
     return (
       <div className="main">
         <Switch>
@@ -114,6 +129,9 @@ class Main extends Component {
           <Route exact path="/images" component={tweetsGridComponent} />
           <Route exact path="/map" component={sentimentMapCompoent} />
           <Route exact path="/ar" component={aFrameComponent} />
+          <Route exact path="/about" component={aboutComponent} />
+          <Route exact path="/aboutEn" component={aboutEnComponent} />
+          <Route exact path="/qr" component={QRComponent} />
         </Switch>
       </div>
     );
