@@ -26,11 +26,6 @@ const aframe_urls = [
     icon: JapanIcon
   },
   {
-    label: "Harajuku",
-    url: "https://ambiguous-vein-harajuku.glitch.me",
-    icon: JapanIcon
-  },
-  {
     label: "Taipei",
     url: "https://ambiguous-vein-taiwan.glitch.me",
     icon: TaiwanIcon
@@ -44,6 +39,11 @@ const aframe_urls = [
     label: "Seoul",
     url: "https://ambiguous-vein-seoul.glitch.me",
     icon: KoreaIcon
+  },
+  {
+    label: "Harajuku",
+    url: "https://ambiguous-vein-harajuku.glitch.me",
+    icon: JapanIcon
   }
 ];
 
@@ -92,11 +92,13 @@ export default class AFrame extends Component {
 
     return (
       <div className="page-size">
+        <a href="/about"> About this project </a><br /><br />
+        <a href="/QR"> QR-code for sharing to your friends </a>
         <TextField
           id="search"
-          label="Search for Cities"
+          label="Click or search the city"
           type="search"
-          helperText="e.g. Shibuya, Seoul, Bangkok..."
+          helperText="e.g. Shibuya, Harajuku, Seoul..."
           margin="normal"
           fullWidth
           onChange={this.handleUpdate.bind(this)}
