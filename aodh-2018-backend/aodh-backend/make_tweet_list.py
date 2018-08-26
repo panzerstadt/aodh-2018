@@ -89,7 +89,10 @@ def process_posts(posts=None, location=None, format=None, exact_location_only=Tr
             output_single['tweet'] = v['text']
             output_single['time'] = v['created_at']
             output_single['location'] = location['location']  # todo: grab location from post if not supplied
-            output_single['sentiment'] = analyze_sentiment(v['text']).score
+            try:
+                output_single['sentiment'] = analyze_sentiment(v['text']).score
+            except AttributeError:
+                output_single['sentiment'] = analyze_sentiment(v['text'])
 
             output.append(output_single)
 
@@ -137,10 +140,17 @@ def get_tweet_list_from_trends():
     pass
 
 
-def get_tweet_list_from_location_name(query=''):
-    posts = search_tweets_by_location_name(query=query)
+def get_tweet_list_from_location_name(query='', count=100):
+    print("calling twitter API to get {} tweets by location name: {}".format(count, query))
+    #posts = search_tweets_by_location_name(query=query)
     geocode = get_geocode(query=query)
-    t = process_posts(posts=posts, location=geocode)
+    lat = geocode['location']['lat']
+    lng = geocode['location']['lng']
+    posts = search_tweets_by_geolocation(lat=lat, lng=lng, radius='1', count=count)
+    print('processing posts!')
+    print('posts: ', posts)
+    print('geocode: ', geocode)
+    t = process_posts(posts=posts, location=geocode, format="aodh")
     return t
 
 
@@ -235,9 +245,9 @@ def __isDisaster(openfile):
     print('average sentiment of all tweets: {}'.format(chk))
 
     if chk < 0.3:
-        return True
+        return "true"
     else:
-        return False
+        return "false"
 
 
 def calculate_destination(lat, lng, radius, json_output):
@@ -255,28 +265,35 @@ def calculate_destination(lat, lng, radius, json_output):
         return __calculate__weighted__lat__long(lat, lng, radius, json_output)
 
 
-def get_tweet_list(query='', exact_location_only=True):
+def get_tweet_list(query='', exact_location_only=True, count=100):
     if type(query) == dict:
         lat = query['lat']
         lng = query['lng']
         disaster = query['disaster']
+
+        print('lat and lng', lat, lng)
         try:
             radius = query['radius']
-            output = get_tweet_list_from_geolocation(lat=lat, lng=lng, radius=radius, count=100,
+            output = get_tweet_list_from_geolocation(lat=lat, lng=lng, radius=radius, count=count,
                                                      disaster_boolean=disaster,
                                                      exact_location_only=exact_location_only)
         except:
             radius = 1
-            output = get_tweet_list_from_geolocation(lat=lat, lng=lng, count=100,
+            output = get_tweet_list_from_geolocation(lat=lat, lng=lng, count=count,
                                                      disaster_boolean=disaster,
                                                      exact_location_only=exact_location_only)
     else:
         """
-        not supported for hackathon
+        used for aframe generation
         """
-        lat = 0
-        lng = 0
-        output = get_tweet_list_from_location_name(query=query)
+        radius = 1
+        disaster = 0
+        geocode = get_geocode(query=query)
+        lat = geocode['location']['lat']
+        lng = geocode['location']['lng']
+        output = get_tweet_list_from_geolocation(lat=lat, lng=lng, count=count,
+                                                 disaster_boolean=disaster,
+                                                 exact_location_only=exact_location_only)
 
     output = bullshitify(output_dict=output)
     json_output = json.dumps(output, indent=4, ensure_ascii=False)

@@ -129,6 +129,7 @@ class Main extends Component {
           <Route exact path="/images" component={tweetsGridComponent} />
           <Route exact path="/map" component={sentimentMapCompoent} />
           <Route exact path="/ar" component={aFrameComponent} />
+          <Route exact path="/" component={aFrameComponent} />
           <Route exact path="/about" component={aboutComponent} />
           <Route exact path="/aboutEn" component={aboutEnComponent} />
           <Route exact path="/qr" component={QRComponent} />

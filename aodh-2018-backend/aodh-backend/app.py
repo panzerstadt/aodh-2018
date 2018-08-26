@@ -7,6 +7,8 @@ from flask_cors import CORS
 
 # component
 from make_tweet_list import get_tweet_list
+from generate_aframe import generate_aframe
+from api.here_maps_api import make_here_maps_request_url
 
 # pretty interface
 from flasgger import Swagger
@@ -55,6 +57,23 @@ def hello():
     return "hello {}".format(a)
 
 
+@application.route('/v1/aframe/', methods=['GET'])
+def aframe_by_query():
+    try:
+        location_query = request.args.get('location')
+    except:
+        return 'no location specified'
+
+    # run the aframe creation
+    location_map = make_here_maps_request_url(location=location_query)
+    location_tweets = {
+        "results": get_tweet_list(query=location_query, count=30),
+        "status": 1
+    }
+
+    return render_template("aframe.html", location=location_map, tweet_content=location_tweets)
+
+
 @application.route('/v1/tweets/query/', methods=['GET'])
 def return_latest_tweets_by_query():
     """
@@ -84,7 +103,7 @@ def return_latest_tweets_by_query():
     elif request.method == 'POST':
         query_input = 'osaka'
 
-    return jsonify(get_tweet_list(query=query_input))
+    return jsonify(get_tweet_list(query=query_input, count=100))
 
 
 @application.route('/v1/tweets/location/', methods=['GET'])

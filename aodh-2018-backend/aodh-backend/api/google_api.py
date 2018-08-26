@@ -231,7 +231,7 @@ def analyze_sentiment_api(text=''):
     return sentiment
 
 
-def analyze_sentiment(text='', debug=False):
+def analyze_sentiment(text='', debug=True):
     global sentiment_db
 
     db_entities_cache = sentiment_db

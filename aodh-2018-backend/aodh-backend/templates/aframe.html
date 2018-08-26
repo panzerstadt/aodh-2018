@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sentiments in AR</title>
+    <meta name="description" content="Sentiments in AR">
+    <script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore.js" type="text/javascript"></script>
+    <style>
+      #btn{
+       position:fixed;
+       bottom:20px;
+       left:20px;
+       z-index:999;
+        width:60px;
+        height:60px;
+        background-color: rgba(0, 0, 0, 0.4);
+      }
+
+      #btn img{
+        width:40px;
+        height:40px;
+        padding: 10px;
+      }
+
+      .a-enter-vr-button {
+        width:60px;
+        height:60px;
+        padding: 10px;
+      }
+    </style>
+    <script>
+      AFRAME.registerComponent('alpha-test', {
+        dependencies: ['material'],
+        init: function () {
+          var material = this.el.getObject3D('mesh').material;
+          material.alphaTest = 0.1;
+          material.needsUpdate = true;
+        }
+      });
+    AFRAME.registerComponent('audiohandler', {
+       init:function() {
+       let playing = false;
+       let audio = this.el.components.sound;
+        this.el.setAttribute("src", "https://cdn.glitch.com/c004c0ac-d32f-474f-8997-37599f718746%2Fgentex_cammander_3_code_3_horn-Brandon-938131891.mp3?1532233528050");
+
+      var btn = document.getElementById("btn");
+       btn.addEventListener('mousedown', () => {
+
+         if(!playing) {
+            audio.playSound();
+            btn.innerHTML = '<img id="volume" src="https://cdn.glitch.com/e91484c9-95a2-40b3-a5b6-acc2db87a4ef%2Fsound_on.png?1532242974343"/>';
+         } else {
+            audio.stopSound();
+            btn.innerHTML = '<img id="volume" src="https://cdn.glitch.com/e91484c9-95a2-40b3-a5b6-acc2db87a4ef%2Fwhite_off.png?1532242974704"/>';
+         }
+       playing = !playing;
+       });
+       }
+       })
+    </script>
+
+  </head>
+  <body>
+    <div id="btn">
+      <img src="https://cdn.glitch.com/e91484c9-95a2-40b3-a5b6-acc2db87a4ef%2Fwhite_off.png?1532242974704"/>
+    </div>
+    <a-scene id="scene1" cursor="rayOrigin:mouse" fog="type: linear; color: #fcc; near:1000; far:6000">
+
+      <a-assets>https://cdn.glitch.com/0d293ae3-91f0-498c-9dfb-d8f39627bcd7%2Fsegnet_sample.png?1531566210180
+        <img id="transpImage" crossorigin="anonymous" src="https://cdn.glitch.com/c004c0ac-d32f-474f-8997-37599f718746%2F08_result_masked_flipped.png?1532160933714">
+        <img id="fixedImage" crossorigin="anonymous" src="https://cdn.glitch.com/c004c0ac-d32f-474f-8997-37599f718746%2F08_flipped.jpg?1532160929329">
+        <img id="ceiling_image" crossorigin="anonymous" src="{{location}}">
+        <img id="indicator" crossorigin="anonymous" src="https://cdn.glitch.com/c004c0ac-d32f-474f-8997-37599f718746%2Fcircle4.png?1532174882555">
+      </a-assets>
+
+      <a-image  id="buildings"  position="0 0 0" geometry="primitive: sphere; radius: 100"
+                  material="color:#fcc;
+                            shader: flat;
+                            src: #transpImage;
+                            side: back"
+                  transparent="true" alpha-test="0.5">
+      </a-image>
+      <a-entity id="buildings_with_sky"  position="0 0 0" geometry="primitive: sphere; radius: 4000"
+                  material="color:#fcc;
+                            shader: flat;
+                            src: #fixedImage;
+                            side: back">
+      </a-entity>
+
+      <a-sound  audiohandler id="destinationIndicator" volume="500" autoplay="false"
+                geometry="primitive: plane"
+                position="0 300 -200"
+                rotation="90 0 0"
+                material="color: #f00; src: #indicator" transparent="true" alpha-test="0.5">
+                <a-animation attribute="geometry.height" from="2000" to="100" dur="3000" repeat="indefinite" easing="ease-out"></a-animation>
+                <a-animation attribute="geometry.width" from="2000" to="100" dur="3000" repeat="indefinite" easing="ease-out"></a-animation>
+      </a-sound>
+<!--       <a-text position="0 300 -500" value="evaculation\narea" color="#f00" height="800" width="800" align="center"> </a-text> -->
+
+<!--         <a-image position = "0 1000 -1" width="5000" height="5000" src="#transp_ceiling_image" transparent="true" rotation="90 0 0" color= "#0ff"></a-image> -->
+      <a-image position = "0 1000 -1" width="6000" height="6000" src="#ceiling_image" opacity="0.5" rotation="90 0 0" color= "#f00"></a-image>
+    </a-scene>
+
+    <script>
+      // .slice(53,75)
+       var farest = 1000;
+       var ceiling_height = 1000;
+       var compiled = _.template(
+         '<% _.each(results.tweets, function(item) { %>'
+       + '<% var s = Math.floor(item.sentiment*0.99*15); %>'
+         // red   16 to 0 when   sentiment 0.0 to 0.5
+         //       0       after  sentiment 0.5
+       + '<% var reda   = Math.floor(15 - s*2); if(reda < 0)    { reda = 0; } %>'
+       + '<% var redb   = Math.floor(s*2 - 15); if(redb < 0)    { redb = 0; } %>'
+       + '<% var red    = Math.max(reda ,redb); %>'
+       + '<% var red    = Math.floor(red*0.5); %>'
+       + '<% var red16   = red.toString(16); %>'
+         // green 0 to 16 when   sentiment 0.0 to 0.5
+         //       16      after  sentiment 0.5
+       + '<% var green = Math.floor(s);      if(green > 15) { green = 15; }; if(green < 0) { green = 0; } %>'
+       + '<% var green16   = green.toString(16); %>'
+         // blue  0       before sentiment 0.5
+         //       0 to 16 when   sentiment 0.5 to 1.0
+       + '<% var blue  = Math.floor(s);  if(blue < 0)   { blue = 0; } %>'
+       + '<% var blue16 = blue.toString(16); %>'
+       // + '<% console.log(red16);console.log(green16);console.log(blue16); %>'
+        + '<% console.log(s+":"+red16+green16+blue16); %>'
+       + '<a-entity class="clickable" geometry="primitive:box; width:10; depth:10; height: 10"'
+       + ' material="color: #<%= red16 %><%= green16 %><%= blue16 %>  ; shader:flat" '
+       + ' position="<%= (item.lat - 0.5)*2*farest  %>'
+//       + '           <%= ceiling_height*0.5*(item.time)+400 %>'
+       + '           <%= (item.time)*100+400 %>'
+       + '           <%= (item.lng - 0.5)*2*farest %>">'
+       + '  <a-animation attribute="material.opacity" from="0.5" to="0.1" dur="1000" direction="alternate" repeat="indefinite"'
+       + '    delay="<%= ceiling_height*0.8*(item.time) + 20 %> "> </a-animation>'
+       + '  <a-animation attribute="position" '
+       + '    to="<%= (item.lat -0.5)*2*farest %> '
+//       + '        <%= ceiling_height*0.2*(item.time) + 450 %> '
+       + '           <%= (item.time)*300+200 %>'
+       + '        <%= (item.lng -0.5)*2*farest %>" '
+       + '    dur="<%= 1000*(item.time)+1000 %>"'
+       + '    direction="alternate" repeat="indefinite"> </a-animation>'
+       + '  <a-animation attribute="geometry.height" from="0" to="<%= (1 - item.time)*300 %>" '
+       + '    dur="200"  direction="alternate" repeat="indefinite"> </a-animation>'
+       + ' </a-entity> <% }); %>');
+       {% autoescape false %}
+       var source = {{tweet_content}};
+       {% endautoescape %}
+        $("#scene1").append(compiled(source));
+        console.log(source);
+        console.log(compiled(source));
+
+      </script>
+  </body>
+</html>
+<!--side: back;>

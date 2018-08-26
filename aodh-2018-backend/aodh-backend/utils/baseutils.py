@@ -137,6 +137,7 @@ def bullshitify(output_dict, max_range=0.05):
         "lng": []
     }
     for tw in output_dict:
+        print(tw)
         u_lat = unique_dict['lat']
         u_lng = unique_dict['lng']
 
