@@ -239,7 +239,10 @@ def __isDisaster(openfile):
     for i in configForDisaster:
         sentimentsForDisaster.append(i['sentiment'])
 
-    chk = sum(sentimentsForDisaster) / len(sentimentsForDisaster)
+    try:
+        chk = sum(sentimentsForDisaster) / len(sentimentsForDisaster)
+    except ZeroDivisionError:
+        return 'false'
 
     print('all sentiments: {}'.format(sentimentsForDisaster))
     print('average sentiment of all tweets: {}'.format(chk))

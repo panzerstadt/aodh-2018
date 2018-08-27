@@ -26,6 +26,7 @@ sentiment_db = load_db(database_path=sentiment_db_filepath, debug=False)
 
 from hidden.hidden import GoogleAPI
 API_KEY = GoogleAPI().api_key
+API_KEY_STREET_VIEW = GoogleAPI().api_key_street_view
 
 def translate_text_api(text='', target='ja', debug=False):
     """Translates text into the target language.
@@ -326,8 +327,9 @@ def get_geocode(query='Osaka', with_bounds=False):
 
     response = gmaps.geocode(query)
     if len(response) > 1:
+        print('ambiguous results, more than 1. picking the top one.')
         [print(x) for x in response]
-        raise
+
     location = response[0]['geometry']
 
 

@@ -169,6 +169,7 @@ def return_latest_tweets_by_coord():
     return jsonify(response)
 
 
-# add ssl_context='adhoc' to application.run() to generate a self-signed certificate
-application.run(host='0.0.0.0', port=5000, debug=False)
-print('a flask app is initiated at {0}'.format(application.instance_path))
+if __name__ == "__main__":
+    # add ssl_context='adhoc' to application.run() to generate a self-signed certificate
+    application.run(host='0.0.0.0', port="5000", debug=False)
+    print('a flask app is initiated at {0}'.format(application.instance_path))

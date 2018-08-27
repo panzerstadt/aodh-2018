@@ -17,6 +17,7 @@ class Twitter2:
 class GoogleAPI:
     def __init__(self):
         self.api_key = 'AIzaSyCLrKyaBaXSoYYdEirl3GCOGwZxVD_zcmI'
+        self.api_key_street_view = "AIzaSyCcbQ91A2Btac76aXa35ipq6g1WdvZH12g"
 
 
 class Resas:
