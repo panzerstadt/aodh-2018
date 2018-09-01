@@ -1,5 +1,8 @@
 # AODH 2018 team standy
 
+## demo!
+https://aodh-2018-standy.now.sh/
+
 ## folder structure
 1. `./aodh-2018-backend/` - backend that serves tweet data and some calculations
 2. `./aodh-2018-frontend/` - frontend that serves a react app for navigation
