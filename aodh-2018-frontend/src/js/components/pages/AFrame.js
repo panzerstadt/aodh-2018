@@ -7,6 +7,7 @@ import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemText from "@material-ui/core/ListItemText";
 import Divider from "@material-ui/core/Divider";
 import TextField from "@material-ui/core/TextField";
+import Typography from "@material-ui/core/Typography";
 
 import JapanIcon from "../../../images/jp.png";
 import KoreaIcon from "../../../images/kr.png";
@@ -67,10 +68,9 @@ export default class AFrame extends Component {
       width: "30px"
     };
 
-    const imgStyleTW = {
-      height: "20px",
-      width: "20px",
-      padding: "5px"
+    const linkStyle = {
+      padding: 20,
+      textDecoration: "none"
     };
 
     const filtered = aframe_urls.filter(
@@ -92,8 +92,23 @@ export default class AFrame extends Component {
 
     return (
       <div className="page-size">
-        <a href="/about"> About this project </a><br /><br />
-        <a href="/QR"> QR-code for sharing to your friends </a>
+        <Typography
+          component="a"
+          href="/about"
+          style={linkStyle}
+          color="textSecondary"
+        >
+          About this project
+        </Typography>
+        <Typography
+          component="a"
+          href="/QR"
+          style={linkStyle}
+          color="textSecondary"
+        >
+          QR-code for sharing to your friends
+        </Typography>
+
         <TextField
           id="search"
           label="Click or search the city"
