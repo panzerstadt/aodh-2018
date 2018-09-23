@@ -85,7 +85,7 @@ Members in AODH2018: 　Koichi Okada (JAPAN) Rohit Kumar Singh (INDIA) Tang Li Q
 <br /><br /><br />
 <h2  align="left"> Resources </h2>
         <p align="left">
-          <a href="https://1drv.ms/p/s!Ajr-EdBHcZP-gf48aYwElgUhHh64CA"> Powerpoint presentation (35MB)</a>
+          <a href="https://1drv.ms/p/s!Ajr-EdBHcZP-gf48aYwElgUhHh64CA"> Powerpoint presentation (63MB)</a>
           <br />
           <a href="https://github.com/panzerstadt/aodh-2018"> Github repository</a>
         </p>
