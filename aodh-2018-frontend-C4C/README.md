@@ -1,4 +1,4 @@
-# AODH 2018 team standy frontend
+# Signs of Disaster - IBM Call for Code
 it's a react app.
 
 ## requirements
