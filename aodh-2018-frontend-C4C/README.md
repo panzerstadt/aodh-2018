@@ -1,6 +1,21 @@
 # Signs of Disaster - IBM Call for Code
 it's a react app.
 
+## Steps to Install "Signs of Disaster" App Front-end on IBM cloud:
+1. Login to IBM cloud and create compute node using IBM SDK for Node.js
+2. Complete the formalities (App name, Hostname (project name by default). Better to proceed with deafults values for remaining fields.
+3. Now on your local system(PC) install IBM command line.
+4. IBM Cloud Login: ibmcloud login
+5. IBM Cloud Set Target: ibmcloud target -cf
+6. List Applications in ibmcloud: ibmcloud cf apps
+7. Check log: ibmcloud cf logs "Signs Of Disaster" --recent
+8. Deploy Application: ibmcloud cf push "App Name" -p <path to your project>
+
+Example: [ibmcloud cf push "Signs Of Disaster" -p C:\aodh-2018-CallForCodemaster\aodh-2018-master\aodh-2018-frontend]
+
+## Glitch Source Code Link:
+https://glitch.com/edit/#!/clean-the-code
+
 ## requirements
 node js
 - [install from here](https://nodejs.org/en/download/)
