@@ -62,7 +62,7 @@ export default class About extends Component {
           <iframe
             width="450"
             height="253"
-            src="https://www.youtube.com/embed/45T6I5MaNTU"
+            src="https://www.youtube.com/embed/bgctKj-AWes"
             frameborder="0"
             allow="autoplay; encrypted-media"
             allowfullscreen
@@ -152,21 +152,21 @@ export default class About extends Component {
 
           <br />
           <h2 align="left"> About us </h2>
-          <p align="left">
+          {/* <p align="left">
             We “STANDY” are a team formed in ASIA OPEN DATA HACKATHON 2017 held
             among four Asian countries and won the top prize there.
-          </p>
+          </p> */}
           <p align="left">
-            Members in AODH2018: 　Koichi Okada (JAPAN) Rohit Kumar Singh
+            Team STANDY: Koichi Okada (JAPAN) Rohit Kumar Singh
             (INDIA) Tang Li Qun (MALAYSIA) Satoshi Yanagisawa (JAPAN)
           </p>
           <br />
           <br />
           <h2 align="left"> Resources </h2>
           <p align="left">
-            <a href="https://1drv.ms/p/s!Ajr-EdBHcZP-gf48aYwElgUhHh64CA">
+            <a href="https://1drv.ms/p/s!Ajr-EdBHcZP-goFrhLnSGx_7Hf9CVA">
               {" "}
-              Powerpoint presentation (35MB)
+              Powerpoint presentation (133MB)
             </a>
             <br />
             <a href="https://github.com/panzerstadt/aodh-2018">

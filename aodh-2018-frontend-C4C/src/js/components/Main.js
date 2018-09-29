@@ -12,6 +12,7 @@ import AFrame from "./pages/AFrame";
 import About from "./pages/About";
 import AboutEn from "./pages/AboutEn";
 import QR from "./pages/QR";
+import IOS from "./pages/IOS";
 
 // import dummyTaipei from "../../data/dummy/dummy_taipei";
 import dummyShibuya from "../../data/dummy/dummy_shibuya";
@@ -122,6 +123,10 @@ class Main extends Component {
       return <QR data={this.state.data} />;
     };
 
+    const IOSComponent = () => {
+      return <IOS data={this.state.data} />;
+    };
+
     return (
       <div className="main">
         <Switch>
@@ -133,6 +138,7 @@ class Main extends Component {
           <Route exact path="/about" component={aboutComponent} />
           <Route exact path="/aboutEn" component={aboutEnComponent} />
           <Route exact path="/qr" component={QRComponent} />
+          <Route exact path="/ios" component={IOSComponent} />
         </Switch>
       </div>
     );
