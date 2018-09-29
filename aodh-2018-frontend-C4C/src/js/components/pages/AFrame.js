@@ -104,7 +104,15 @@ export default class AFrame extends Component {
           style={linkStyle}
           color="textSecondary"
         >
-          About this project
+          <u>About this project</u>
+        </Typography>
+		<Typography
+          component="a"
+          href="/IOS"
+          style={linkStyle}
+          color="textSecondary"
+        >
+          <u>Realtime Mode - iOS App</u>
         </Typography>
         <Typography
           component="a"
@@ -112,7 +120,7 @@ export default class AFrame extends Component {
           style={linkStyle}
           color="textSecondary"
         >
-          QR-code for sharing to your friends
+          <u>QR-code for sharing to your friends</u>
         </Typography>
 
         <TextField
