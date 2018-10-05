@@ -1,7 +1,7 @@
 # AODH 2018 team standy
 
 ## demo!
-https://aodh-2018-standy.now.sh/
+https://signs-of-disaster.mybluemix.net/
 
 ## folder structure
 1. `./aodh-2018-backend/` - backend that serves tweet data and some calculations
