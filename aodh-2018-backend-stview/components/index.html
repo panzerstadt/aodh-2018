@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  <style type="text/css">
+    body {
+      margin: 0;
+    }
+
+    .gallery-item {
+      float: left;
+      display: inline;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+    }
+
+    .preloader {
+      width: 0%;
+      height: 6px;
+      background: #d9681d;
+      position: fixed;
+      top: 0px;
+      left: 0px;
+      z-index: 1000;
+      -webkit-transition: height 0.25s ease-in;
+      -moz-transition: height 0.25s ease-in;
+      -ms-transition: height 0.25s ease-in;
+      -o-transition: height 0.25s ease-in;
+      transition: height 0.25s ease-in;
+    }
+  </style>
+  <title>google-panorama-equirectangular</title>
+</head>
+
+<body>
+  <div class="preloader"></div>
+  <canvas id="sv-canvas"></canvas>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAX6_9JCRf0C75DMXVsjOZb2l04qKvd2qU"></script>
+  <script src="bundle.js"></script>
+</body>
+
+</html>

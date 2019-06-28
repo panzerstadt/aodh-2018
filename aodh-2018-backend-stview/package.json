@@ -1,0 +1,21 @@
+{
+  "name": "aodh-2018-backend-stview",
+  "version": "1.0.0",
+  "description": "returns equirectangular street views from location query",
+  "main": "index.js",
+  "author": "panzerstadt",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "array-shuffle": "^1.0.1",
+    "awesome-streetview": "^1.4.2",
+    "dom-events": "^0.1.1",
+    "google-panorama-by-location": "^4.1.1",
+    "google-panorama-equirectangular": "^2.1.0",
+    "puppeteer": "^1.8.0",
+    "restify": "^7.2.1"
+  }
+}

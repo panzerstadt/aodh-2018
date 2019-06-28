@@ -12,6 +12,8 @@ import Typography from "@material-ui/core/Typography";
 import JapanIcon from "../../../images/jp.png";
 import KoreaIcon from "../../../images/kr.png";
 import TaiwanIcon from "../../../images/tw.png";
+import IndiaIcon from "../../../images/india.png";
+import MalaysiaIcon from "../../../images/malaysia.png";
 
 // import aframe_html from "../../../data/aframe-html/aframe.html";
 const webpage_shibuya = "https://ambiguous-vein-rshubuya.glitch.me";
@@ -45,6 +47,16 @@ const aframe_urls = [
     label: "Harajuku",
     url: "https://ambiguous-vein-harajuku.glitch.me",
     icon: JapanIcon
+  },
+  {
+    label: "New Delhi",
+    url: "https://ambiguous-vein-rnewdelhi.glitch.me",
+    icon: IndiaIcon
+  },
+  {
+    label: "Malaysia",
+    url: "https://ambiguous-vein-rmalaysia.glitch.me",
+    icon: MalaysiaIcon
   }
 ];
 
@@ -162,6 +174,11 @@ export default class AFrame extends Component {
             <ListItemText primary="Seoul" />
           </ListItem> */}
         </List>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
       </div>
     );
   }

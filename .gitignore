@@ -4,6 +4,8 @@
 # configs
 config.json
 hidden.py
+*hidden.py
+
 
 # Logs
 logs

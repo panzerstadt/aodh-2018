@@ -169,6 +169,11 @@ def return_latest_tweets_by_coord():
     return jsonify(response)
 
 
+@application.route('v1/arframe/search/', methods=['GET'])
+def search():
+    pass
+
+
 if __name__ == "__main__":
     # add ssl_context='adhoc' to application.run() to generate a self-signed certificate
     application.run(host='0.0.0.0', port="5000", debug=False)
