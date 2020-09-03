@@ -15,7 +15,7 @@
     "dom-events": "^0.1.1",
     "google-panorama-by-location": "^4.1.1",
     "google-panorama-equirectangular": "^2.1.0",
-    "puppeteer": "^1.8.0",
+    "puppeteer": "^1.13.0",
     "restify": "^7.2.1"
   }
 }
