@@ -64,7 +64,7 @@ Jinja2==2.10
 jmespath==0.9.3
 jsonschema==2.6.0
 kwconfig==1.1.7
-lxml==4.2.3
+lxml==4.6.5
 many-stop-words==0.2.2
 MarkupSafe==1.0
 mecab-python3==0.7
